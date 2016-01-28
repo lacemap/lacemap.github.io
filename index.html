@@ -7,14 +7,29 @@
 </head>
 <body>
   <h1>Points of interest related to handmade lace</h1>
-  <iframe src="lacemap" style="width: 650px; height: 500px; padding: 0">
-    No support for iframes, <a href="lacemap">the map</a> without hints.
+  <script>
+    function toggle() {
+      var el = document.getElementById("toggle")
+      el.src = (el.src.search("index.html") >= 0 ? "lacemap/searchable.html" : "lacemap/index.html")
+    }
+  </script>
+  <iframe id="toggle" src="lacemap/index.html" style="width: 650px; height: 500px; padding: 0; border: none">
+    <a>No support for iframes, <a href="lacemap/index.html">the map</a> without hints.</a>
   </iframe>
+  <p>
+    <input type="button" onclick="toggle()" value="toggle"/> between a clustered and searchable map.
+    Select a blue marker for details of an object.
+  </p>
+  <p>
+    Something to add or correct? Please create an <a href="https://github.com/lacemap/lacemap/wiki#a-sugestion-for-a-new-item-or-a-correction"
+    >issue</a> or pull-request. <a href="https://github.com/lacemap/lacemap/commits/gh-pages/map-data.js"
+    >Change history</a>.
+  </p>
+  <p>Green/orange circles:</p>
   <ul>
-    <li>Click a marker for details, <a href="https://github.com/lacemap/lacemap/blob/gh-pages/map-data.js"
-       >list</a>, <a href="https://github.com/lacemap/lacemap/commits/gh-pages/map-data.js"
-       >changed entries</a>.</li>
-    <li>Mouse over a cluster (circle with the number of markers) to see the bounds of its children, click to zoom to those bounds.</li>
-    <li>Click the map to get coordinates, swap the numbers for google maps.</li>
+    <li>Show the number of represented objects.</li>
+    <li>Hover with the mouse to see the bounds of the represented objects.</li>
+    <li>Click to zoom in on the area.</li>
   </ul>
+  <p>Click elsewhere on the map for coordinates, swap both numbers for google maps.</p>
 </body>
