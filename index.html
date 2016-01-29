@@ -4,6 +4,10 @@
   <title>Lace map</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    iframe {width: 650px; height: 500px; padding: 0; border: none; }
+    p { width: 650px; }
+  </style>
 </head>
 <body>
   <h1>Points of interest related to handmade lace</h1>
@@ -13,13 +17,13 @@
       el.src = (el.src.search("index.html") >= 0 ? "lacemap/searchable.html" : "lacemap/index.html")
     }
   </script>
-  <iframe id="toggle" src="lacemap/index.html" style="width: 650px; height: 500px; padding: 0; border: none">
+  <iframe id="toggle">
     <a>No support for iframes, <a href="lacemap/index.html">the map</a> without hints.</a>
   </iframe>
   <p>
     <input type="button" onclick="toggle()" value="toggle"/> between a clustered and searchable map.
     Select a blue marker for details of an object.
-    Zoom in via the grean/orange circles (or conventinal methods) to find more blue markers.
+    Zoom in via the green/orange circles (or conventinal methods) to find more blue markers.
     The numbers in the circkles show how many markers they represent.
     Hovering over the circles reveals the bounds of the represented markers.
   </p>
