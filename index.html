@@ -11,15 +11,17 @@
 </head>
 <body>
   <h1>Points of interest related to handmade lace</h1>
-  <script>
-    function toggle() {
-      var el = document.getElementById("toggle")
-      el.src = (el.src.search("index.html") >= 0 ? "lacemap/searchable.html" : "lacemap/index.html")
-    }
-  </script>
   <iframe id="toggle" src="lacemap/index.html">
     <a>No support for iframes, <a href="lacemap/index.html">the map</a> without hints.</a>
   </iframe>
+  <script>
+    var el = document.getElementById("toggle")
+    function toggle() {
+      el.src = (el.src.search("mapMode=searchable") >= 0
+               ? "lacemap/index.html"
+               : "lacemap/index.html?mapMode=searchable")
+    }
+  </script>
   <p>
     <input type="button" onclick="toggle()" value="toggle"/> between a clustered and searchable map.
   </p>
