@@ -26,7 +26,7 @@ Republish the map on your own site
 
 You should have permission to put HTML code (including JavaScript and style sheets) in your pages.
 
-Copy the lines below and your map will stay synchronised with the content maintained here.
+Copy the lines below and your map will stay synchronised with the content maintained by this project.
 A few lines should be put in the `<body></body>` section of your page,
 somewhere between your own words in your own language to explain the map, the [demo] page might inspire.
 Another bunch of lines should be placed in the `<head></head>` section of your page.
