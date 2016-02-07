@@ -4,40 +4,73 @@
   <title>Lace map</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+  <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+
+  <link rel="stylesheet" href="http://cdn.rawgit.io/Leaflet.markercluster/v0.4.0-hotfix.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/Leaflet/Leaflet.markercluster/v0.4.0-hotfix.1/dist/MarkerCluster.Default.css" />
+  <script src="https://raw.githubusercontent.com/Leaflet/Leaflet.markercluster/v0.4.0-hotfix.1/dist/leaflet.markercluster.js"></script>
+
+  <script src="https://raw.githubusercontent.com/krisk/Fuse/v2.0.0/src/fuse.min.js"></script>
+  <script src="http://cdn.rawgit.com/naomap/leaflet-fusesearch/ac689f3/src/leaflet.fusesearch.js"></script>
+  <link rel="stylesheet" href="http://cdn.rawgit.com/naomap/leaflet-fusesearch/2df4ea5/src/leaflet.fusesearch.css" />
+
+  <script src="map-data.js"></script>
+  <script src="map-config.js"></script>
   <style>
-    iframe {width: 650px; height: 380px; padding: 0; border: none; }
-    p { width: 650px; }
+    body { max-width: 40em; margin-left: auto; margin-right: auto; }
+    #map { height: 33em; }
   </style>
 </head>
 <body>
   <h1>Points of interest related to handmade lace</h1>
-  <iframe id="toggle" src="lacemap/index.html">
-    <a>No support for iframes, <a href="lacemap/index.html">the map</a> without hints.</a>
-  </iframe>
+  <p>
+    A map to <a href="https://github.com/lacemap/lacemap.github.io/"
+    >share</a> on websites of lace guilds, teachers, artists and collectors.
+    Anyone can contribute, a team of volunteers moderates it centrally.
+  </p>
+  <div id="map"></div>
   <script>
-    var el = document.getElementById("toggle")
-    function toggle() {
-      el.src = (el.src.search("mapMode=searchable") >= 0
-               ? "lacemap/index.html"
-               : "lacemap/index.html?mapMode=searchable")
-    }
+    laceMap.searchable = (location + "").search('mapMode=searchable') >= 0
+    laceMap.load({
+      containerID: 'map',
+      searchable: laceMap.searchable
+    });
   </script>
   <p>
-    <input type="button" onclick="toggle()" value="toggle"/> between a clustered and searchable map.
-  </p>
-  <p>
-    Something to add or correct? Please create an <a href="https://github.com/lacemap/lacemap/wiki#a-sugestion-for-a-new-item-or-a-correction"
-    >issue</a> or pull-request. <a href="https://github.com/lacemap/lacemap/commits/gh-pages/map-data.js"
-    >Change history</a>.
+    <input type="button"
+           onclick="location = (laceMap.searchable ? 'index.html' : 'index.html?mapMode=searchable')"
+           value="toggle"
+    /> between a clustered and searchable map.
   </p>
   <p>
     Select a blue marker for details of an object.
-    Select an item from search results to find its location on the map.
+    Select an item from the search results to find its location on the map.
+    Search results are restricted to the visible area of the map.
   </p>
   <p>
-    Zoom in via the green/orange circles (or conventinal methods) to find more markers.
+    Zoom in/out or drag the map for more object in the region you are interested in.
+    You can zoom in with the colored circles or general methods like the +/- buttons or mouse wheel.
     The numbers in the circles show how many markers they represent.
     Hovering over the circles reveals the bounds of the represented markers.
   </p>
-  <p>Click elsewhere on the map for coordinates, swap both numbers for google maps.</p>
+  <p>
+    <a href="https://github.com/lacemap/lacemap.github.io/commits/gh-pages/map-data.js" class="Link"
+    >Overview</a> of corrections and additions.
+  </p>
+  <h2>Get involved</h2>
+  <p>
+    Please help us to improve the map and its content.
+    Familiar with GitHub pull requests?
+    Go ahead with <a href="https://github.com/lacemap/lacemap.github.io/"
+    >lacemap.github.io</a>,
+    otherwise create an <a href="https://github.com/lacemap/lacemap.github.io/issues"
+    >issue</a> and describe the desired correction or addition.
+    A new item requires at least a name and brick-and-mortar address.
+    For the proper coordinates you can zoom in on the map and click on the intended structure.
+    Please specify contact information for a museum, preferable a website,
+    not an email address as there is no protection against robots.
+    A short remark about the collection or opening hours is also possible.
+  </p>
 </body>
