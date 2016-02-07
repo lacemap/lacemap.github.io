@@ -1,6 +1,7 @@
 Advanced options
 ================
 
+The basic steps to embed the lacemap in your own website are explained on https://github.com/lacemap/lacemap.github.io/
 The further down this page, the more JavaScript experience is assumed.
 
 
@@ -57,4 +58,3 @@ More
 The map is assembled with http://leafletjs.com/ which has more options an plug-ins.
 If you like to add something else, download and adjust your own raw copy of
 [map-config.js](https://github.com/lacemap/lacemap.github.io/blob/master/map-config.html).
-
