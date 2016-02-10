@@ -23,21 +23,24 @@ Get involved
 
 Scroll down on the [demo] page to help with the content of the map or join the [moderators].
 
-Spread the news about the map on your blog, pinterest, facebook, by mouth or whatever means you have.
-
 Enhance the wiki pages.
 
-If your want to contribute with a translation but don't have a website to publish it (as explained on the [readme]):
+Spread the news about the map on your blog, pinterest, facebook, by mouth or whatever means you have.
+Images you can download and reuse: [100x100](https://avatars3.githubusercontent.com/u/16852616),
+[615x322](http://www.lokk.nl/images/musea/museakaart.png), make your own screenshot
+or embed the actual map as explained on the [readme](https://github.com/lacemap/lacemap.github.io/)
+
+If your want to contribute with a translation but don't have a website that allows you to publish it:
 
 * [fork] the project
-* remove the files `map-config.js` and `map-data.js` (follow their [links](https://github.com/lacemap/lacemap.github.io) and select the garbage bin)
+* remove the files `map-config.js` and `map-data.js` (follow their links on the home page of your fork and select the garbage bin)
 * complete the last two URLs in `index.html`
 <pre>
   `<script src="https://raw.githubusercontent.com/lacemap/lacemap.github.io/master/map-data.js"></script>`
   `<script src="https://raw.githubusercontent.com/lacemap/lacemap.github.io/master/map-config.js"></script>`
 </pre>
 * check the result on `https://github.io/YOUR-ACCOUNT/lacemap.github.io/`
-* edit the `index.html`, `README.md` and wiki pages to replace the English text with your own wording in your own language. Oh, and don't forget to translate the project description just below the tabs on the home page of your fork.
+* edit the `index.html`, `README.md` and wiki pages in your own fork to replace the English text with your own wording in your own language. Oh, and don't forget to translate the project description just below the tabs on the home page of your fork.
 
 [fork]: https://github.com/lacemap/lacemap.github.io/#fork-destination-box
 [map]: http://lacemap.github.io/
