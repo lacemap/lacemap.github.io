@@ -39,8 +39,10 @@ If your want to contribute with a translation but don't have a website that allo
   `<script src="https://raw.githubusercontent.com/lacemap/lacemap.github.io/master/map-data.js"></script>`
   `<script src="https://raw.githubusercontent.com/lacemap/lacemap.github.io/master/map-config.js"></script>`
 </pre>
-* Edit the `index.html`, `README.md` and wiki pages in your own fork to replace the English text with your own wording in your own language. Oh, and don't forget to translate the project description just below the tabs on the home page of your fork.
+* Edit the `index.html` an `README.md` in your own fork to replace the English text with your own wording in your own language.
 * Check the result on `https://github.io/YOUR-ACCOUNT/lacemap.github.io/`.
+* Choose to drop or translate the wiki pages in your own fork.
+  Oh, and don't forget to translate the project description just below the tabs on the home page of your fork.
 
 [fork]: https://github.com/lacemap/lacemap.github.io/#fork-destination-box
 [map]: http://lacemap.github.io/
