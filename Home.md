@@ -11,7 +11,7 @@ To receive email alerts about discussions, hit the "watch" button almost on top 
 
 These RSS feeds alert you when something changes in:
 * the [map page or its readme](https://github.com/lacemap/lacemap.github.io/commits/master.atom) in general
-* thr [wiki pages](https://github.com/lacemap/lacemap.github.io/wiki.atom)
+* the [wiki pages](https://github.com/lacemap/lacemap.github.io/wiki.atom)
 
 Alternatively visit the change history of:
 * just [map items](https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js)
