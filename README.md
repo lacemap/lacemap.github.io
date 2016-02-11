@@ -40,7 +40,7 @@ Another bunch of lines should be placed in the `<head></head>` section of your p
 
 Note the mandatory fixed height and curly brackets within the round brackets.
 Choose your own height and an id that is unique on your page.
-See the [wiki](../../wiki/Advanced-options) pages for more advanced options.
+See the wiki pages for more [advanced options](../../wiki/Advanced-options).
 By default Open Street Map tiles are used, please check their [usage policy].
 
 ### Lines to put in the head section
