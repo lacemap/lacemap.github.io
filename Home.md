@@ -31,6 +31,9 @@ Images you can download and reuse: [100x100](https://avatars3.githubusercontent.
 [615x322](http://www.lokk.nl/images/musea/museakaart.png), make your own screenshot
 or embed the actual map as explained on the [readme](https://github.com/lacemap/lacemap.github.io/)
 
+Provide a translation
+---------------------
+
 If your want to contribute with a translation but don't have a website that allows you to publish it:
 
 * Select the fork button at the top of this page.
