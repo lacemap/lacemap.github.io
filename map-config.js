@@ -32,7 +32,7 @@ laceMap.addTilesTo = function (map) {
     maxZoom: 18,
     attribution:
       'Map data &copy; <a href="http://openstreetmap.org" target="_top">OpenStreetMap</a>' + cc +
-      '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' + cc
+      '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io#lacemapgithubio" target="_top">lacemap</a>' + cc
   }).addTo(map);
 }
 laceMap.popupContent = function (props) {
