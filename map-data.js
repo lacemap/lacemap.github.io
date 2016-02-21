@@ -135,12 +135,16 @@ var laceMapData = [{
   }
 },{
   "type": "Feature",
-  "geometry": { "type": "Point", "coordinates": [7.355330586433411,45.60917415812708]},
+  "geometry": { "type": "Point", "coordinates": [7.355306,45.60991]},
   "properties": {
-    "name": "Coopérative de Cogne",
+    "name": "Cooperativa “Les Dentellières de Cogne”",
     "address": "50 rue du Dr Grappein 11012 Cogne",
-    "website": "http://www.dentellieres.com/Musee/Cogne/index.htm",
-    "remarks": "Voire aussi <a href='http://www.regione.vda.it/turismo/prodotti_territorio/artigianato/tessuti/pizzo_dentelles_e.asp'>turismo</a>"
+    "website": "http://www.pizzodicogne.it/",
+    "remarks": "tel. (+39)0165.749282. See also " +
+               "<a href='http://www.lovevda.it/it/banca-dati/10/artigianato/cogne/i-pizzi-di-cogne-cooperativa-les-dentellieres/560'>tourism</a>, " +
+               "<a href='https://it.wikipedia.org/wiki/Dentelles'>it.wikipedia</a>, " +
+               "<a href='http://www.dentellieres.com/Musee/Cogne/index.htm'>dentellieres.com</a> and " +
+                "<a href='http://www.seghesiogrivon.it/30-anni-di-cooperativa-%E2%80%9Cles-dentellieres-de-cogne%E2%80%9D.html'>1981-2011</a>"
   }
 },{
   "type": "Feature",
