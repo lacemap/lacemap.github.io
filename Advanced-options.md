@@ -19,7 +19,7 @@ An alternative example with an initial focus on France:
 
 * **containerID** *mandatory* the id of the HTML container for the map, this id should be unique on the page.
 * **latLong** *optional* the initial center of the map, default \[20,0\].
-  Click the map at the desired center for the coordinates.
+  Click the map at the desired center for the coordinates, swap the numbers.
 * **zoomlevel** *optional* the initial zoom level of the map, default 1.
 * **latLongPrompt** *optional* the text in the popup when you click an empty area of the map, default 'You clicked the map at:'.
   The content and language of object popups is at the choice of the lacemap moderators, perhaps a local language and English.
