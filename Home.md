@@ -10,7 +10,7 @@ Stay posted
 
 To receive email alerts about discussions, hit the "watch" button almost on top of this page.
 
-These RSS feeds alert you when something changes in:
+The following RSS feeds alert you when something changes in:
 * the [map page or its readme](https://github.com/lacemap/lacemap.github.io/commits/master.atom) in general
 * the [wiki pages](https://github.com/lacemap/lacemap.github.io/wiki.atom)
 
