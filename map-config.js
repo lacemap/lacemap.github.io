@@ -48,7 +48,7 @@ laceMap.addLatLongPopUpTo = function (map, prompt) {
   map.on('click', function onMapClick(e) {
     popup
       .setLatLng(e.latlng)
-      .setContent(prompt + '<br/>' + e.latlng.lat + "," + e.latlng.lng)
+      .setContent(prompt + '<br/>' + e.latlng.lng + "," + e.latlng.lat)
       .openOn(map);
   });
 }
