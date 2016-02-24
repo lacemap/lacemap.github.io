@@ -32,7 +32,7 @@ Spread the news about the map on your blog, pinterest, facebook, by mouth or wha
 Images you can download and reuse: [100x100], [615x322], make your own screenshot
 or [embed the map] in your own website.
 
-[embed the map]: https://github.com/lacemap/lacemap.github.io/wiki/Embed-the-map#options-for-lacemapload
+[embed the map]: https://github.com/lacemap/lacemap.github.io/wiki/Embed-the-map
 [translation]: Translate
 [100x100]: https://avatars3.githubusercontent.com/u/16852616
 [615x322]: http://www.lokk.nl/images/musea/museakaart.png
