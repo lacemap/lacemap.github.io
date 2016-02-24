@@ -26,10 +26,16 @@ Scroll down on the [demo] page to help with the content of the map or join the [
 
 Enhance the wiki pages.
 
-Provide a [translation](Translate) of the map.
+Provide a [translation] of the map.
 
 Spread the news about the map on your blog, pinterest, facebook, by mouth or whatever means you have.
-Images you can download and reuse: [100x100](https://avatars3.githubusercontent.com/u/16852616),
-[615x322](http://www.lokk.nl/images/musea/museakaart.png), make your own screenshot
-or embed the actual map as explained on the [readme](https://github.com/lacemap/lacemap.github.io/)
+Images you can download and reuse: [100x100], [615x322], make your own screenshot
+or embed the actual map as explained on the [readme].
 
+[translation]: Translate
+[100x100]: https://avatars3.githubusercontent.com/u/16852616
+[615x322]: http://www.lokk.nl/images/musea/museakaart.png
+[map]: http://lacemap.github.io/
+[demo]: http://lacemap.github.io/
+[readme]: https://github.com/lacemap/lacemap.github.io#republish-the-map-on-your-own-site
+[moderators]: https://github.com/orgs/lacemap/teams/moderators
