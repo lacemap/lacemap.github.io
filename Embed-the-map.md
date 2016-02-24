@@ -1,7 +1,12 @@
+Embed the map in your own website
+=================================
+
+The basic steps to embed the lacemap in your own website are explained on https://github.com/lacemap/lacemap.github.io/
+
+
 Advanced options
 ================
 
-The basic steps to embed the lacemap in your own website are explained on https://github.com/lacemap/lacemap.github.io/
 The further down this page, the more JavaScript experience is assumed.
 
 
