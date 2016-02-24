@@ -36,11 +36,11 @@ Another bunch of lines should be placed in the `<head></head>` section of your p
 ### Lines to put in the body section
 
     <div id="laceMap" style="height: 300px;"></div>
-    <script> laceMap.load({ containerID: 'lacMap' }); </script>
+    <script> laceMap.load({ containerID: 'laceMap' }); </script>
 
 Note the mandatory fixed height and curly brackets within the round brackets.
 Choose your own height and an id that is unique on your page.
-See the wiki pages for more [advanced options](../../wiki/Advanced-options).
+See the wiki pages for [advanced options](../../wiki/Advanced-options).
 By default Open Street Map tiles are used, please check their [usage policy].
 
 ### Lines to put in the head section
