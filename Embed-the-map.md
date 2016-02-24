@@ -1,7 +1,7 @@
 Embed the map in your own website
 =================================
 
-The basic steps to embed the lacemap in your own website are explained on https://github.com/lacemap/lacemap.github.io/ aditional options are given below.
+The basic steps to embed the lacemap in your own website are explained on https://github.com/lacemap/lacemap.github.io/ additional options are given below.
 
 
 Advanced options
@@ -22,15 +22,13 @@ An alternative example with an initial focus on France:
       latLongPrompt: 'Vous avez cliqué sur la carte à:'
     });
 
-* **containerID** *mandatory* the id of the HTML container for the map, this id should be unique on the page.
-* **latLong** *optional* the initial center of the map, default \[20,0\].
-  Click the map at the desired center for the coordinates, swap the numbers.
-* **zoomlevel** *optional* the initial zoom level of the map, default 1.
-* **latLongPrompt** *optional* the text in the popup when you click an empty area of the map, default 'You clicked the map at:'.
+* **containerID** *mandatory*. The id of the HTML container for the map, this id should be unique on the page.
+* **latLong** *optional*, default \[20,0\]. The initial centre of the map.
+  Click the map at the desired centre for the coordinates, swap the numbers.
+* **zoomlevel** *optional*, default 1. The initial zoom level of the map.
+* **latLongPrompt** *optional*, default 'You clicked the map at:'. The text in the popup when you click an empty area of the map.
   The content and language of object popups is at the choice of the lacemap moderators, perhaps a local language and English.
-* **searchable** *optional* default false, currently the search function does not work together with clusters.
-  Therefore the demo page allows to switch between clusters and search.
-  This option will become obsolete as soon as these options will work together.
+* **searchable** *optional*, default false. This option will become obsolete as soon as the searchable and clustered mode of the map will work together.
 
 
 Map images
@@ -61,6 +59,6 @@ See also [this overview](http://leaflet-extras.github.io/leaflet-providers/previ
 More
 ----
 
-The map is assembled with http://leafletjs.com/ which has more options an plug-ins.
+The map is assembled with http://leafletjs.com/ which has more options and plug-ins.
 If you like to add something else, download and adjust your own raw copy of
 [map-config.js](https://github.com/lacemap/lacemap.github.io/blob/master/map-config.html).
