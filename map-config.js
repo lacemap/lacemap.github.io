@@ -1,13 +1,13 @@
 var laceMap = {}
 
 laceMap.load = function (args) {
-  if (! args.latLong) args.latLong = [20,0];
   if (! args.zoomlevel) args.zoomlevel = 1;
-  if (! args.latLongPrompt) args.latLongPrompt = 'You clicked the map at:';
+  if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
+  if (! args.xy) args.xy = [20,0];
 
-  var map = L.map(args.containerID).setView(args.latLong, args.zoomlevel);
+  var map = L.map(args.containerID).setView([args.xy[1],args.xy[0]], args.zoomlevel);
   laceMap.addTilesTo(map)
-  laceMap.addLatLongPopUpTo(map, args.latLongPrompt)
+  laceMap.addPopUpTo(map, args.xyPrompt)
 
   var clusterGroup = (!args.searchable ? L.markerClusterGroup().addTo(map) : "");
   if (args.searchable)
@@ -43,9 +43,11 @@ laceMap.popupContent = function (props) {
   result += props.remarks ? "<br>" + props.remarks : ""
   return result
 }
-laceMap.addLatLongPopUpTo = function (map, prompt) {
+laceMap.addPopUpTo = function (map, prompt) {
   var popup = L.popup();
   map.on('click', function onMapClick(e) {
+    // geoJson coordinates are in x, y, z order (easting, northing, altitude)
+    // latitude is northing, longitude is easting
     popup
       .setLatLng(e.latlng)
       .setContent(prompt + '<br/>' + e.latlng.lng + "," + e.latlng.lat)
