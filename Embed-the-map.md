@@ -17,16 +17,16 @@ An alternative example with an initial focus on France:
 
     laceMap.load({
       containerID: 'map',
-      latLong: [47.3,3.4],
+      xy: [3,47],
       zoomlevel: 5,
-      latLongPrompt: 'Vous avez cliqué sur la carte à:'
+      xyPrompt: 'Vous avez cliqué sur la carte à:'
     });
 
 * **containerID** *mandatory*. The id of the HTML container for the map, this id should be unique on the page.
-* **latLong** *optional*, default \[20,0\]. The initial centre of the map.
+* **xy** *optional*, default \[20,0\]. The initial centre of the map.
   Click the map at the desired centre for the coordinates, swap the numbers.
 * **zoomlevel** *optional*, default 1. The initial zoom level of the map.
-* **latLongPrompt** *optional*, default 'You clicked the map at:'. The text in the popup when you click an empty area of the map.
+* **xyPrompt** *optional*, default 'You clicked the map at:'. The text in the popup when you click an empty area of the map.
   The content and language of object popups is at the choice of the lacemap moderators, perhaps a local language and English.
 * **searchable** *optional*, default false. This option will become obsolete as soon as the searchable and clustered mode of the map will work together.
 
@@ -62,3 +62,5 @@ More
 The map is assembled with http://leafletjs.com/ which has more options and plug-ins.
 If you like to add something else, download and adjust your own raw copy of
 [map-config.js](https://github.com/lacemap/lacemap.github.io/blob/master/map-config.html).
+For example [pan/zoom](http://leafletjs.com/reference.html#map-zoompanoptions)
+options for the setView call.
