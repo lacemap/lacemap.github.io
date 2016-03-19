@@ -443,4 +443,13 @@ var laceMapData = [{
     "website": "http://www.kloeppelschule.de/",
     "remarks": ""
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-75.18063426,39.965343677]},
+  "properties": {
+    "name": "Philadelphia Museum of Art",
+    "address": "2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+    "website": "http://www.philamuseum.org/collections/results.html?searchTxt=bobbin+lace&keySearch=+Search+&searchNameID&searchClassID&searchOrigin&searchDeptID&accessionID&page=1",
+    "remarks": ""
+  }
 }];
