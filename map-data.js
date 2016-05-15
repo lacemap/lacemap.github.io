@@ -211,12 +211,12 @@ var laceMapData = [{
   }
 },{
   "type": "Feature",
-  "geometry": { "type": "Point", "coordinates": [5.80502986907959,53.20407581383135]},
+  "geometry": { "type": "Point", "coordinates": [5.803978443145752,53.203253250437854]},
   "properties": {
-    "name": "pakhuis koophandel",
+    "name": "'t andere museum van oldtimer tot kant",
     "address": "Oostersingel 8, 8921 GA Leeuwarden",
     "website": "http://www.museumpakhuiskoophandel.nl/",
-    "remarks": "alleen op zondagmiddag open."
+    "remarks": "1 april - 31 oktober : woensdag-zondag 14.00-17.00<br>1 november - 31 maart : zondag 14.00-17.00<br>Kant en kantkloskussens uit heel europa"
   }
 },{
   "type": "Feature",
