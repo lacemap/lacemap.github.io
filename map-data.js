@@ -452,4 +452,13 @@ var laceMapData = [{
     "website": "http://www.philamuseum.org/collections/results.html?searchTxt=bobbin+lace&keySearch=+Search+&searchNameID&searchClassID&searchOrigin&searchDeptID&accessionID&page=1",
     "remarks": ""
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [18.419343531131744,-33.9295978660366]},
+  "properties": {
+    "name": "Pierre Fouché Sculptures",
+    "address": "2nd floor, 39 Hope Street, Cape Town, 8001",
+    "website": "http://www.pierrefouche.net",
+    "remarks": ""
+  }
 }];
