@@ -241,9 +241,9 @@ var laceMapData = [{
   "geometry": { "type": "Point", "coordinates": [6.0491765,51.4511012]},
   "properties": {
     "name": "Museum de Kantfabriek",
-    "address": "Americaanseweg 8 5961 GP Horst",
+    "address": "Americaanseweg 8 5961 GP Horst; tel. 077-3981650",
     "website": "http://http//www.museumdekantfabriek.nl/",
-    "remarks": "Open di t/m zo van 11-17 uur"
+    "remarks": "Open apr-sep: di t/m zo van 11-17 uur, okt-mrt: 14-17 uur; STIDOC bibliotheek apr-sep: di t/m za van 13-17 uur, okt-mrt: 14-17 uur"
   }
 },{
   "type": "Feature",
