@@ -12,11 +12,13 @@
   <link rel="stylesheet" href="3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.Default.css" />
   <script src="3rdParty/Leaflet.markercluster-1.0.3/leaflet.markercluster.js"></script>
 
+<!--
   <script src="3rdParty/fuse-2.0.0.min.js"></script>
-  <script src="http://cdn.rawgit.com/naomap/leaflet-fusesearch/ac689f3/src/leaflet.fusesearch.js"></script>
-  <link rel="stylesheet" href="http://cdn.rawgit.com/naomap/leaflet-fusesearch/2df4ea5/src/leaflet.fusesearch.css" />
+  <script src="3rdParty/leaflet-fusesearch-27cf82f/src/leaflet.fusesearch.js"></script>
+  <link rel="stylesheet" href="3rdParty/leaflet-fusesearch-27cf82f/src/leaflet.fusesearch.css" />
+  <script src="3rdParty/Leaflet.ControlledBounds-0.2.0.js"></script>
+-->
 
-  <script src="https://raw.githubusercontent.com/MazeMap/Leaflet.ControlledBounds/master/src/Leaflet.ControlledBounds.js"></script>
 
   <script src="map-data.js"></script>
   <script src="map-config.js"></script>
@@ -26,64 +28,74 @@
   </style>
 </head>
 <body>
-  <h1>Points of interest related to handmade lace</h1>
-  <p>
-    A map to <a href="https://github.com/lacemap/lacemap.github.io/"
-    >share</a> on websites of lace guilds, teachers, artists and collectors.
-    Anyone can contribute, a team of volunteers moderates it centrally.
-  </p>
-  <div id="map"></div>
-  <script>
+<h1>Points of interest related to handmade lace</h1>
+<p>
+  A map moderated by volunteers to <a href="https://github.com/lacemap/lacemap.github.io/wiki#get-involved"
+  >share</a> on websites of lace guilds, teachers, artists and collectors.
+</p>
+<div id="map"></div>
+<script>
     laceMap.searchable = (location + "").search('mapMode=searchable') >= 0
     laceMap.load({
       containerID: 'map',
       searchable: laceMap.searchable
     });
   </script>
-  <p><em>Sorry, search is currently disabled</em>
 <!--
-    <input type="button"
-           onclick="location = (laceMap.searchable ? 'index.html' : 'index.html?mapMode=searchable')"
-           value="toggle"
-    /> between a clustered and searchable map.
+<p>
+  <input type="button"
+         onclick="location = (laceMap.searchable ? 'index.html' : 'index.html?mapMode=searchable')"
+         value="toggle"
+  /> between a clustered and searchable map.
+  Search results are restricted to the blue markers in the visible area of the map.
+</p>
 -->
-  </p>
-  <p>
-    Select a blue marker for details of an object.
-    Select an item from the search results to find its location on the map.
-    Search results are restricted to the visible area of the map.
-  </p>
-  <p>
-    Zoom in/out or drag the map for more objects in the region you are interested in.
-    You can zoom in with the colored circles or general methods like the +/- buttons or mouse wheel.
-    The numbers in the circles show how many markers they represent.
-    Hovering over the circles reveals the bounds of the represented markers.
-  </p>
-  <p>
-    <a href="https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js" class="Link"
-    >Overview</a> of corrections and additions.
-  </p>
-  <h2>Something to add or correct?</h2>
-  <p>
-    Please help us to improve the map and its content.
-    Send a message about what to add or correct to the LOKK moderator of the map with the original <a href="http://www.lokk.nl/musea/formmuseabeheerder.php"
-    >Dutch form</a> or a <a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.lokk.nl%2Fmusea%2Fformmuseabeheerder.php"
-    >translated form</a>.
-    More options to get involved on the <a href="https://github.com/lacemap/lacemap.github.io#lacemapgithubio"
-    >readme and wiki</a> pages.
-  </p>
-  <p>
-    A new item on the map requires at least a name and a brick-and-mortar address.
-    For the proper coordinates you can zoom in on the map and click on the intended structure.
-    Please specify contact information for a museum, preferable a website,
-    <em>not an email address</em> as there is no protection against robots.
-    A short remark about the collection or opening hours is also possible.
-  </p>
+<p>
+  Last <a href="https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js" class="Link"
+>changes</a>.
+</p>
+<h2>Suggest updates</h2>
+<p>
+  Inform the LOKK map moderator with either of the
+</p>
+<ul>
+  <li>
+    <a href="http://www.lokk.nl/musea/formmuseabeheerder.php"
+    >Dutch form</a>
+  </li>
+  <li>
+    <a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.lokk.nl%2Fmusea%2Fformmuseabeheerder.php"
+    >form translated</a> into your own language.
+  </li>
+</ul>
+<p>
+  Or use your github account to propose changes or new <a href="https://github.com/lacemap/lacemap.github.io/blob/master/map-data.js"
+  >entries</a>, start editing with the pencil icon and follow further instructions.
+</p>
+<p>
+  A new item on the map requires
+</p>
+<ul>
+  <li>
+    A name of the point of interest.
+  </li>
+  <li>
+    A brick-and-mortar address.
+  </li>
+  <li>
+    Coordinates which you can find by zooming in on the map and clicking the intended structure.
+  </li>
+  <li>
+    Optional contact information should <em>not be an email address</em> as there is no protection against robots.
+    A website is fine as a short remark about opening hours.
+  </li>
+</ul>
+
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=10872278; 
-var sc_invisible=1; 
-var sc_security="1ec21dbb"; 
+var sc_project=10872278;
+var sc_invisible=1;
+var sc_security="1ec21dbb";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +
@@ -91,9 +103,9 @@ scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
 <noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/10872278/0/1ec21dbb/1/"
-alt="web analytics"></a></div></noscript>
+                                      href="http://statcounter.com/" target="_blank"><img
+        class="statcounter"
+        src="http://c.statcounter.com/10872278/0/1ec21dbb/1/"
+        alt="web analytics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 </body>
