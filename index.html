@@ -5,14 +5,14 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-  <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+  <link rel="stylesheet" href="3rdParty/Leaflet-1.0.3/leaflet.css" />
+  <script src="3rdParty/Leaflet-1.0.3/leaflet.js"></script>
 
-  <link rel="stylesheet" href="http://cdn.rawgit.io/Leaflet.markercluster/v0.4.0-hotfix.1/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://cdn.rawgit.com/Leaflet/Leaflet.markercluster/v0.4.0-hotfix.1/dist/MarkerCluster.Default.css" />
-  <script src="https://raw.githubusercontent.com/Leaflet/Leaflet.markercluster/v0.4.0-hotfix.1/dist/leaflet.markercluster.js"></script>
+  <link rel="stylesheet" href="3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.css" />
+  <link rel="stylesheet" href="3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.Default.css" />
+  <script src="3rdParty/Leaflet.markercluster-1.0.3/leaflet.markercluster.js"></script>
 
-  <script src="https://raw.githubusercontent.com/krisk/Fuse/v2.0.0/src/fuse.min.js"></script>
+  <script src="3rdParty/fuse-2.0.0.min.js"></script>
   <script src="http://cdn.rawgit.com/naomap/leaflet-fusesearch/ac689f3/src/leaflet.fusesearch.js"></script>
   <link rel="stylesheet" href="http://cdn.rawgit.com/naomap/leaflet-fusesearch/2df4ea5/src/leaflet.fusesearch.css" />
 
@@ -40,11 +40,13 @@
       searchable: laceMap.searchable
     });
   </script>
-  <p>
+  <p><em>Sorry, search is currently disabled</em>
+<!--
     <input type="button"
            onclick="location = (laceMap.searchable ? 'index.html' : 'index.html?mapMode=searchable')"
            value="toggle"
     /> between a clustered and searchable map.
+-->
   </p>
   <p>
     Select a blue marker for details of an object.
@@ -74,7 +76,7 @@
     A new item on the map requires at least a name and a brick-and-mortar address.
     For the proper coordinates you can zoom in on the map and click on the intended structure.
     Please specify contact information for a museum, preferable a website,
-    not an email address as there is no protection against robots.
+    <em>not an email address</em> as there is no protection against robots.
     A short remark about the collection or opening hours is also possible.
   </p>
 <!-- Start of StatCounter Code for Default Guide -->
