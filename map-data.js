@@ -400,6 +400,15 @@ var laceMapData = [{
   }
 },{
   "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [115.7390570640564,-32.05473804672774]},
+  "properties": {
+    "name": "WA Maritime Museum",
+    "address": "Victoria Quay, Fremantle, Western Australia, 6160",
+    "website": "http://museum.wa.gov.au/museums/maritime",
+    "remarks": "Bobbins and a sample from the Batavia shipwreck, even a pattern in a leaftlet.<br>Klosjes en een stuk kant van de Batavia, zelfs een patroon in een folder."
+  }
+},{
+  "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [-1.221714,48.838032]},
   "properties": {
     "name": "Maison de la Dentellière",
