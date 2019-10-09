@@ -1,3 +1,5 @@
+// http://creativecommons.org/licenses/by-sa/3.0/
+
 var laceMapData = [{
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [3.7251806259155273,45.41402332360546]},

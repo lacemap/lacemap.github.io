@@ -1,14 +1,13 @@
+
 Moderator Tasks
 ===============
 
-The major task for moderators: maintain `map-data.js`, delete/correct obsolete items and add new items.
+The major task for moderators: maintain [map-data.js], delete/correct obsolete items and add new items,
+fix broken links.
 
 A syntactical mistake with commas, quotes or brackets does not just affect the changed item but renders the map empty.
-So prepare your changes with a local copy of the [map](http:lacemap.github.io/), check the result and
-paste the changed items online into [map-data.js](https://github.com/lacemap/lacemap.github.io/blob/master/map-data.js)
-and check the results again.
+So prepare your changes with a local copy or public fork.
+In case of [panic] you can revert a pull request.
 
-The mayor browsers can provide clues about your mistakes with their javascript console.
-In case of panic after public changes you can get the previous version with
-`https://raw.githubusercontent.com/lacemap/lacemap.github.io/XXX/README.md`
-look up the value for `XXX` with the history of the file. 
+[map-data.js]: https://github.com/lacemap/lacemap.github.io/blob/master/map-data.js
+[panic]: https://help.github.com/en/articles/reverting-a-pull-request

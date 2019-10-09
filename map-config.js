@@ -20,15 +20,13 @@ laceMap.load = function (args) {
   });
 }
 laceMap.addTilesTo = function (map) {
-    var cc = ' contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_top">CC-BY-SA</a> ';
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-        maxZoom: 18,
-        id: 'mapbox.streets',
-        accessToken: 'pk.eyJ1Ijoiam8tcG9sIiwiYSI6ImNrMWpieTE0cTA5MjIzZG11bXU1ZXBhbXEifQ.D_GTWeMnXifPHuE2M0VzWg',
-        attribution:
-          'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>' + cc +
-          '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>' + cc +
-          '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
+    L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+       maxZoom: 19,
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+                    '| Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> ' +
+                    '| hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>' +
+                    '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' +
+                    ' (<a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_top">CC-BY-SA</a>) '
     }).addTo(map);
 }
 laceMap.popupContent = function (props) {
