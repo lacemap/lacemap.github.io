@@ -139,11 +139,11 @@ var laceMapData = [{
   "properties": {
     "name": "Cooperativa “Les Dentellières de Cogne”",
     "address": "50 rue du Dr Grappein 11012 Cogne",
-    "website": "http://www.pizzodicogne.it/",
-    "remarks": "tel. (+39)0165.749282. See also " +
+    "website": "http://www.dentellieres.com/Musee/Cogne/index.htm",
+    "remarks": "See also " +
                "<a href='http://www.lovevda.it/it/banca-dati/10/artigianato/cogne/i-pizzi-di-cogne-cooperativa-les-dentellieres/560'>tourism</a>, " +
                "<a href='https://it.wikipedia.org/wiki/Dentelles'>it.wikipedia</a>, " +
-               "<a href='http://www.dentellieres.com/Musee/Cogne/index.htm'>dentellieres.com</a> and " +
+               "<a href='https://web.archive.org/web/20170205220722/http://www.pizzodicogne.it/'>archived pizzodicogne.it</a> and " +
                 "<a href='http://www.seghesiogrivon.it/30-anni-di-cooperativa-%E2%80%9Cles-dentellieres-de-cogne%E2%80%9D.html'>1981-2011</a>"
   }
 },{
@@ -197,7 +197,7 @@ var laceMapData = [{
   "properties": {
     "name": "Museu Marès de la Punta",
     "address": "carrer de l’Església,43 08350 - Arenys de Mar",
-    "website": "http://museu.arenysdemar.org",
+    "website": "http://museu.arenysdemar.cat",
     "remarks": ""
   }
 },{
@@ -233,7 +233,7 @@ var laceMapData = [{
   "properties": {
     "name": "Textielmuseum",
     "address": "Goirkestraat 96 5046 GN Tilburg",
-    "website": "",
+    "website": "https://www.textielmuseum.nl",
     "remarks": ""
   }
 },{
@@ -242,7 +242,7 @@ var laceMapData = [{
   "properties": {
     "name": "Museum de Kantfabriek",
     "address": "Americaanseweg 8 5961 GP Horst; tel. 077-3981650",
-    "website": "http://http//www.museumdekantfabriek.nl/",
+    "website": "http:/www.museumdekantfabriek.nl",
     "remarks": "Open apr-sep: di t/m zo van 11-17 uur, okt-mrt: 14-17 uur; STIDOC bibliotheek apr-sep: di t/m za van 13-17 uur, okt-mrt: 14-17 uur"
   }
 },{
@@ -331,7 +331,7 @@ var laceMapData = [{
   "geometry": { "type": "Point", "coordinates": [5.9489231,51.7234243]},
   "properties": {
     "name": "Museum van Kussen tot Kant",
-    "address": "Oudebaan 9 Milsbeek",
+    "address": "Oudebaan 9, Milsbeek",
     "website": "",
     "remarks": ""
   }
@@ -350,8 +350,8 @@ var laceMapData = [{
   "properties": {
     "name": "Talmuseum",
     "address": "3822 Lauterbrunnen Zwitserland",
-    "website": "http://www.talmuseumlauterbrunnen.ch",
-    "remarks": "open op dinsdag en donderdag t/m zondag"
+    "website": "http://www.talmuseumlauterbrunnen.ch/frauenfleiss.html",
+    "remarks": ""
   }
 },{
   "type": "Feature",
@@ -359,16 +359,7 @@ var laceMapData = [{
   "properties": {
     "name": "Textil Museum",
     "address": "Vadianstrasse 2   St. Gallen, Switzerland",
-    "website": "http://www.textil-museum.ch/",
-    "remarks": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": { "type": "Point", "coordinates": [4.7619598,50.8617298]},
-  "properties": {
-    "name": "museum van kussen tot kant",
-    "address": "Oudebaan 9",
-    "website": "",
+    "website": "https://www.textilmuseum.ch/en/",
     "remarks": ""
   }
 },{
