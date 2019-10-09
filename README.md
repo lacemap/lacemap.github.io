@@ -55,13 +55,13 @@ in the div, the inline style and as argument for the load function.
 Tile providers
 ==============
 
-The demo page uses Open Street Map tiles, please check their [usage policy],
-to cut the long story short: choose another provider with another policy.
+The demo page uses Open Street Map tiles, please check their [usage policy].
+To cut the long story short: choose another provider with another policy.
 
 For that purpose override `laceMap.addTilesTo` before calling `laceMap.load()`.
 Below an example for MapBox from the [leaflet quick-start],
 it requires to sign-up for an id and token.
-See also [this overview].
+More providers in [this overview].
 
 [usage policy]: http://wiki.openstreetmap.org/wiki/Tile_usage_policy
 [leaflet quick-start]: http://leafletjs.com/examples/quick-start.html
@@ -72,10 +72,10 @@ See also [this overview].
       L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
           attribution:
             'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>' + cc +
-            '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>',
-            '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' + cc
+            '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>' + cc +
+            '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>',
           maxZoom: 18,
-          id: 'your.mapbox.project.id',
+          id: 'mapbox.streets',
           accessToken: 'your.mapbox.public.access.token'
       }).addTo(map);
     }
