@@ -24,7 +24,7 @@ laceMap.addTilesTo = function (map) {
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         maxZoom: 18,
         id: 'mapbox.streets',
-        accessToken: 'your.mapbox.public.access.token',
+        accessToken: 'pk.eyJ1Ijoiam8tcG9sIiwiYSI6ImNrMWpieTE0cTA5MjIzZG11bXU1ZXBhbXEifQ.D_GTWeMnXifPHuE2M0VzWg',
         attribution:
           'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>' + cc +
           '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>' + cc +
