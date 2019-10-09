@@ -71,7 +71,7 @@ See also [this overview].
       var cc = ' contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_top">CC-BY-SA</a> ';
       L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
           attribution:
-            'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'+ cc
+            'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>' + cc +
             '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>',
             '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' + cc
           maxZoom: 18,

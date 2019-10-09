@@ -6,7 +6,7 @@ laceMap.load = function (args) {
   if (! args.xy) args.xy = [0,20];
 
   var map = L.map(args.containerID).setView([args.xy[1],args.xy[0]], args.zoomlevel);
-  laceMap.addTilesTo(map)
+  laceMap.addTilesTo(map, args.mapboxId, args.mapboxToken)
   laceMap.addPopUpTo(map, args.xyPrompt)
 
   var clusterGroup = L.markerClusterGroup().addTo(map);
@@ -19,13 +19,16 @@ laceMap.load = function (args) {
     }
   });
 }
-laceMap.addTilesTo = function (map) {
+laceMap.addTilesTo = function (map, mapId, mapToken) {
   var cc = ' contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_top">CC-BY-SA</a> ';
-  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution:
-      'Map data &copy; <a href="http://openstreetmap.org" target="_top">OpenStreetMap</a>' + cc +
-      '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io#lacemapgithubio" target="_top">lacemap</a>' + cc
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+      attribution:
+        'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>'+ cc +
+        '| Imagery &copy; <a href="http://mapbox.com">Mapbox</a>' +
+        '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' + cc,
+      maxZoom: 18,
+      id: mapId,
+      accessToken: mapToken
   }).addTo(map);
 }
 laceMap.popupContent = function (props) {
