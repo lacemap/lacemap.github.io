@@ -51,6 +51,35 @@ in the div, the inline style and as argument for the load function.
     
     </body>
 
+When you want less surprises by changes to the interface replace 
+`http://lacemap.github.io/` with
+
+    https://raw.githubusercontent.com/lacemap/lacemap.github.io/<nr>
+    
+where `<nr>` is the last [commit] nr.
+
+[commit]: https://github.com/lacemap/lacemap.github.io/commits/master
+
+
+Traffic
+=======
+
+The default map only allows [marginal traffic].
+When drawing more traffic, choose another provider for the map tiles.
+Before `laceMap.load` you will have to add
+
+    laceMap.addTilesTo = function (map) {
+          L.tileLayer(...).addTo(map);
+     }
+
+The overview of the providers shows what to fill in at the dots.
+Please extend the attribution with:
+
+    'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
+
+[overview]: http://leaflet-extras.github.io/leaflet-providers/preview/index.html
+[marginal traffic]: https://www.openstreetmap.fr/fonds-de-carte/
+
 
 Options for `laceMap.load()`
 ============================
@@ -81,23 +110,3 @@ For example [pan/zoom] options for the setView call, or search functionality tha
 
 [pan/zoom]: http://leafletjs.com/reference.html#map-zoompanoptions
 [map-config.js]: https://github.com/lacemap/lacemap.github.io/blob/master/map-config.js
-
-
-Traffic
-=======
-
-The default map only allows [marginal traffic].
-When drawing more traffic, choose another provider for the map tiles.
-Before `laceMap.load` you will have to add
-
-    laceMap.addTilesTo = function (map) {
-          L.tileLayer(...).addTo(map);
-     }
-
-The overview of the providers shows what to fill in at the dots.
-Please extend the attribution with:
-
-    'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
-
-[overview]: http://leaflet-extras.github.io/leaflet-providers/preview/index.html
-[marginal traffic]: https://www.openstreetmap.fr/fonds-de-carte/
