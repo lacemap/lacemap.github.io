@@ -4,27 +4,16 @@
   <title>Lace map</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <link rel="stylesheet" href="3rdParty/Leaflet-1.0.3/leaflet.css" />
-  <script src="3rdParty/Leaflet-1.0.3/leaflet.js"></script>
-
   <link rel="stylesheet" href="3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.css" />
   <link rel="stylesheet" href="3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.Default.css" />
+  <script src="3rdParty/Leaflet-1.0.3/leaflet.js"></script>
   <script src="3rdParty/Leaflet.markercluster-1.0.3/leaflet.markercluster.js"></script>
-
-<!--
-  <script src="3rdParty/fuse-2.0.0.min.js"></script>
-  <script src="3rdParty/leaflet-fusesearch-27cf82f/src/leaflet.fusesearch.js"></script>
-  <link rel="stylesheet" href="3rdParty/leaflet-fusesearch-27cf82f/src/leaflet.fusesearch.css" />
-  <script src="3rdParty/Leaflet.ControlledBounds-0.2.0.js"></script>
--->
-
-
   <script src="map-data.js"></script>
   <script src="map-config.js"></script>
   <style>
     article { max-width: 40em; padding-left: 2vw; }
-    #map { height: 75vh; width: 95vw; margin-left: auto; margin-right: auto; }
+    #map { height: 70vh; width: 95vw; margin-left: auto; margin-right: auto; }
   </style>
 </head>
 <body>
@@ -42,27 +31,24 @@
     laceMap.searchable = (location + "").search('mapMode=searchable') >= 0
     laceMap.load({
       containerID: 'map',
-      zoomlevel: (clHeight ? clHeight : 350) / 350,
+      zoomlevel: (clHeight ? clHeight : 340) / 340,
       searchable: laceMap.searchable
     });
  </script>
-<!--
-<p>
-  <input type="button"
-         onclick="location = (laceMap.searchable ? 'index.html' : 'index.html?mapMode=searchable')"
-         value="toggle"
-  /> between a clustered and searchable map.
-  Search results are restricted to the blue markers in the visible area of the map.
-</p>
--->
-<p>
-  A map moderated by
-  <a href="https://github.com/lacemap/lacemap.github.io/wiki#get-involved"
-  >volunteers</a>.
-  Last <a href="https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js" class="Link"
->changed</a> entries.
-</p>
 <article>
+  <p>
+    A demo version of a map moderated by
+    <a href="https://github.com/lacemap/lacemap.github.io/#README"
+       target="_blank"
+    >volunteers</a> to
+    <a href="https://github.com/lacemap/lacemap.github.io/wiki#get-involved"
+       target="_blank"
+    >share</a> on websites of lace guilds, teachers, artists and collectors.
+    Last
+    <a href="https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js"
+       target="_blank"
+    >changed</a> entries.
+  </p>
   <h2>Propose changes</h2>
   <p>
     One method: inform the LOKK map moderator with the

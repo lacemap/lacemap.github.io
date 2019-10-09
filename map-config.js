@@ -9,20 +9,13 @@ laceMap.load = function (args) {
   laceMap.addTilesTo(map)
   laceMap.addPopUpTo(map, args.xyPrompt)
 
-  var clusterGroup = (!args.searchable ? L.markerClusterGroup().addTo(map) : "");
-  if (args.searchable)
-     L.control.fuseSearch({threshold: 0.3}).addTo(map)
-      .indexFeatures(laceMapData, ['name', 'address', 'remarks']);
+  var clusterGroup = L.markerClusterGroup().addTo(map);
 
   L.geoJson(laceMapData,{
     onEachFeature: function (feature, layer) {
       layer.bindPopup(laceMap.popupContent(feature.properties));
       if (clusterGroup)
         layer.addTo(clusterGroup)
-      if(args.searchable) {
-        feature.layer = layer;
-        layer.addTo(map);
-      }
     }
   });
 }
