@@ -23,20 +23,26 @@
   <script src="map-data.js"></script>
   <script src="map-config.js"></script>
   <style>
-    body { max-width: 40em; margin-left: auto; margin-right: auto; }
-    #map { height: 33em; }
+    article { max-width: 40em; }
+    #map { height: 75vh; width: 95vw; margin-left: auto; margin-right: auto; }
   </style>
 </head>
 <body>
 <h1>Points of interest related to handmade lace</h1>
+<p>
+  Musea, monuments, sculptures, specialized libraries, archives or whatever
+  lace enthusiasts might want to add to itineraries.
+</p>
 <div id="map"></div>
 <script>
+    var clHeight = document.getElementById("map").clientHeight;
     laceMap.searchable = (location + "").search('mapMode=searchable') >= 0
     laceMap.load({
       containerID: 'map',
+      zoomlevel: (clHeight ? clHeight : 350) / 350,
       searchable: laceMap.searchable
     });
-  </script>
+ </script>
 <!--
 <p>
   <input type="button"
@@ -51,36 +57,36 @@
   <a href="https://github.com/lacemap/lacemap.github.io/wiki#get-involved"
   >volunteers</a>.
   Last <a href="https://github.com/lacemap/lacemap.github.io/commits/master/map-data.js" class="Link"
->changes</a>.
+>changed</a> entries.
 </p>
-<h2>Propose changes</h2>
-<p>
-  Either inform the LOKK map moderator with the
-  <a href="http://www.lokk.nl/musea/formmuseabeheerder.php"
-  >Dutch</a>/<a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.lokk.nl%2Fmusea%2Fformmuseabeheerder.php"
-  >translated</a> form, or use your github account to propose changes to the list of
-  <a href="https://github.com/lacemap/lacemap.github.io/blob/master/map-data.js"
-  >entries</a> (to be used in the first step of this
-  <a href="https://help.github.com/en/articles/editing-files-in-another-users-repository"
-  >procedure</a>).
-</p><p>
-  A new item on the map requires
-</p>
-<ul>
-  <li>
-    A name of the public point of interest.
-  </li>
-  <li>
-    A brick-and-mortar address of the museum, monument, sculpture or specialized library or archive.
-  </li>
-  <li>
-    Coordinates which you can find by zooming in on the map and clicking the intended structure.
-  </li>
-  <li>
-    Optional contact information should <em>not be an email address</em> as there is no protection against robots.
-    A website is fine as wel as a short remark about opening hours.
-  </li>
-</ul>
+<article>
+  <h2>Propose changes</h2>
+  <p>
+    One method: inform the LOKK map moderator with the
+    <a href="http://www.lokk.nl/musea/formmuseabeheerder.php"
+       target="_blank"
+    >Dutch</a> /
+    <a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.lokk.nl%2Fmusea%2Fformmuseabeheerder.php"
+       target="_blank"
+    >translated</a> form.
+  </p>
+  <p>
+    Another method is the github procedure.
+    In short: go to the list of
+    <a href="https://github.com/lacemap/lacemap.github.io/blob/master/map-data.js"
+       target="_blank"
+    >entries</a>, click the pencil, make changes,
+    confirm three times with a green button at the bottom of the page.
+    A moderator applies the proposed changes or discusses them.
+    No pencil? Sign on/in first.
+    At some steps you may drop a note.
+    Click the map to get coordinates for a new entry.
+    The
+    <a href="https://help.github.com/en/articles/editing-files-in-another-users-repository"
+       target="_blank"
+    >long description</a> with screen shots.
+  </p>
+</article>
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">

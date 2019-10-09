@@ -3,7 +3,7 @@ var laceMap = {}
 laceMap.load = function (args) {
   if (! args.zoomlevel) args.zoomlevel = 1;
   if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
-  if (! args.xy) args.xy = [20,0];
+  if (! args.xy) args.xy = [0,20];
 
   var map = L.map(args.containerID).setView([args.xy[1],args.xy[0]], args.zoomlevel);
   laceMap.addTilesTo(map)
