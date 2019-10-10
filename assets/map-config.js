@@ -6,8 +6,8 @@ laceMap.load = function (args) {
   if (! args.xy) args.xy = [0,20];
 
   var map = L.map(args.containerID).setView([args.xy[1],args.xy[0]], args.zoomlevel);
-  laceMap.addTilesTo(map)
-  laceMap.addPopUpTo(map, args.xyPrompt)
+  laceMap.addTiles(map)
+  laceMap.addPopUp(map, args.xyPrompt)
 
   var clusterGroup = L.markerClusterGroup().addTo(map);
 
@@ -18,7 +18,7 @@ laceMap.load = function (args) {
     }
   });
 }
-laceMap.addTilesTo = function (map) {
+laceMap.addTiles = function (map) {
     L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
        maxZoom: 19,
        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
@@ -36,7 +36,7 @@ laceMap.popupContent = function (props) {
   result += props.remarks ? "<br>" + props.remarks : ""
   return result
 }
-laceMap.addPopUpTo = function (map, prompt) {
+laceMap.addPopUp = function (map, prompt) {
   var popup = L.popup();
   map.on('click', function onMapClick(e) {
     // geoJson coordinates are in x, y, z order (easting, northing, altitude)

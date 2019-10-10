@@ -15,37 +15,40 @@ How to contribute to the markers on the map is explained at the bottom of the [d
 Show the map on your own site
 =============================
 
-* Extract `3rdParty`, `js` and `index.html` out of the [download]. 
+* Extract `assets`, `js` and `index.html` out of the [download]. 
 * Open  `index.html` with your favorite (plain text) editor.
-* From the `<body>` delete/replace anything but: 
+* Replace content of the `<body>` section with at least: 
 
       <div id="map"></div>
       <script>
+          // laceMap.addTiles = function (map) {
+          //     L.tileLayer(...).addTo(map);
+          // }
           laceMap.load({ containerID: 'map' });
       </script>
 
+* Note that the map `<div>` needs a predefined size. This is defined in the head section.
 * Open  `index.html` in a browser and the map should show.
-* Subscribe to the [history] of `js/map-config.js` to get notified of updates.
-  Replace the raw content of the file te get up to date.
+* Subscribe (at least) to the [history] of `assets/map-config.js` to get notified of new/changed entries.
+  Replace the raw content of a changed file to get up to date.
 
-How to embed and blend the page into your website completely depends on how you implement your website.
+How to embed and blend the page into your website completely depends on your implementation.
 
 [download]: https://github.com/lacemap/lacemap.github.io/archive/master.zip
-[history]: https://github.com/lacemap/lacemap.github.io/commits/master/js/map-config.js.atom
+[history]: https://github.com/lacemap/lacemap.github.io/commits/master/assets/map-config.js.atom
  
 
 Traffic
 =======
 
-The default map only allows [marginal traffic].
-When drawing more traffic, choose another provider for the map tiles.
-Before `laceMap.load` you will have to add
+The default tile provider only allows [marginal traffic].
+When drawing more traffic, contact the provider or choose another provider.
+For the latter option fill in the dots (see the [overview] of providers) and activate:
 
-    laceMap.addTilesTo = function (map) {
+    laceMap.addTiles = function (map) {
           L.tileLayer(...).addTo(map);
      }
 
-The [overview] of the providers shows what to fill in at the dots.
 Please extend the attribution with:
 
     'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
@@ -57,7 +60,7 @@ Please extend the attribution with:
 Options for `laceMap.load()`
 ============================
 
-An alternative example with an initial focus on France:
+An alternative with an initial focus on France:
 
     laceMap.load({
       containerID: 'map',
@@ -77,9 +80,7 @@ An alternative example with an initial focus on France:
 Advanced options
 ================
 
-The map is assembled with http://leafletjs.com/ which has more options and plug-ins.
-If you like to add something else, download and adjust your own raw copy of [map-config.js].
-For example [pan/zoom] options for the setView call, or search functionality that filters the number of markers on the map. 
+For more advanced options and additional _leaflet_ [plugins] 
+you'll have to adapt your copy of `assets/map-config.js`.
 
-[pan/zoom]: http://leafletjs.com/reference.html#map-zoompanoptions
-[map-config.js]: https://github.com/lacemap/lacemap.github.io/blob/master/map-config.js
+[plugins]: https://leafletjs.com/plugins.html
