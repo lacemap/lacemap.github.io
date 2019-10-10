@@ -15,7 +15,7 @@ How to contribute to the markers on the map is explained at the bottom of the [d
 Show the map on your own site
 =============================
 
-* Extract `assets`, `js` and `index.html` out of the [download]. 
+* Extract `assets` and `index.html` out of the [download]. 
 * Open  `index.html` with your favorite (plain text) editor.
 * Replace content of the `<body>` section with at least: 
 
