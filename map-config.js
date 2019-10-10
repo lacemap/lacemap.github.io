@@ -14,8 +14,7 @@ laceMap.load = function (args) {
   L.geoJson(laceMapData,{
     onEachFeature: function (feature, layer) {
       layer.bindPopup(laceMap.popupContent(feature.properties));
-      if (clusterGroup)
-        layer.addTo(clusterGroup)
+      layer.addTo(clusterGroup)
     }
   });
 }
