@@ -14,52 +14,25 @@ How to contribute to the markers on the map is explained at the bottom of the [d
 
 Show the map on your own site
 =============================
-The following HTML code shows how you can embed the map and its markers on your own website.
-The lines in the `<body>` section should go somewhere in the body of your own page,
-Likewise the lines in the `<head>` section should go somewhere in the head of your own page.
-You may have to adjust the style to fit your own space, look and feel.
 
-Note the id `map` that occurs three times: 
-in the div, the inline style and as argument for the load function.
+* Extract `3rdParty`, `js` and `index.html` out of the [download]. 
+* Open  `index.html` with your favorite (plain text) editor.
+* From the `<body>` delete/replace anything but: 
 
-[token]: https://www.mapbox.com/studio/account/tokens/
+      <div id="map"></div>
+      <script>
+          laceMap.load({ containerID: 'map' });
+      </script>
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <script src="http://lacemap.github.io/3rdParty/Leaflet-1.0.3/leaflet.js"></script>
-      <script src="http://lacemap.github.io/3rdParty/Leaflet.markercluster-1.0.3/leaflet.markercluster.js"></script>
-      <script src="http://lacemap.github.io/map-data.js"></script>
-      <script src="http://lacemap.github.io/map-config.js"></script>
-      <link rel="stylesheet" href="http://lacemap.github.io/3rdParty/Leaflet-1.0.3/leaflet.css" />
-      <link rel="stylesheet" href="http://lacemap.github.io/3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.css" />
-      <link rel="stylesheet" href="http://lacemap.github.io/3rdParty/Leaflet.markercluster-1.0.3/MarkerCluster.Default.css" />
-      <style>
-        #map { height: 75vh; width: 95vw; margin-left: auto; margin-right: auto; }
-      </style>
-    
-    </head>
-    <body>
-    
-    <div id="map"></div>
-    <script>
-        laceMap.load({ containerID: 'map' });
-    </script>
-    
-    </body>
+* Open  `index.html` in a browser and the map should show.
+* Subscribe to the [history] of `js/map-config.js` to get notified of updates.
+  Replace the raw content of the file te get up to date.
 
-When you want less surprises by changes to the interface replace 
-`http://lacemap.github.io/` with
+How to embed and blend the page into your website completely depends on how you implement your website.
 
-    https://raw.githubusercontent.com/lacemap/lacemap.github.io/<nr>
-    
-where `<nr>` is the last [commit] nr.
-
-[commit]: https://github.com/lacemap/lacemap.github.io/commits/master
-
+[download]: https://github.com/lacemap/lacemap.github.io/archive/master.zip
+[history]: https://github.com/lacemap/lacemap.github.io/commits/master/js/map-config.js.atom
+ 
 
 Traffic
 =======
@@ -72,7 +45,7 @@ Before `laceMap.load` you will have to add
           L.tileLayer(...).addTo(map);
      }
 
-The overview of the providers shows what to fill in at the dots.
+The [overview] of the providers shows what to fill in at the dots.
 Please extend the attribution with:
 
     'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
