@@ -1,3 +1,5 @@
+<img src="avatar.jpg" align="right">
+
 Points of interest related to handmade lace
 ===========================================
 
@@ -27,7 +29,7 @@ Show the map on your own site
           laceMap.load({ containerID: 'map' });
       </script>
 
-* Note that the map `<div>` needs a predefined size. This is defined in the head section.
+* Note that the map `<div>` needs a predefined size. This is defined in the head section with a percentage of the viewport (`vh` / `vw`).
 * Open  `index.html` in a browser and the map should show.
 * Subscribe (at least) to the [history] of `assets/map-config.js` to get notified of new/changed entries.
   Replace the raw content of a changed file to get up to date.

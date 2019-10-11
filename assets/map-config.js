@@ -1,7 +1,8 @@
 var laceMap = {}
 
 laceMap.load = function (args) {
-  if (! args.zoomlevel) args.zoomlevel = 1;
+  var clHeight = document.getElementById("map").clientHeight;
+  if (! args.zoomlevel) args.zoomlevel = (clHeight ? clHeight : 340) / 340;
   if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
   if (! args.xy) args.xy = [0,20];
 
