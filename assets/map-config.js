@@ -20,11 +20,10 @@ laceMap.load = function (args) {
   });
 }
 laceMap.addTiles = function (map) {
-    L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
        maxZoom: 19,
-       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
-                    '| Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> ' +
-                    '| hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>' +
+       attribution: '&copy; Openstreetmap France ' +
+                    '| &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' +
                     '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>' +
                     ' (<a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_top">CC-BY-SA</a>) '
     }).addTo(map);
