@@ -6,7 +6,6 @@ Lace Museums - Germany,  Austria,  Switzerland
 
 * [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
 * [www](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html) **Museum für Sächsische Volkskunst mit Puppentheatersammlung**
-* [www](http://www.kloeppelschule.de) **Die Internationale Spitzensammlung**,  Nordhalben Klöppelschule
 * [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
 * [www](http://www.haiger.de/freizeit/Sehensw%C3%BCrdigkeiten/Leinenmuseum/Leinenmuseum.htm) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
@@ -26,7 +25,6 @@ Lace Museums - USA
 -----------------------
 * [www](http://collection.imamuseum.org/results.html?query=lace&page=77) **Indianapolis Museum of Art**,  They have a lace collection,  but no photographs on their search site.
 * [www](http://www.brooklynmuseum.org/opencollection/objects/100350/Knitted_Sampler/set/ec15ffa7d7f5327eb365affb487a66d7?referring-q=lace) **Brooklyn Museum**
-* [www](http://www.philamuseum.org/collections/permanent/198903.html?mulR=1459002395%7C366) **Philadelphia Museum of Art**
 * [www](http://thewadsworth.org/collection/costumeandtextiles/) **Hartford Wadsworth Atheneumm**
 * [www](http://risdmuseum.org/art_design/search?q=lace) **Rhode Island School of Design Museum**
 * [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
@@ -44,8 +42,6 @@ Lace Museums - USA
 * [www](http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15) **Bertha Collar | The Art Institute of Chicago**,  An important collection,  but very short on photos so far,  Searchable index at http://www.artic.edu/aic/collections/artwork-search/results/lace?page=1.
 * [www](http://www.flaglermuseum.us/lace-exhibit) **Lace_Exhibit in the Flagler Museum**,  Palm Beach,  Florida.
 * [www](https://collections.artsmia.org/index.php?page=dats) **The Minneapolis Institute of Arts has a ~500 piece collection of lace**,  some of which was shown during the 2012 IOLI convention.
-* [www](http://www.thelacemuseum.org/) **The Lace Museum**,  Sunnyvale,  California  Facebook page at https://www.facebook.com/pages/The-Lace-Museum/332034293624
-* [www](http://www.lacismuseum.org/) **Lacis Museum of Lace & Textiles**,  Berkely,  California,  Facebook page at https://www.facebook.com/LacisMuseum
 * [www](http://www.flickr.com/photos/orlacarey/sets/72157623912286524/) **Smithsonian Museum of American History Lace Collection**,  Views of the lace storage room.
 * [www](http://www.clevelandart.org/art/collection/search?collection_search_query=lace&year_operator=1&year=&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-GgyjpNZS_gzW7ZIqO6FkrZYCz7hg-UpNecNH-808-OU&form_id=clevelandart_collection_search_form) **Cleveland Museum of Art**,  Search for &#039;lace&#039; in their collections.
 
@@ -65,7 +61,6 @@ Lace Museums - UK and Ireland
 * [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
 * [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers&#039; Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
 * [www](http://collections.vam.ac.uk/search/?listing_type=&offset=0&limit=15&narrow=&extrasearch=&q=lace&commit=Search&quality=0&objectnamesearch=&placesearch=&after=&after-adbc=AD&before=&before-adbc=AD&namesearch=&materialsearch=&mnsearch=&locationsearch=) **Victoria & Albert Museum** searchable collection index,  In London,  UK.
-* [www](http://www.honitonmuseum.org/index.php?page=lace-making) **Allhallows Museum of Lace and Local Antiquities**,  Honiton,  UK.
 * [www](http://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection.
 * [www](http://www.cowperandnewtonmuseum.org.uk/lace-making/) **The Cowper and Newton Museum in Olney**,  Buckinghampshire,   Thomas Wright was the first custodian of the museum.
 * [www](http://www.laceguild.demon.co.uk/museum/) **The Lace Guild** - The Lace Guild Museum
@@ -112,7 +107,6 @@ Lace Museums - France
 * [www](http://www.lesartsdecoratifs.fr/francais/mode-et-textile/) **Les Arts Décoratifs - Mode et textile**,  107 rue de Rivoli,  75001 Paris,  France,  It is located in the Louvre Museum,  Years ago I visited Anne Kraatz there and saw some of the lace collection,  Not sure of the status at this time.
 * [www](http://musee-de-normandie.caen.fr/collections/costumes-cotumes-ok) **Musée de Normandie**Ville de Caen,  France, Détail de dentelle aux fuseaux &quot;Blonde de Caen&quot;
 * [www](http://www.paysdalencontourisme.com/musee-beaux-arts-dentelle-alencon_784_fr.html) **Musée des Beaux-Arts et de la Dentelle** d&#039;Alençon,  France,  Facebook page at https://www.facebook.com/museedentellealencon
-* [www](http://www.dentellieres.com/Musee/Retournac/) **Le Musée de Retournac**,  France
 * [www](http://www.argentan.fr/en/presentation_mdd.php) **Maison des dentelles in Argentan**,  France.
 * [www](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/) **Musée du Patrimoine & de la Dentelle**,  Chantilly,  France,  Review at http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/
 * [www](http://www.museesvilledieu.sitew.com/Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C.htm#Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C) **Musée de la Poeslerie et Maison de la Dentellière - Musées de Villedieu-les-Poêles**,  Normandy,  France.
@@ -154,7 +148,6 @@ Lace Museums - Spain & Portugal
 * [www](http://www.almagro.es/museos/museo.htm) **Museo del Encaje y la Blonda** Almagro
 * [www](http://www.cm-peniche.pt/CustomPages/ShowPage.aspx?pageid=8b428ce8-25d0-402b-9504-74b56df84783) **City Museum &gt; Collections** &gt; Trimmed Lace - Município de Peniche,  Portugal
 * [www](http://www.regmurcia.com/servlet/s.Sl?sit=c,371,m,1071&r=CeAP-165-PORTADA_CENTRO_AMPLIADO) **Museo Regional del Bolillo**,  La Palma,  Cartagena,  Spain
-* [www](http://museu.arenysdemar.cat/es/puntas) **Museo Marès del Encaje** Arenys de Mar Spain,   Pinterest account at http://www.pinterest.com/museuarenys/,  Twitter site at https://twitter.com/MuseuArenysMar,  Wikipedia entry at https://en.wikipedia.org/wiki/Arenys_de_Mar_Museum,  Review at http://lacenews.net/2010/11/21/museums-museu-mares-de-la-punta-arenys-de-mar-spain/.
 * [www](http://www.camarinas.net/turismo/en/index.php?seccion=m_encaixe) **The Lace Museum (Museo do Encaixe) in Camariñas**,  Spain
 * [www](http://www.museoencaje.com/) **Museo y Centro Didáctico del Encaje de Castilla y León**,  Tordesillas,  Spain
 * [www](http://www.geira.pt/MRendas/) **Museu das Rendas**,  Vila do Conde,  Portugal.
