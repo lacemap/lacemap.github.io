@@ -53,8 +53,15 @@ For the latter option fill in the dots (see the [overview] of providers) and act
 
 Please extend the attribution with:
 
-    'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a>'
+    'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a> contributors'
 
+Note the [terms] of use for the provider of your choice. 
+[OSM] requires a cache of 7 days, that is 604.800 seconds, 
+github's `cache-control` header is set to only `max-age=525010`.
+The default settled for an alternative that gives German labels along the local labels.
+
+[OSM]: https://operations.osmfoundation.org/policies/tiles/
+[terms]: https://wiki.openstreetmap.org/wiki/Tile_servers
 [overview]: http://leaflet-extras.github.io/leaflet-providers/preview/index.html
 [marginal traffic]: https://www.openstreetmap.fr/fonds-de-carte/
 
