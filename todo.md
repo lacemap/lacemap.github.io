@@ -118,10 +118,10 @@ Lace Museums - France
 
 Lace Museums - Nordic Countries
 -----------------------
-* [www](http://www.museum-sonderjylland.dk/drohses-hus.html) **The Lace Museum in Tønder is in the Drøhses Hus**,  a museum associated with the Museum Sønder Jylland.
+* [www](https://msj.dk/udstillinger/) **The Lace Museum in Tønder is in the Drøhses Hus**,  a museum associated with the Museum Sønder Jylland.
 * [www](http://www.spetsmuseet.se/) **Vadstena Spetsmuseum**,  Sweden
-* [www](http://www.simrishamn.se/kultur_fritid/osterlens_museum/) **Österlens museums in Skåne**,  Sweden,  They lent lace material to the American Swedish Institute for their Nordic Lace exhibition in 2012-2013.
-* [www](http://www.rmlace.net/) **The Rauma Museum lace collection**,  Rauma,  Finland.
+* [www](https://www.simrishamn.se/kultur-och-fritid/osterlens-museum) **Österlens museums in Skåne**,  Sweden,  They lent lace material to the American Swedish Institute for their Nordic Lace exhibition in 2012-2013.
+* [www](https://www.rauma.fi/museo/vanha-raatihuone/) **The Rauma Museum lace collection**,  Rauma,  Finland.
 
 Lace Museums - Belgium & the Netherlands
 -----------------------
