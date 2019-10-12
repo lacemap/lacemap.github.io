@@ -200,7 +200,7 @@ var laceMapData = [{
     "name": "Museu Marès de la Punta",
     "address": "carrer de l’Església,43 08350 - Arenys de Mar",
     "website": "http://museu.arenysdemar.cat",
-    "remarks": ""
+    "remarks": "<a href='http://www.pinterest.com/museuarenys/'>pinterest</a>,  <a href='https://twitter.com/MuseuArenysMar'>Twitter</a>,  <a href='https://en.wikipedia.org/wiki/Arenys_de_Mar_Museum'>Wikipedia</a>,  review at <a href='http://lacenews.net/2010/11/21/museums-museu-mares-de-la-punta-arenys-de-mar-spain/'>lacenews</a>"
   }
 },{
   "type": "Feature",
@@ -260,7 +260,7 @@ var laceMapData = [{
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [-3.1884384155273438,50.799927191863766]},
   "properties": {
-    "name": "Allhallows Museum",
+    "name": "Allhallows Museum of Lace and Local Antiquities",
     "address": "High Street, Honiton",
     "website": "http://www.honitonmuseum.org",
     "remarks": ""
@@ -280,8 +280,8 @@ var laceMapData = [{
   "properties": {
     "name": "Lacis Museum of Lace and Textiles",
     "address": "2982 Adeline St. Berkeley, CA  94703",
-    "website": "http://www.lacis.com",
-    "remarks": ""
+    "website": "http://www.lacismuseum.com",
+    "remarks": "<a href='https://www.facebook.com/LacisMuseum'>Facebook</a>"
   }
 },{
   "type": "Feature",
@@ -317,7 +317,7 @@ var laceMapData = [{
     "name": "The Lace Museum & Guild",
     "address": "552 S. Murphy Ave, Sunnyvale, CA 94086 USA",
     "website": "http://www.thelacemuseum.org",
-    "remarks": ""
+    "remarks": "<a href='https://www.facebook.com/pages/The-Lace-Museum/332034293624'>Facebook</a>"
   }
 },{
   "type": "Feature",
