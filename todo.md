@@ -154,10 +154,8 @@ Lace Museums - Spain & Portugal
 
 Lace Museums - South America
 -----------------------
-* [www](http://www.lanacion.com.py/articulo/84526-reabren-museo-comunitario-del-anduti-en-itaugua.html) **Reabren museo comunitario del Ñandutí en Itauguá**,  See also http://www.ilam.org/museo?id=440
+* -57.35388310252802,-25.394913642065223 [www](https://web.archive.org/web/20130629041926/http://www.lanacion.com.py:80/articulo/84526-reabren-museo-comunitario-del-anduti-en-itaugua.html) **Reabren museo comunitario del Ñandutí en Itauguá**,  See also http://tip.com.py/1250-museo-parroquial-san-rafael-y-museo-comunitario-del-nanduti
 
 Lace Museums - Australia & New Zealand
 -----------------------
-* [www](http://www.powerhousemuseum.com/lacestudycentre/) **Lace Study Center of the Powerhouse Museum**,  Sydney,  Australia
-* [www](http://www.waverock.com.au/lace.htm) **The Lace Place**,  Hyden,  Western Australia
-* [www](http://homepages.paradise.net.nz/flaxland/textile%20art/Lillia's%20lace%20museum.htm) **Lillia&#039;s lace museum**,  South Canterbury,  New Zealand
+* 171.2438771726011,-44.1083318237502 [www](https://www.nzmuseums.co.nz/collections/3280/lillias-lace-museum) **Lillia's lace museum**,  South Canterbury,  New Zealand <a href='https://web.archive.org/web/20181130021829/http://homepages.paradise.net.nz/flaxland/textile%20art/Lillia's%20lace%20museum.htm'>archived home page</a>
