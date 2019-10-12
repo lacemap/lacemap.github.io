@@ -6,7 +6,7 @@ Lace Museums - Germany,  Austria,  Switzerland
 
 * [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
 * [www](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html) **Museum für Sächsische Volkskunst mit Puppentheatersammlung**
-* [www](http://www.kloeppelschule.de/kloppelschule/int-spitzensammlung.html) **Die Internationale Spitzensammlung**,  Nordhalben Klöppelschule
+* [www](http://www.kloeppelschule.de) **Die Internationale Spitzensammlung**,  Nordhalben Klöppelschule
 * [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
 * [www](http://www.haiger.de/freizeit/Sehensw%C3%BCrdigkeiten/Leinenmuseum/Leinenmuseum.htm) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
@@ -31,7 +31,7 @@ Lace Museums - USA
 * [www](http://risdmuseum.org/art_design/search?q=lace) **Rhode Island School of Design Museum**
 * [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
 * [www](http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806) **Isabella Stewart Gardner Museum** : Her collection had over 100 pieces.
-* [www](http://www.artbma.org/collection/decorative.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
+* [www](https://www.artbma.org/collections/textiles.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
 * [www](http://www.ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
 * [www](http://sbc.edu/career-services/sweet-briar-museum) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons &quot;Lace at Sweet Briar&quot; is held there every year.
 * [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
