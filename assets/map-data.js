@@ -51,7 +51,7 @@ var laceMapData = [{
   "properties": {
     "name": "Le Musée de Normandie",
     "address": "chateau de caen",
-    "website": "http://www.ville-caen.fr/mdn/mdnAcc.htm",
+    "website": "http://musee-de-normandie.caen.fr/",
     "remarks": "Voire aussi <a href='http://www.dentellieres.com/Musee/Caen/index.htm'>dentelliers.com</a>"
   }
 },{
@@ -60,7 +60,7 @@ var laceMapData = [{
   "properties": {
     "name": " Manufacture des Flandres",
     "address": "25, rue de la prudence 59100 Roubaix",
-    "website": "http://madefla.50g.com/",
+    "website": "http://lamanufacture-roubaix.com/fr/expositions/",
     "remarks": "Voire aussi <a href='http://www.dentellieres.com/Musee/Jacquard/index.htm'>dentelliers.com</a>"
   }
 },{
@@ -96,7 +96,7 @@ var laceMapData = [{
   "properties": {
     "name": "Patrimoine et dentelle",
     "address": "1,Place Omer Vallon 60500 Chantilly",
-    "website": "http://www.chantilly-tourisme.com/_UK-ladentelle.php",
+    "website": "http://www.chantilly-tourisme.com/Culture/Le-Patrimoine/Le-Musee-de-la-Dentelle",
     "remarks": "Voire aussi <a href='http://www.dentellieres.com/Musee/Chantilly/index.htm'>dentelliers.com</a>"
   }
 },{
@@ -154,8 +154,8 @@ var laceMapData = [{
   "properties": {
     "name": "Musée Taxandria",
     "address": "Deken Adamsstraat 41 2300 Turnhout",
-    "website": "http://www.dentellieres.com/Musee/Turnhout/turnhout1.htm",
-    "remarks": ""
+    "website": "https://taxandriamuseum.turnhout.be/demonstraties-van-het-kantambacht",
+    "remarks": "See <a href='http://www.dentellieres.com/Musee/Turnhout/'>also</a>"
   }
 },{
   "type": "Feature",
@@ -208,7 +208,7 @@ var laceMapData = [{
   "properties": {
     "name": "Museu Tèxtil i d'Indumentària",
     "address": "Av. Diagonal, 686 08034 Barcelona",
-    "website": "http://www.dhub-bcn.cat/ca/info",
+    "website": "https://en.wikipedia.org/wiki/Museu_T%C3%A8xtil_i_d%27Indument%C3%A0ria",
     "remarks": ""
   }
 },{
@@ -352,8 +352,8 @@ var laceMapData = [{
   "properties": {
     "name": "Talmuseum",
     "address": "3822 Lauterbrunnen Zwitserland",
-    "website": "http://www.talmuseumlauterbrunnen.ch/frauenfleiss.html",
-    "remarks": ""
+    "website": "https://www.talmuseum-sagenwelt-lauterbrunnen.ch/",
+    "remarks": "<a href='https://web.archive.org/web/20160414232025/http://www.talmuseumlauterbrunnen.ch/frauenfleiss.html'>archived</a> page"
   }
 },{
   "type": "Feature",
@@ -370,17 +370,17 @@ var laceMapData = [{
   "properties": {
     "name": "Gruuthuse , Bruggemuseum",
     "address": "Dijver 17, 8000 Brugge",
-    "website": "http://www.brugge.be/internet/nl/musea/bruggemuseum/Gruuthuse/index.htm",
+    "website": "https://nl.wikipedia.org/wiki/Gruuthuse_(museum)",
     "remarks": "Heropent eind 2017, reopens end 2017"
   }
 },{
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [3.2334033,51.2135862]},
   "properties": {
-    "name": "Volkskunde , Bruggemuseum",
-    "address": "Balstraat 43, 8000 Brugge",
-    "website": "http://www.brugge.be/internet/nl/musea/bruggemuseum/volkskunde/index.htm",
-    "remarks": "dinsdag > zondag van 9:30 tot 17:00 uur"
+    "name": "Kantcentrum",
+    "address": "Balstraat 16, 8000 Brugge",
+    "website": "https://www.kantcentrum.eu/",
+    "remarks": "tegennover Volkskundemuseum (opposite Museum of Folk Life)"
   }
 },{
   "type": "Feature",
@@ -388,7 +388,7 @@ var laceMapData = [{
   "properties": {
     "name": "The Lace Place",
     "address": "Wave Rock Road, Hyden, Australia, WA 6359",
-    "website": "http://www.waverock.com.au/lace.htm",
+    "website": "http://www.waverock.com.au/activity/the-lace-place",
     "remarks": "9:00 tot 17:00 zeven dagen per week; het is in hetzelfde gebouw als een winkel en restaurant"
   }
 },{
@@ -422,10 +422,10 @@ var laceMapData = [{
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [5.2202655,50.8019192]},
   "properties": {
-    "name": "Kant in Vlaanderen",
+    "name": "Museum voor hedendaagse kant",
     "address": "Clockemstraat 5a 3800 Sint-Truiden",
-    "website": "http://www.kantinvlaanderen.be/realisaties.html",
-    "remarks": "Alleen te bezoeken op aanvraag, via e-mail"
+    "website": "https://www.kantinvlaanderen.be/erfgoedgemeenschap/76-museum-voor-hedendaagse-kant",
+    "remarks": "Alleen te bezoeken op aanvraag"
   }
 },{
   "type": "Feature",
