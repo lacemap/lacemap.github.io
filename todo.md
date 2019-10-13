@@ -1,21 +1,22 @@
-Pins rescued from [lacenews.net](https://lacenews.net/2016/03/09/administrative-pinterest-maps/)
-===========================================
-
-Links to add to this [list](assets/map-data.js).
+Links to add to this [list](assets/map-data.js) to get them on the interactive map.
 First broken links have to be fixed and locations figured out.
 For the latter, put the numbers before `www` once found the [map](/) with: 
 
 ![](https://user-images.githubusercontent.com/10553630/66700595-5f805f00-ecf2-11e9-9477-355b81b80ffe.png)
 
+
+Pins rescued from [lacenews.net](https://lacenews.net/2016/03/09/administrative-pinterest-maps/)
+===========================================
+
 Lace Museums - Germany,  Austria,  Switzerland
 -----------------------
 
 * 10.00973939873802,53.55108943052251 [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
-* [www](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html) **Museum für Sächsische Volkskunst mit Puppentheatersammlung**
+* [www](https://kunstgewerbemuseum.skd.museum/en/exhibitions/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
 * [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
-* [www](http://www.haiger.de/freizeit/Sehensw%C3%BCrdigkeiten/Leinenmuseum/Leinenmuseum.htm) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
-* [www](http://www.tiefenbach-opf.de/gemeinde/museumkl.php) **Gemeinde Tiefenbach - Museum ehemalige Klöppelschule** - former lace school museum.
+* [www](https://museen-in-hessen.de/de/museen/spitzen__und_leinenmuseum_haigerseelbach_) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
+* [www](https://tiefenbach-opf.de/tiefenbach/kultur/museum-ehemalige-kloeppelschule/) **Gemeinde Tiefenbach - Museum ehemalige Klöppelschule** - former lace school museum.
 
 Lace Museums - Russia
 -----------------------
@@ -42,7 +43,7 @@ Lace Museums - USA
 * [www](http://www.hispanicsociety.org/hispanic/textiles.htm) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032.
 * [www](http://www.egausa.org/index.php/resources/permanent-collection/106-00149-point-de-gaze-handkerchief) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
 * [www](http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx) **Avenir Museum of Design and Merchandising**,  Colorado State University,  the Ruth Payne Hellman lace collection.
-* [www](http://www.museodelmundillo.org/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at https://www.facebook.com/museo.demundillo
+* [www](https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at https://www.facebook.com/museodelmundillo
 * [www](http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/) **Lace from the Oneida Nation Museum**
 * [www](http://www.metmuseum.org/collections/search-the-collections?ft=lace) **Metropolitan Museum of Art** searchable collection index.
 * [www](http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15) **Bertha Collar | The Art Institute of Chicago**,  An important collection,  but very short on photos so far,  Searchable index at http://www.artic.edu/aic/collections/artwork-search/results/lace?page=1.
@@ -140,7 +141,6 @@ Lace Museums - Belgium & the Netherlands
 * [www](http://www.opt.be/informations/attractions_touristiques_binche__centre_de_la_dentelle_et_des_metiers_d____art_de_binche__le_fuseau/fr/V/38107.html) **Centre de la Dentelle et des Métiers d’ Art de Binche**,  Le Fuseau http://www.dentelledebinche.net/
 * [www](http://www.museeducostumeetdeladentelle.be/fr/accueil/) **Musée du Costume et de la Dentelle**,  Brussels,  Belgium
 * [www](http://www.begijnhofmuseum.be/) **Begijnhofmuseum**,  Turnhout,  Belgium
-* [www](http://www.kantinvlaanderen.be/realisaties.html) **Museum voor hedendaagse kant**,  Sint-Truiden,  Museum is open by appointment,  info@kantinvlaanderen.be
 * [www](http://www.momu.be/en.html) **ModeMuseum**,   Antwerp,   It has a large lace collection.
 * [www](https://www.rijksmuseum.nl/en/search?v=&s=&q=kloskant&ii=0&p=1) **the Rijksmuseum** Amsterdam,   Search on 'kloskant',   Outstanding collection,  much of which was formed with the aid of Het Kantsalet,  an organization founded in 1925.
 * [www](http://www.ardenneresidences.com/Ardenne-Residences/fr/attraction/34-musee-de-la-dentelle.html) **Musée de la Dentelle** Marche-en-Famenne,  Their regular website,  http://dentelle.marche.be does not seem to work.
