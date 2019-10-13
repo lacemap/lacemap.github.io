@@ -1,10 +1,16 @@
 Pins rescued from [lacenews.net](https://lacenews.net/2016/03/09/administrative-pinterest-maps/)
 ===========================================
 
+Links to add to this [list](assets/map-data.js).
+First broken links have to be fixed and locations figured out.
+For the latter, put the numbers before `www` once found the [map](/) with: 
+
+![](https://user-images.githubusercontent.com/10553630/66700595-5f805f00-ecf2-11e9-9477-355b81b80ffe.png)
+
 Lace Museums - Germany,  Austria,  Switzerland
 -----------------------
 
-* [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
+* 10.00973939873802,53.55108943052251 [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
 * [www](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html) **Museum für Sächsische Volkskunst mit Puppentheatersammlung**
 * [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
