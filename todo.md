@@ -26,7 +26,7 @@ Russia
 * [www](http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html) **House Museum of Yelets Lace**
 * [www](http://www.hermitagemuseum.org/html_En/03/hm3_3_2_6.html) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
 * [www](http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig) **Kukarka Lace** :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum.
-* [www](http://www.musobl.divo.ru/Ecolln_naboy.html) **The Sergiev-Posad Museum**
+* [www](http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v) **The Sergiev-Posad Museum** 141310 Prospekt Krasnoi Armii 144, Sergiev Posad
 * [www](http://eng.ethnomuseum.ru/) **The Russian Museum of Ethnography**,  They do have a lace collection.
 * [www](http://www.vologdamuseum.ru/content?id=131) **кружевной гербарий Vologda Lace Museum**,  Russia,  Very new facility.
 * [www](http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712) **Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve**,  Russia
@@ -66,7 +66,7 @@ UK and Ireland
 * [www](http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/) **Gallery of Costume**,  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment.
 * [www](http://collection.waddesdon.org.uk/search.do;jsessionid=JQ4-ZgvpYKu3F2ZNNQ8K6UBH?highlight=21) **Waddesdon manor lace collection**,  collected by Baroness Edmond de Rothschild.
 * [www](http://www.buckscc.gov.uk/bcc/museum/history_gallery.page) **Buckinghamshire County Museum** - one of the best collections of lace and lacemaking equipment in the country.
-* [www](http://rammcollections.org.uk/content/catalogs/ramm/decorative-art/clothing-and-accessories/flounce-281-1976.ashx) **Royal Albert Memorial Museum & Art Gallery**,   The &quot;Duchesse of Albany&quot; Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
+* [www](https://rammcollections.org.uk/?s=lace&post_type=object) **Royal Albert Memorial Museum & Art Gallery**,   The &quot;Duchesse of Albany&quot; Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
 * [www](http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx) **Lace Heritage**,  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation.
 * [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
 * [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
@@ -91,10 +91,10 @@ Italy and Malta
 * [www](http://www.museocaprai.it/ita/index.php) **Arnaldo Caprai Museum Collection**,  online,  This is one of the largest textile collections in the world,  especially good in Lace,  It has an associated Study and Research Centre,  But I'm not entirely sure where everything is physically located.
 * [www](http://www.comune.rapallo.ge.it/pagina516_il-museo-del-merletto.html) **Museo del Merletto Rapallo**,  Italy
 * [www](http://www.dooyoo.it/arte-musei/museo-del-tombolo-pescocostanzo-aq/661855/#rev) **Museo del Tombolo** - Pescocostanzo,  l'Aquila,  Italy,  They don't seem to have a dedicated website.
-* [www](http://www.camaffio.com/EN/merletto.html) **Ca' Maffio and lace Making Venetian art**,  This is a hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory,  They are on display,  but I'm not sure how much is out and how much is in storage.
+* [www](https://web.archive.org/web/20120717055359/http://www.camaffio.com/EN/merletto.html) **Ca' Maffio and lace Making Venetian art**,  This is a hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory,  They are on display,  but I'm not sure how much is out and how much is in storage.
 * [www](http://www.umbriaonline.com/tuoro-trasimeno-museo-merletto.phtml) **Museo del Merletto di Isola Maggiore**
 * [www](http://www.gandino.it/public/modules/ppages/index.php?url=museibasilica/museo_arte_sacra/visita_pizzi.htm) **Museo della Basilica di Santa Maria Assunta**,  Gandino,  Italy.
-* [www](http://www.uffizi.firenze.it/en/musei/?m=davanzati) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
+* [www](https://www.visitflorence.com/florence-museums/palazzo-davanzati.html) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
 
 Eastern European Countries
 -----------------------
@@ -104,7 +104,7 @@ Eastern European Countries
 * [www](http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection) **Museum of Applied Arts in Budapest**,  Hungary,  They have an extensive lace collection.
 * [www](http://www.ohb.hu/tourism/csipke/index.en.html) **Lace House - Halas Lace Museum**,  Kiskunhalas,  Hungary
 * [www](http://www.duo-kunsthandwerk.eu/skofja_loka_sl/detail/95) **Galerija Hiša klekljanih čipk A**,  Primožič 1888,  foto: Mili Primožič,  Žiri,  Slovenia
-* [www](http://www.vkrajka.eu/en/) **Vamberk Lace Museum**,  Czech Republic
+* [www](https://www.vkrajka.cz/) **Vamberk Lace Shop**,  Žamberecká 380, 517 54, Vamberk
 * [www](http://www.muzeumkrajky.euweb.cz/english.htm) **Muzeum krajky v Prachaticích - Czech Republic**,  MUSEUM OF BOBBIN LACES AT PRACHATICE,    CZECH REPUBLIC
 * [www](http://www.muzej-idrija-cerkno.si/) **Mestni musej Idrija**,  Slovenia,  The lace is in the Gewerkenegg Castle.
 
@@ -118,7 +118,7 @@ France
 * [www](http://musee-de-normandie.caen.fr/collections/costumes-cotumes-ok) **Musée de Normandie**Ville de Caen,  France, Détail de dentelle aux fuseaux &quot;Blonde de Caen&quot;
 * [www](http://www.paysdalencontourisme.com/musee-beaux-arts-dentelle-alencon_784_fr.html) **Musée des Beaux-Arts et de la Dentelle** d'Alençon,  France,  [Facebook](https://www.facebook.com/museedentellealencon)
 * [www](http://www.argentan.fr/en/presentation_mdd.php) **Maison des dentelles in Argentan**,  France.
-* [www](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/) **Musée du Patrimoine & de la Dentelle**,  Chantilly,  France,  [Review]([http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/)
+* [www](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/) **Musée du Patrimoine & de la Dentelle**,  Chantilly,  France,  [Review](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/)
 * [www](http://www.museesvilledieu.sitew.com/Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C.htm#Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C) **Musée de la Poeslerie et Maison de la Dentellière - Musées de Villedieu-les-Poêles**,  Normandy,  France.
 * [www](http://www.destination360.com/europe/france/lyon/textile-museum) **Musée des tissus et des arts décoratifs in** Lyon,  France,  They do have a lace collection,  I find their [regular website](http://www.musee-des-tissus.com/) very difficult to view.
 * [www](http://www.dentellieres.com/Musee/LePuy/) **The Museum of the Centre d'Enseignement de la Dentelle au Fuseau**,  Le Puy,  France,  [Facebook](https://www.facebook.com/pages/La-dentelle-du-Puy/132617220086606)
