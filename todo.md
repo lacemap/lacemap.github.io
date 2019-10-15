@@ -15,7 +15,7 @@ Germany,  Austria,  Switzerland
 -----------------------
 
 * 10.00973939873802,53.55108943052251 [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
-* [www](https://kunstgewerbemuseum.skd.museum/en/exhibitions/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
+* [www](https://volkskunst.skd.museum/en/exhibitions/permanent-exhibition/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
 * [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
 * [www](https://museen-in-hessen.de/de/museen/spitzen__und_leinenmuseum_haigerseelbach_) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
@@ -24,7 +24,7 @@ Germany,  Austria,  Switzerland
 Russia
 -----------------------
 * [www](http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html) **House Museum of Yelets Lace**
-* [www](http://www.hermitagemuseum.org/html_En/03/hm3_3_2_6.html) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
+* [www](https://www.hermitagemuseum.org) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
 * [www](http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig) **Kukarka Lace** :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum.
 * [www](http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v) **The Sergiev-Posad Museum** 141310 Prospekt Krasnoi Armii 144, Sergiev Posad
 * [www](http://eng.ethnomuseum.ru/) **The Russian Museum of Ethnography**,  They do have a lace collection.
@@ -36,12 +36,12 @@ USA
 * [www](http://collection.imamuseum.org/results.html?query=lace&page=77) **Indianapolis Museum of Art**,  They have a lace collection,  but no photographs on their search site.
 * [www](http://www.brooklynmuseum.org/opencollection/objects/100350/Knitted_Sampler/set/ec15ffa7d7f5327eb365affb487a66d7?referring-q=lace) **Brooklyn Museum**
 * [www](http://thewadsworth.org/collection/costumeandtextiles/) **Hartford Wadsworth Atheneumm**
-* [www](http://risdmuseum.org/art_design/search?q=lace) **Rhode Island School of Design Museum**
+* [www](https://risdmuseum.org/art-design/collection?search_api_fulltext=lace&field_on_view=1&field_type=All) **Rhode Island School of Design Museum**
 * [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
 * [www](http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806) **Isabella Stewart Gardner Museum** : Her collection had over 100 pieces.
 * [www](https://www.artbma.org/collections/textiles.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
-* [www](http://www.ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
-* [www](http://sbc.edu/career-services/sweet-briar-museum) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons &quot;Lace at Sweet Briar&quot; is held there every year.
+* [www](https://ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
+* [www](https://sbc.edu/museum/collections/) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons &quot;Lace at Sweet Briar&quot; is held there every year.
 * [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
 * [www](http://www.hispanicsociety.org/hispanic/textiles.htm) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032.
 * [www](http://www.egausa.org/index.php/resources/permanent-collection/106-00149-point-de-gaze-handkerchief) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
@@ -64,7 +64,7 @@ UK and Ireland
 * [www](http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html) **Athelstan Museum**,  Malmesbury lace collection
 * [www](http://www.thebowesmuseum.org.uk/Collections/ExploreTheCollection/ByCollection/FashionandTextiles/Top10FashionTextiles.aspx) **The Bowes Museum**  - houses the Blackborne lace collection.
 * [www](http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/) **Gallery of Costume**,  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment.
-* [www](http://collection.waddesdon.org.uk/search.do;jsessionid=JQ4-ZgvpYKu3F2ZNNQ8K6UBH?highlight=21) **Waddesdon manor lace collection**,  collected by Baroness Edmond de Rothschild.
+* [www](https://waddesdon.org.uk/the-collection/explore-the-collection/costume-lace-accessories/) **Waddesdon manor lace collection**,  collected by Baroness Edmond de Rothschild.
 * [www](http://www.buckscc.gov.uk/bcc/museum/history_gallery.page) **Buckinghamshire County Museum** - one of the best collections of lace and lacemaking equipment in the country.
 * [www](https://rammcollections.org.uk/?s=lace&post_type=object) **Royal Albert Memorial Museum & Art Gallery**,   The &quot;Duchesse of Albany&quot; Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
 * [www](http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx) **Lace Heritage**,  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation.
@@ -121,7 +121,7 @@ France
 * [www](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/) **Musée du Patrimoine & de la Dentelle**,  Chantilly,  France,  [Review](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/)
 * [www](http://www.museesvilledieu.sitew.com/Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C.htm#Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C) **Musée de la Poeslerie et Maison de la Dentellière - Musées de Villedieu-les-Poêles**,  Normandy,  France.
 * [www](http://www.destination360.com/europe/france/lyon/textile-museum) **Musée des tissus et des arts décoratifs in** Lyon,  France,  They do have a lace collection,  I find their [regular website](http://www.musee-des-tissus.com/) very difficult to view.
-* [www](http://www.dentellieres.com/Musee/LePuy/) **The Museum of the Centre d'Enseignement de la Dentelle au Fuseau**,  Le Puy,  France,  [Facebook](https://www.facebook.com/pages/La-dentelle-du-Puy/132617220086606)
+* [www](http://www.ladentelledupuy.com) **The Museum of the Centre d'Enseignement de la Dentelle au Fuseau**,  Le Puy,  France [also](http://www.dentellieres.com/Musee/LePuy/)
 * [www](http://www.arlanc.fr/dentelle/animation.php) **MUSEE DE LA DENTELLE** VILLE [D'ARLANC](http://www.arlanc.fr/dentelle/index.php)
 * [www](http://www.cite-dentelle.fr/) **Cité International de la Dentelle et de la mode de Calais**,  France,  Very new,  causing a lot of excitement in the textile world.
 * [www](http://www.cityvox.fr/musee_mirecourt-88/maison-de-la-dentelle_92553/PhotosLieu) **Maison de la Dentelle**,  Mirecourt,  France
@@ -140,7 +140,7 @@ Belgium & the Netherlands
 * [www](http://www.kantcentrum.eu/en/museum/) **Lace Museum** Bruges
 * [www](http://www.huisvanalijn.be/product/geraardsbergen-chantillykantmuseum) **Geraardsbergen: Chantillykantmuseum**,  Belgium
 * [www](http://www.museumdekantfabriek.nl/) **Museum de Kantfabriek**,  Horst,  the Netherlands.
-* [www](http://www.kmkg-mrah.be/fr/bienvenue-au-mus%C3%A9e-du-cinquantenaire) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed,  but the magnificent lace collection remains in storage.
+* [www](http://www.kmkg-mrah.be/closed-galleries) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage.
 * [www](http://www.opt.be/informations/attractions_touristiques_binche__centre_de_la_dentelle_et_des_metiers_d____art_de_binche__le_fuseau/fr/V/38107.html) **Centre de la Dentelle et des Métiers d’ Art de Binche**,  [Le Fuseau](http://www.dentelledebinche.net/)
 * [www](http://www.museeducostumeetdeladentelle.be/fr/accueil/) **Musée du Costume et de la Dentelle**,  Brussels,  Belgium
 * [www](http://www.begijnhofmuseum.be/) **Begijnhofmuseum**,  Turnhout,  Belgium
