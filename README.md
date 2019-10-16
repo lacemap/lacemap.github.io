@@ -12,14 +12,49 @@ Get involved
 
 How to contribute to the markers on the map is explained at the bottom of the [demo] page.
 
+A glitch free translation for the text around the map would be appreciated.
+Automated translation don't do a very bad job for Dutch, German or French but
+it might be an advantage for search engines to have an explicit translation.
+On the other hand it increases the burden on maintenance. 
+
 [demo]: http://lacemap.github.io/
 
-Show the map on your own site
-=============================
+Deploy your own copy of the map
+===============================
+Various options allow to deploy your own copy of the map and stay in sync or not.
+Just two methods are sketched below.
+Please note the [terms of use](#tile-service) for the tile server you choose: 
+requiring an account, payed or not, allowing commercial use or not etc.
 
-* Extract `assets` and `index.html` out of the [download]. 
-* Open  `index.html` with your favorite (plain text) editor.
-* Replace content of the `<body>` section with at least: 
+Just a customised address
+-------------------------
+The master lace map is deployed at http://lacemap.github.io/
+* Create your own [fork] with the button at the top of this page, let us assume with an account name `my-org`.
+* Go to settings, rename the repository `lacemap.github.io` to something of your choice, let us assume `lace-map`.
+* Further down between the settings choose the `master branch` as [publishing source].
+
+With the assumptions above, 
+you should now have a map in English at `https://my-org.hithub.io/lace-map`
+and a Dutch version at  `https://my-org.hithub.io/lace-map/NL`.
+Github explains how to configure your own domain on the same settings page.
+
+Now wait for updates that come as pull request messages
+issued by the `lacemap` account and [merge them]
+or read the instructions for a more technical approach to [stay in sync][fork].
+After merging, you can check at `https://github.com/my-org/lace-map/deployments` whether the changes are published. It may take another ten minutes for your browser to see the changes.
+
+[merge them]: https://help.github.com/en/articles/merging-a-pull-request#merging-a-pull-request-on-github
+[publishing source]:https://help.github.com/en/articles/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source
+[fork]: https://help.github.com/en/articles/fork-a-repo
+
+
+Copy all assets
+---------------
+This approach assumes some knowledge of HTML an JavaScript
+and the right to deploy cutom JavaScript on your website.
+* Extract `assets` plus `index.html` and/or `NL.html` out of the [download]. 
+* Open  the `.html` page(s) with your favorite (plain text) editor.
+* Replace the blabla in the `<body>` section, keep at least: 
 
       <div id="map"></div>
       <script>
@@ -30,7 +65,7 @@ Show the map on your own site
       </script>
 
 * Note that the map `<div>` needs a predefined size. This is defined in the head section with a percentage of the viewport (`vh` / `vw`).
-* Open  `index.html` in a browser and the map should show.
+* Open the `.html` page(s) in a browser and the map should show.
 * Subscribe (at least) to the [history] of `assets/map-config.js` to get notified of new/changed entries.
   Replace the raw content of a changed file to get up to date.
 
@@ -40,12 +75,10 @@ How to embed and blend the page into your website completely depends on your imp
 [history]: https://github.com/lacemap/lacemap.github.io/commits/master/assets/map-config.js.atom
  
 
-Traffic
-=======
+Tile service
+============
 
-The default tile provider only allows [marginal traffic].
-When drawing more traffic, contact the provider or choose another provider.
-For the latter option fill in the dots (see the [overview] of providers) and activate:
+For another tile server edit your copies of the `.html` pages. Fill in the dots (see the [overview] of providers) and activate:
 
     laceMap.addTiles = function (map) {
           L.tileLayer(...).addTo(map);
@@ -58,8 +91,11 @@ Please extend the attribution with:
 Note the [terms] of use for the provider of your choice. 
 [OSM] requires a cache of 7 days, that is 604.800 seconds, 
 github's `cache-control` header is set to only `max-age=525010`.
-The default settled for an alternative that gives German labels along the local labels.
 
+The default settled for an alternative that gives German labels along the local labels,
+[allowed] only for not commercial use.
+
+[allowed]: https://www.openstreetmap.de/germanstyle.html
 [OSM]: https://operations.osmfoundation.org/policies/tiles/
 [terms]: https://wiki.openstreetmap.org/wiki/Tile_servers
 [overview]: http://leaflet-extras.github.io/leaflet-providers/preview/index.html
