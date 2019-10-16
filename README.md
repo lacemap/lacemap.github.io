@@ -51,10 +51,10 @@ After merging, you can check at `https://github.com/my-org/lace-map/deployments`
 Copy all assets
 ---------------
 This approach assumes some knowledge of HTML an JavaScript
-and the right to deploy cutom JavaScript on your website.
+and the right to deploy custom JavaScript on your website.
 * Extract `assets` plus `index.html` and/or `NL.html` out of the [download]. 
 * Open  the `.html` page(s) with your favorite (plain text) editor.
-* Replace the blabla in the `<body>` section, keep at least: 
+* Replace the content of the `<body>` section with your own text and apply your own styles, keep at least: 
 
       <div id="map"></div>
       <script>
@@ -91,9 +91,10 @@ Please extend the attribution with:
 Note the [terms] of use for the provider of your choice. 
 [OSM] requires a cache of 7 days, that is 604.800 seconds, 
 github's `cache-control` header is set to only `max-age=525010`.
+A French variant allows only "marginal" traffic, whatever that may be.
 
 The default settled for an alternative that gives German labels along the local labels,
-[allowed] only for not commercial use.
+[allowed] only for non commercial use.
 
 [allowed]: https://www.openstreetmap.de/germanstyle.html
 [OSM]: https://operations.osmfoundation.org/policies/tiles/
