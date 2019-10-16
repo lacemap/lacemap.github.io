@@ -5,6 +5,10 @@ Moderator Tasks
 The major task for moderators: maintain [map-data.js], delete/correct obsolete items and add new items,
 fix broken links.
 
+A note on privacy.
+For those exposing their private collections:
+Put the marker on some public square or pond in the neighbourhood.
+
 A syntactical mistake with commas, quotes or brackets does not just affect the changed item but renders the map empty.
 So prepare your changes with a local copy or public fork.
 In case of [panic] you can revert a pull request.

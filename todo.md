@@ -43,7 +43,7 @@ USA
 * [www](https://ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
 * [www](https://sbc.edu/museum/collections/) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons &quot;Lace at Sweet Briar&quot; is held there every year.
 * [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
-* [www](http://www.hispanicsociety.org/hispanic/textiles.htm) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032.
+* [www](http://www.hispanicsociety.org/) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032. [archived](https://web.archive.org/web/20160318002903/http://hispanicsociety.org/hispanic/textiles.htm) page
 * [www](http://www.egausa.org/index.php/resources/permanent-collection/106-00149-point-de-gaze-handkerchief) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
 * [www](http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx) **Avenir Museum of Design and Merchandising**,  Colorado State University,  the Ruth Payne Hellman lace collection.
 * [www](https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at [facebook](https://www.facebook.com/museodelmundillo)
@@ -58,7 +58,7 @@ USA
 UK and Ireland
 -----------------------
 
-* [www](http://www.museum.ie/en/collection/lace.aspx) **National Museum of Ireland lace collection**,  Especially Irish lace and lace deisgns from mid 19th to mid 20th c.
+* [www](https://www.museum.ie/The-Collections/Art-Industry/Art-Industry-Collections-List/Lace-Collection) **National Museum of Ireland lace collection**,  Especially Irish lace and lace deisgns from mid 19th to mid 20th c.
 * [www](http://www.kenmarelace.ie/?page_id=176) **Kenmare Lace and Design Centre**,  The Square,  Kenmare,  Co,  Kerry,  Ireland.
 * [www](http://www.sudeleycastle.co.uk/) **Sudeley Castle**,  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles.
 * [www](http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html) **Athelstan Museum**,  Malmesbury lace collection
@@ -71,7 +71,7 @@ UK and Ireland
 * [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
 * [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
 * [www](http://collections.vam.ac.uk/search/?listing_type=&offset=0&limit=15&narrow=&extrasearch=&q=lace&commit=Search&quality=0&objectnamesearch=&placesearch=&after=&after-adbc=AD&before=&before-adbc=AD&namesearch=&materialsearch=&mnsearch=&locationsearch=) **Victoria & Albert Museum** searchable collection index,  In London,  UK.
-* [www](http://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection.
+* [www](https://www.lutonculture.com/venues/wardown-house-museum-gallery) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection. [archived](https://web.archive.org/web/20160304170905/https://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) page
 * [www](http://www.cowperandnewtonmuseum.org.uk/lace-making/) **The Cowper and Newton Museum in Olney**,  Buckinghampshire,   Thomas Wright was the first custodian of the museum.
 * [www](http://www.laceguild.demon.co.uk/museum/) **The Lace Guild** - The Lace Guild Museum
 
@@ -82,7 +82,7 @@ Italy and Malta
 * [www](http://heritagemalta.org/museums-sites/folklore-museum/) **The Folklore Museum in Victoria**,  Gozo.
 * [www](http://www.comune.fobello.vc.it/Home/Guidaalpaese/tabid/14302/Default.aspx?IDPagina=5630) **Museo/Mostra del Puncetto**,  Fobello,  Italy,  They also have displays on the history of costume in the area.
 * [www](http://www.paolamatteucciricamo.com/) **PAOLA MATTEUCCI Ricamo su tulle Ars Panicalensis-Ricamo a mano**,   Museum dedicated to embroidered net,  They also have a school.
-* [www](http://www.palazzomadamatorino.it/mostra.php?id_evento=116) **Palazzo Madama lace collection** Turin.
+* [www](https://www.palazzomadamatorino.it/en/le-collezioni/collection-online?combine=lace) **Palazzo Madama lace collection** Turin.
 * [www](http://www.turismofvg.it/Museums/Friulian-farmer-s-life-museum-cjase-Cocel-Fagagna) **Cjase Cocel museum**,  Fagagna,  Province of Undine in the Friuli-Venezia Giulia region,  Italy,  Highlights the tradition of Fagagna bobbinlace based on the Lace School at San Vito,  Undine,  The school was founded by American expatriate Countess Cora Slocumb di Brazzà.
 * [www](http://www.lovevda.it/turismo/prima_di_partire/informazioni/pagina_ricerche_e.asp?tipo=scheda&pk=1369&nomesch=sch_Patrimonio&ts=patrimonio) **Cooperativa &quot;Dentellières de Cogne&quot;** Permanent exhibition of pillow lace,  in the vallée d'Aoste,  Mostly a French speaking part of Italy,  The lace in this photo is for sale - by the yard!
 * [www](http://www.museopoldipezzoli.it/en/node/814) **Textiles / Museo Poldi Pezzoli**,  Milan,  An excellent lace collection housed in cabinets on the ground floor,  Best to ask guard for location.
@@ -93,14 +93,14 @@ Italy and Malta
 * [www](http://www.dooyoo.it/arte-musei/museo-del-tombolo-pescocostanzo-aq/661855/#rev) **Museo del Tombolo** - Pescocostanzo,  l'Aquila,  Italy,  They don't seem to have a dedicated website.
 * [www](https://web.archive.org/web/20120717055359/http://www.camaffio.com/EN/merletto.html) **Ca' Maffio and lace Making Venetian art**,  This is a hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory,  They are on display,  but I'm not sure how much is out and how much is in storage.
 * [www](http://www.umbriaonline.com/tuoro-trasimeno-museo-merletto.phtml) **Museo del Merletto di Isola Maggiore**
-* [www](http://www.gandino.it/public/modules/ppages/index.php?url=museibasilica/museo_arte_sacra/visita_pizzi.htm) **Museo della Basilica di Santa Maria Assunta**,  Gandino,  Italy.
+* [www](https://www.museobasilica.com/merletti-2/) **Museo della Basilica di Santa Maria Assunta**,  Piazza Emancipazione, 24024 Gandino (BG),  Italy.
 * [www](https://www.visitflorence.com/florence-museums/palazzo-davanzati.html) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
 
 Eastern European Countries
 -----------------------
 * [www](http://www.upm.cz/index.php?language=en&page=190) **Museum of Decorative Arts in Prague**,  Apparently has lace,  but little information about it on their website.
 * [www](http://mak.at/jart/prj3/mak/main.jart?rel=de&reserve-mode=active&content-id=1343388632776&article_id=1339957568366&media_id=1342703965486) **MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst**,   Large collection of lace,  also lace from the Wiener Werkstätte.
-* [www](http://www.kamratowo.pl/en/traditional-lace-koniakow) **Poland - Point Lace Museum** Koniakow
+* [www](https://www.kamratowo.pl/en/guide/museum-lace-koniakow.html) **Poland - Point Lace Museum** Koniakow
 * [www](http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection) **Museum of Applied Arts in Budapest**,  Hungary,  They have an extensive lace collection.
 * [www](http://www.ohb.hu/tourism/csipke/index.en.html) **Lace House - Halas Lace Museum**,  Kiskunhalas,  Hungary
 * [www](http://www.duo-kunsthandwerk.eu/skofja_loka_sl/detail/95) **Galerija Hiša klekljanih čipk A**,  Primožič 1888,  foto: Mili Primožič,  Žiri,  Slovenia
@@ -137,7 +137,6 @@ Belgium & the Netherlands
 -----------------------
 * [www](https://bezoekers.brugge.be/nl/gruuthusemuseum) **Gruuthusemuseum in Brugge**,  They have a large lace collection,  but I don't know if any of it is on display,  I also see one notice 'closed for several years of renovation',  but there's no timeline attached,  It may be open now.
 * [www](http://www.museum.nl/museum/Kantmuseum.aspx) **Kantmuseum**,  Uithuizen,   Very little information on this museum on the web.
-* [www](http://www.kantcentrum.eu/en/museum/) **Lace Museum** Bruges
 * [www](http://www.huisvanalijn.be/product/geraardsbergen-chantillykantmuseum) **Geraardsbergen: Chantillykantmuseum**,  Belgium
 * [www](http://www.museumdekantfabriek.nl/) **Museum de Kantfabriek**,  Horst,  the Netherlands.
 * [www](http://www.kmkg-mrah.be/closed-galleries) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage.
