@@ -44,7 +44,7 @@ USA
 * [www](https://sbc.edu/museum/collections/) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons &quot;Lace at Sweet Briar&quot; is held there every year.
 * [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
 * [www](http://www.hispanicsociety.org/) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032. [archived](https://web.archive.org/web/20160318002903/http://hispanicsociety.org/hispanic/textiles.htm) page
-* [www](http://www.egausa.org/index.php/resources/permanent-collection/106-00149-point-de-gaze-handkerchief) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
+* [www](https://www.egausa.org/index.php/) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
 * [www](http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx) **Avenir Museum of Design and Merchandising**,  Colorado State University,  the Ruth Payne Hellman lace collection.
 * [www](https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at [facebook](https://www.facebook.com/museodelmundillo)
 * [www](http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/) **Lace from the Oneida Nation Museum**
@@ -60,7 +60,7 @@ UK and Ireland
 
 * [www](https://www.museum.ie/The-Collections/Art-Industry/Art-Industry-Collections-List/Lace-Collection) **National Museum of Ireland lace collection**,  Especially Irish lace and lace deisgns from mid 19th to mid 20th c.
 * [www](http://www.kenmarelace.ie/?page_id=176) **Kenmare Lace and Design Centre**,  The Square,  Kenmare,  Co,  Kerry,  Ireland.
-* [www](http://www.sudeleycastle.co.uk/) **Sudeley Castle**,  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles.
+* [www](https://sudeleycastle.co.uk//) **Sudeley Castle**,  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles.
 * [www](http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html) **Athelstan Museum**,  Malmesbury lace collection
 * [www](http://www.thebowesmuseum.org.uk/Collections/ExploreTheCollection/ByCollection/FashionandTextiles/Top10FashionTextiles.aspx) **The Bowes Museum**  - houses the Blackborne lace collection.
 * [www](http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/) **Gallery of Costume**,  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment.
@@ -77,9 +77,9 @@ UK and Ireland
 
 Italy and Malta
 -----------------------
-* [www](http://www.turismofvg.it/Museums/Provincial-museum-of-Gorizia-First-World-War-museum) **Museo della Grande Guerra di Gorizia**,  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area.
+* [www](https://musei.regione.fvg.it/) **Museo della Grande Guerra di Gorizia**,  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area.
 * [www](http://www.museopalazzovenezia.beniculturali.it/index.php?en/1/home) **National Museum of the Palazzo Venezia**,  Apparently it has an extensive lace collection,  documented in 2014 in &quot;Storie di Abiti e Merletti',  and the collection is in need of restoration,  Not sure how students can access the collection.
-* [www](http://heritagemalta.org/museums-sites/folklore-museum/) **The Folklore Museum in Victoria**,  Gozo.
+* [www](https://heritagemalta.org/gran-castello-historic-house/) **The Folklore Museum in Victoria**,  Gozo.
 * [www](http://www.comune.fobello.vc.it/Home/Guidaalpaese/tabid/14302/Default.aspx?IDPagina=5630) **Museo/Mostra del Puncetto**,  Fobello,  Italy,  They also have displays on the history of costume in the area.
 * [www](http://www.paolamatteucciricamo.com/) **PAOLA MATTEUCCI Ricamo su tulle Ars Panicalensis-Ricamo a mano**,   Museum dedicated to embroidered net,  They also have a school.
 * [www](https://www.palazzomadamatorino.it/en/le-collezioni/collection-online?combine=lace) **Palazzo Madama lace collection** Turin.
@@ -110,19 +110,19 @@ Eastern European Countries
 
 France
 -----------------------
-* [www](http://www.musee-renaissance.fr/actualite/salle-des-tissus) **Salle des tissus / Musée National de la Renaissance Château d'Ecouen**,   The textile hall reopened in June,   There is a book &quot;Les Dentelles - Musée National de la Renaissance Château d'Ecouen&quot; about the lace collection,  published in 1992.
+* [www](https://www.musee-renaissance.fr/actualite/salle-des-tissus) **Salle des tissus / Musée National de la Renaissance Château d'Ecouen**, There is a book &quot;Les Dentelles - Musée National de la Renaissance Château d'Ecouen&quot; about the lace collection,  published in 1992.
 * [www](http://www.museedelafemme.fr/page2.html) **Musee de la Femme**,  Faucigny,  France,   Looks like they have a good lace collection.
 * [www](https://www.facebook.com/DentelleCaudry) **Musée des Dentelles et Broderies Caudry**
 * [www](http://www.hoteldeladentelle.com/) **Hotel de la dentelle - Brioude**
 * [www](http://www.lesartsdecoratifs.fr/francais/mode-et-textile/) **Les Arts Décoratifs - Mode et textile**,  107 rue de Rivoli,  75001 Paris,  France,  It is located in the Louvre Museum,  Years ago I visited Anne Kraatz there and saw some of the lace collection,  Not sure of the status at this time.
 * [www](http://musee-de-normandie.caen.fr/collections/costumes-cotumes-ok) **Musée de Normandie**Ville de Caen,  France, Détail de dentelle aux fuseaux &quot;Blonde de Caen&quot;
 * [www](http://www.paysdalencontourisme.com/musee-beaux-arts-dentelle-alencon_784_fr.html) **Musée des Beaux-Arts et de la Dentelle** d'Alençon,  France,  [Facebook](https://www.facebook.com/museedentellealencon)
-* [www](http://www.argentan.fr/en/presentation_mdd.php) **Maison des dentelles in Argentan**,  France.
+* [www](https://www.argentan.fr/loisirs/culture-et-patrimoine/maison-des-dentelles/) **Maison des dentelles in Argentan**,  France.
 * [www](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/) **Musée du Patrimoine & de la Dentelle**,  Chantilly,  France,  [Review](http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/)
 * [www](http://www.museesvilledieu.sitew.com/Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C.htm#Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C) **Musée de la Poeslerie et Maison de la Dentellière - Musées de Villedieu-les-Poêles**,  Normandy,  France.
-* [www](http://www.destination360.com/europe/france/lyon/textile-museum) **Musée des tissus et des arts décoratifs in** Lyon,  France,  They do have a lace collection,  I find their [regular website](http://www.musee-des-tissus.com/) very difficult to view.
+* [www](http://www.mtmad.fr/fr/Pages/default.aspx) **Musée des tissus et des arts décoratifs in** Lyon,  France,  They do have a lace collection,  I find their [regular website](http://www.musee-des-tissus.com/) very difficult to view.
 * [www](http://www.ladentelledupuy.com) **The Museum of the Centre d'Enseignement de la Dentelle au Fuseau**,  Le Puy,  France [also](http://www.dentellieres.com/Musee/LePuy/)
-* [www](http://www.arlanc.fr/dentelle/animation.php) **MUSEE DE LA DENTELLE** VILLE [D'ARLANC](http://www.arlanc.fr/dentelle/index.php)
+* [www](http://arlanc.fr/18-musee-de-la-dentelle) **MUSEE DE LA DENTELLE** VILLE D'ARLANC
 * [www](http://www.cite-dentelle.fr/) **Cité International de la Dentelle et de la mode de Calais**,  France,  Very new,  causing a lot of excitement in the textile world.
 * [www](http://www.cityvox.fr/musee_mirecourt-88/maison-de-la-dentelle_92553/PhotosLieu) **Maison de la Dentelle**,  Mirecourt,  France
 
@@ -137,7 +137,7 @@ Belgium & the Netherlands
 -----------------------
 * [www](https://bezoekers.brugge.be/nl/gruuthusemuseum) **Gruuthusemuseum in Brugge**,  They have a large lace collection,  but I don't know if any of it is on display,  I also see one notice 'closed for several years of renovation',  but there's no timeline attached,  It may be open now.
 * [www](http://www.museum.nl/museum/Kantmuseum.aspx) **Kantmuseum**,  Uithuizen,   Very little information on this museum on the web.
-* [www](http://www.huisvanalijn.be/product/geraardsbergen-chantillykantmuseum) **Geraardsbergen: Chantillykantmuseum**,  Belgium
+* [www](https://whichmuseum.com/belgium/geraardsbergen/chantillykantmuseum) **Geraardsbergen: Chantillykantmuseum**,  Belgium (temporary close, 2019?)
 * [www](http://www.museumdekantfabriek.nl/) **Museum de Kantfabriek**,  Horst,  the Netherlands.
 * [www](http://www.kmkg-mrah.be/closed-galleries) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage.
 * [www](http://www.opt.be/informations/attractions_touristiques_binche__centre_de_la_dentelle_et_des_metiers_d____art_de_binche__le_fuseau/fr/V/38107.html) **Centre de la Dentelle et des Métiers d’ Art de Binche**,  [Le Fuseau](http://www.dentelledebinche.net/)
@@ -145,7 +145,7 @@ Belgium & the Netherlands
 * [www](http://www.begijnhofmuseum.be/) **Begijnhofmuseum**,  Turnhout,  Belgium
 * [www](http://www.momu.be/en.html) **ModeMuseum**,   Antwerp,   It has a large lace collection.
 * [www](https://www.rijksmuseum.nl/en/search?v=&s=&q=kloskant&ii=0&p=1) **the Rijksmuseum** Amsterdam,   Search on 'kloskant',   Outstanding collection,  much of which was formed with the aid of Het Kantsalet,  an organization founded in 1925.
-* [www](http://www.ardenneresidences.com/Ardenne-Residences/fr/attraction/34-musee-de-la-dentelle.html) **Musée de la Dentelle** Marche-en-Famenne,  Their [regular website](http://dentelle.marche.be) does not seem to work.
+* [www](http://dentellesdemarche.be/) **Musée de la Dentelle** Marche-en-Famenne
 * [www](http://www.kantcentrumbonheiden.be/?plugin=plugin_standaard&menustruktuur_id=84) **Museum Mechelse Kant**,  Kantcentrum,  Sint-Maartensberg,  1,  2820 Rijmenam,  Belgium
 * [www](http://lacecurator.info/collecting-lace/lace-in-belgium-wednesday.html) **Carolus Borromeuskerk**,  Antwerp,  One room is devoted to a lace museum.
 * [www](http://www.kortrijk.be/vlasmuseum) **Vlasmuseum (Flax Museum) in Kortrijk**,  Belgium,  Closed until mid 2014,  It is moving to a new building in the center of town.
