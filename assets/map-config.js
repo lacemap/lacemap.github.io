@@ -11,13 +11,26 @@ laceMap.load = function (args) {
   laceMap.addPopUp(map, args.xyPrompt)
 
   var clusterGroup = L.markerClusterGroup().addTo(map);
-
   L.geoJson(laceMapData,{
     onEachFeature: function (feature, layer) {
       layer.bindPopup(laceMap.popupContent(feature.properties));
       layer.addTo(clusterGroup)
     }
   });
+
+  L.Control.geocoder({
+    geocoder: L.Control.Geocoder.nominatim(),
+    placeholder: "Search with Nominatim...",
+    defaultMarkGeocode: false,
+  }).on('markgeocode', function(e) {
+    var position = e.geocode.center
+    map.setZoom(14)
+    map.fitBounds(e.geocode.bbox)
+    L.popup()
+     .setLatLng(position)
+     .setContent(e.geocode.name + "<br>" + position.lng + "," + position.lat)
+     .openOn(map);
+  }).addTo(map);
 }
 laceMap.addTiles = function (map) {
     L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {

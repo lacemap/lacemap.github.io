@@ -1,15 +1,14 @@
 Links to add to this [list](assets/map-data.js) to get them on the interactive map.
 
-But first broken links have to be fixed and locations figured out.
-For the latter, use another map to locate an address. 
-Click the corresponding location at the [lacemap](/), 
-put the numbers before `www` on this page: 
+Copy the coordinates from the search popup and paste them before `www` on this page: 
 
-![](https://user-images.githubusercontent.com/10553630/66700595-5f805f00-ecf2-11e9-9477-355b81b80ffe.png)
+![](assets/search.png)
+
 
 
 Pins to curate from [lacenews.net](https://lacenews.net/2016/03/09/administrative-pinterest-maps/) - Lace Museums
 ===========================================
+Broken links should  be fixed but locations are not yet complete.
 
 Germany,  Austria,  Switzerland
 -----------------------
