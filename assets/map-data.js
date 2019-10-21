@@ -7,7 +7,7 @@ var laceMapData = [{
     "name": "Le Musée d’Arlanc",
     "address": "Arlanc",
     "website": "http://www.dentellieres.com/Musee/Arlanc/index.htm",
-    "remarks": ""
+    "remarks": "<a href='http://arlanc.fr/accueil/20-le-musee-de-la-dentelle.html'>arlanc.fr</a>"
   }
 },{
   "type": "Feature",
@@ -43,7 +43,7 @@ var laceMapData = [{
     "name": "Musée Crozatier",
     "address": "Jardin Henri Vinay 43 000 Le-Puy-en-Velay",
     "website": "http://www.dentellieres.com/Musee/Crozatier/Crozatier3.htm",
-    "remarks": ""
+    "remarks": "<a href='http://www.ladentelledupuy.com/'>also</a>"
   }
 },{
   "type": "Feature",
@@ -69,8 +69,8 @@ var laceMapData = [{
   "properties": {
     "name": "Maison des Dentelles",
     "address": "34, rue de la Noë 61200 Argentan",
-    "website": "http://www.dentellieres.com/Musee/Argentan/index.htm",
-    "remarks": ""
+    "website": "https://www.argentan.fr/loisirs/culture-et-patrimoine/maison-des-dentelles/",
+    "remarks": "See <a href='http://www.dentellieres.com/Musee/Argentan/index.htm'>also</a>"
   }
 },{
   "type": "Feature",
@@ -97,7 +97,7 @@ var laceMapData = [{
     "name": "Patrimoine et dentelle",
     "address": "1,Place Omer Vallon 60500 Chantilly",
     "website": "http://www.chantilly-tourisme.com/Culture/Le-Patrimoine/Le-Musee-de-la-Dentelle",
-    "remarks": "Voire aussi <a href='http://www.dentellieres.com/Musee/Chantilly/index.htm'>dentelliers.com</a>"
+    "remarks": "Voire aussi <a href='http://www.dentellieres.com/Musee/Chantilly/index.htm'>dentelliers.com</a>, <a href='http://lacenews.net/2011/03/13/museums-musee-du-patrimoine-de-la-dentelle-chantilly-france/'>review</a>"
   }
 },{
   "type": "Feature",
@@ -105,8 +105,8 @@ var laceMapData = [{
   "properties": {
     "name": "Le Musée des Beaux Arts et de la Dentell",
     "address": "12 rue Charles Aveline  61000 Alençon",
-    "website": "http://www.dentellieres.com/Musee/Alencon/alencon1.htm",
-    "remarks": ""
+    "website": "http://museedentelle.cu-alencon.fr/",
+    "remarks": "See <a href='http://www.dentellieres.com/Musee/Alencon/alencon1.htm'>also</a>"
   }
 },{
   "type": "Feature",
@@ -114,8 +114,8 @@ var laceMapData = [{
   "properties": {
     "name": "L'Hôtel de la Dentelle",
     "address": "29 et 43, rue du 4 Septembre F-43100 Brioude",
-    "website": "http://www.dentellieres.com/Musee/Brioude/brioude1.htm",
-    "remarks": ""
+    "website": "https://www.hoteldeladentelle.com/",
+    "remarks": "See <a href='http://www.dentellieres.com/Musee/Brioude/brioude1.htm'>also</a>"
   }
 },{
   "type": "Feature",
@@ -226,7 +226,7 @@ var laceMapData = [{
   "properties": {
     "name": "Museum voor Kostuum en Kant",
     "address": "Violetstraat 12, 1000 BRUSSEL",
-    "website": "http://brussel.nl/brussel/informatie/musea/overige/museum_voor_kostuum_en_kant",
+    "website": "https://www.fashionandlacemuseum.brussels/fr/fr/accueil",
     "remarks": ""
   }
 },{
@@ -404,9 +404,9 @@ var laceMapData = [{
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [-1.221714,48.838032]},
   "properties": {
-    "name": "Maison de la Dentellière",
+    "name": "Musée de la Poeslerie/Maison de la Dentellière",
     "address": "Cour du Foyer, 25 rue Gal Huard ,50800 VILLEDIEU-LES-POÊLES",
-    "website": "http://museesvilledieu.sitew.com/#Visitez_nos_musees.H",
+    "website": "http://www.museesvilledieu.sitew.com/Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C.htm#Musee_de_la_Poeslerie_et_Maison_de_la_Dentelliere.C",
     "remarks": ""
   }
 },{

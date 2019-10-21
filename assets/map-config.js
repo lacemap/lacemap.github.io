@@ -33,7 +33,7 @@ laceMap.load = function (args) {
 }
 laceMap.addTiles = function (map) {
     L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
-       maxZoom: 16,
+       maxZoom: 17,
        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors ' +
                     '| Tiles served by <a href="https://www.openstreetmap.de">openstreetmap.de</a> ' +
                     '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a> contributors'
