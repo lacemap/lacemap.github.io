@@ -14,30 +14,30 @@ Germany,  Austria,  Switzerland
 -----------------------
 
 * 10.00973939873802,53.55108943052251 [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
-* [www](https://www.skd.museum/besuch/schloss-pillnitz/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](https://web.archive.org/web/20140704230552/http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
-* [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
-* [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
-* [www](https://museen-in-hessen.de/de/museen/spitzen__und_leinenmuseum_haigerseelbach_) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
-* [www](https://tiefenbach-opf.de/tiefenbach/kultur/museum-ehemalige-kloeppelschule/) **Gemeinde Tiefenbach - Museum ehemalige Klöppelschule** - former lace school museum.
+* 13.7438061,51.0576715 [www](https://www.skd.museum/besuch/schloss-pillnitz/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](https://web.archive.org/web/20140704230552/http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
+* 12.1356103,50.4941593 [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
+* 10.9625108,49.243589 [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
+* 8.17872298871944,50.76507435 [www](https://museen-in-hessen.de/de/museen/spitzen__und_leinenmuseum_haigerseelbach_) **Leinen- und Spitzenmuseum** Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany
+* 12.099031,48.50673385 [www](https://tiefenbach-opf.de/tiefenbach/kultur/museum-ehemalige-kloeppelschule/) **Gemeinde Tiefenbach - Museum ehemalige Klöppelschule** - former lace school museum.
 
 Russia
 -----------------------
-* [www](http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html) **House Museum of Yelets Lace**
-* [www](https://www.hermitagemuseum.org) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
+* 38.49762161383901,52.60287938088806 [www](http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html) **House Museum of Yelets Lace**
+* 30.314845980700053,59.93968572832177 [www](https://www.hermitagemuseum.org) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
 * [www](http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig) **Kukarka Lace** :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum.
 * [www](http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v) **The Sergiev-Posad Museum** 141310 Prospekt Krasnoi Armii 144, Sergiev Posad
-* [www](http://eng.ethnomuseum.ru/) **The Russian Museum of Ethnography**,  They do have a lace collection.
-* [www](http://www.vologdamuseum.ru/content?id=131) **кружевной гербарий Vologda Lace Museum**,  Russia,  Very new facility.
-* [www](http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712) **Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve**,  Russia
+* 30.3337947776176,59.93794215 [www](https://en.wikipedia.org/wiki/Russian_Museum_of_Ethnography) **The Russian Museum of Ethnography**,  They do have a lace collection.
+* 39.8848816427303,59.22382245 [www](http://www.vologdamuseum.ru/content?id=131) **кружевной гербарий (Kremlin Square) 12 Vologda Lace Museum**,  Russia,  Very new facility.
+*  [www](http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712) **Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve**,  Russia
 
 USA
 -----------------------
 * [www](http://collection.imamuseum.org/results.html?query=lace&page=77) **Indianapolis Museum of Art**,  They have a lace collection,  but no photographs on their search site.
-* [www](http://www.brooklynmuseum.org/opencollection/objects/100350/Knitted_Sampler/set/ec15ffa7d7f5327eb365affb487a66d7?referring-q=lace) **Brooklyn Museum**
-* [www](http://thewadsworth.org/collection/costumeandtextiles/) **Hartford Wadsworth Atheneumm**
-* [www](https://risdmuseum.org/art-design/collection?search_api_fulltext=lace&field_on_view=1&field_type=All) **Rhode Island School of Design Museum**
-* [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
-* [www](http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806) **Isabella Stewart Gardner Museum** : Her collection had over 100 pieces.
+* -73.9633157304714,40.6709108 [www](https://www.brooklynmuseum.org/opencollection/tags/lace) **Brooklyn Museum**
+* -72.6730839890199,41.76346815 [www](http://thewadsworth.org/collection/costumeandtextiles/) **Hartford Wadsworth Atheneumm**
+* -71.4085056875,41.8263785 [www](https://risdmuseum.org/art-design/collection?search_api_fulltext=lace&field_on_view=1&field_type=All) **Rhode Island School of Design Museum**
+* -71.0938964010892,42.3394576 [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
+* -71.0991546047242,42.3382438 [www](http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806) **Isabella Stewart Gardner Museum** : Her collection had over 100 pieces.
 * [www](https://www.artbma.org/collections/textiles.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
 * [www](https://ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
 * [www](https://sbc.edu/museum/collections/) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons "Lace at Sweet Briar" is held there every year.
