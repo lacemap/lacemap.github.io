@@ -157,7 +157,6 @@ Spain & Portugal
 * [www](http://www.regmurcia.com/servlet/s.Sl?sit=c,371,m,1071&r=CeAP-165-PORTADA_CENTRO_AMPLIADO) **Museo Regional del Bolillo**,  La Palma,  Cartagena,  Spain
 * [www](http://www.camarinas.net/turismo/en/index.php?seccion=m_encaixe) **The Lace Museum (Museo do Encaixe) in Camariñas**,  Spain
 * [www](http://www.museoencaje.com/) **Museo y Centro Didáctico del Encaje de Castilla y León**,  Tordesillas,  Spain
-* [www](http://www.geira.pt/MRendas/) **Museu das Rendas**,  Vila do Conde,  Portugal.
 
 South America
 -----------------------

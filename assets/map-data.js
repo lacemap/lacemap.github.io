@@ -173,7 +173,7 @@ var laceMapData = [{
     "name": "Musée de la dentelle aux fuseaux",
     "address": "Rua de S. Bento, 70 4480-782 Vila do Conde",
     "website": "http://www.dentellieres.com/Musee/Vila/index.htm",
-    "remarks": "<a href='http://www.geira.pt/MRendas/'></a>"
+    "remarks": "another <a href='http://www.geira.pt/MRendas/'>link</a>"
   }
 },{
   "type": "Feature",
