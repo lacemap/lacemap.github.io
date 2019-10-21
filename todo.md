@@ -97,15 +97,15 @@ Italy and Malta
 
 Eastern European Countries
 -----------------------
-* [www](http://www.upm.cz/index.php?language=en&page=190) **Museum of Decorative Arts in Prague**,  Apparently has lace,  but little information about it on their website.
-* [www](http://mak.at/jart/prj3/mak/main.jart?rel=de&reserve-mode=active&content-id=1343388632776&article_id=1339957568366&media_id=1342703965486) **MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst**,   Large collection of lace,  also lace from the Wiener Werkstätte.
-* [www](https://www.kamratowo.pl/en/guide/museum-lace-koniakow.html) **Poland - Point Lace Museum** Koniakow
-* [www](http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection) **Museum of Applied Arts in Budapest**,  Hungary,  They have an extensive lace collection.
-* [www](http://www.ohb.hu/tourism/csipke/index.en.html) **Lace House - Halas Lace Museum**,  Kiskunhalas,  Hungary
-* [www](http://www.duo-kunsthandwerk.eu/skofja_loka_sl/detail/95) **Galerija Hiša klekljanih čipk A**,  Primožič 1888,  foto: Mili Primožič,  Žiri,  Slovenia
-* [www](https://www.vkrajka.cz/) **Vamberk Lace Shop**,  Žamberecká 380, 517 54, Vamberk
-* [www](http://www.muzeumkrajky.euweb.cz/english.htm) **Muzeum krajky v Prachaticích - Czech Republic**,  MUSEUM OF BOBBIN LACES AT PRACHATICE,    CZECH REPUBLIC
-* [www](http://www.muzej-idrija-cerkno.si/) **Mestni musej Idrija**,  Slovenia,  The lace is in the Gewerkenegg Castle.
+* 14.416436080594195,50.08988019347746 [www](http://www.upm.cz/index.php?language=en&page=190) **Museum of Decorative Arts in Prague**,  Apparently has lace,  but little information about it on their website.
+* 16.3815068356564,48.2074202 [www](https://sammlung.mak.at/sammlung_online?&q=spitzen) **MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst**,   Large collection of lace,  also lace from the Wiener Werkstätte.
+* 18.953414806588988,49.54898508501323 [www](https://www.kamratowo.pl/en/guide/museum-lace-koniakow.html) **Poland - Point Lace Museum** Koniakow
+* 19.0682019860933,47.4859506 [www](http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection) **Museum of Applied Arts in Budapest**,  Hungary,  They have an extensive lace collection. Closed jan 2018 for renovations
+* 19.48894404121102,46.43051389840775 [www](http://www.ohb.hu/tourism/csipke/index.en.html) **Lace House - Halas Lace Museum**, Kossuth utca 37, Kiskunhalas, Hungary
+* 16.29388565930268,50.11775708296077 [www](http://www.duo-kunsthandwerk.eu/skofja_loka_sl/detail/95) **Galerija Hiša klekljanih čipk A**,  Primožič 1888,  foto: Mili Primožič,  Žiri,  Slovenia
+* 16.2938525,50.1177888 [www](https://www.vkrajka.cz/) **Vamberk Lace Shop**,  Žamberecká 380, 517 54, Vamberk
+* 13.998226068861129,49.01223116501201 [www](http://www.muzeumkrajky.euweb.cz/english.htm) **Muzeum krajky v Prachaticích - Czech Republic**,  MUSEUM OF BOBBIN LACES AT PRACHATICE,    CZECH REPUBLIC
+* 14.018931975,46.00067185 [www](http://www.muzej-idrija-cerkno.si/) **Mestni musej Idrija**,  Slovenia,  The lace is in the Gewerkenegg Castle.
 
 France
 -----------------------
