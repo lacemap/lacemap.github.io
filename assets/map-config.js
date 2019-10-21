@@ -2,11 +2,10 @@ var laceMap = {}
 
 laceMap.load = function (args) {
   var clHeight = document.getElementById("map").clientHeight;
-  if (! args.zoomlevel) args.zoomlevel = (clHeight ? clHeight : 340) / 340;
+  if (! args.bounds) args.bounds = [[72,-170],[-60,190]];
   if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
-  if (! args.xy) args.xy = [0,20];
 
-  var map = L.map(args.containerID).setView([args.xy[1],args.xy[0]], args.zoomlevel);
+  var map = L.map(args.containerID).fitBounds(args.bounds)
   laceMap.addTiles(map)
   laceMap.addPopUp(map, args.xyPrompt)
 

@@ -110,8 +110,7 @@ An alternative with an initial focus on France:
 
     laceMap.load({
       containerID: 'map',
-      xy: [3,47],
-      zoomlevel: 5,
+      bounds: [[51,4],[42,8]],
       xyPrompt: 'Vous avez cliqué sur la carte à:'
     });
 
