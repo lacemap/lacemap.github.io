@@ -290,7 +290,7 @@ var laceMapData = [{
   "properties": {
     "name": "Victoria and Albert Museum",
     "address": "Cromwell Road, London, UK, SW7 2RL",
-    "website": "http://www.vam.ac.uk",
+    "website": "http://collections.vam.ac.uk/search/?listing_type=&offset=0&limit=15&narrow=&extrasearch=&q=lace&commit=Search&quality=0&objectnamesearch=&placesearch=&after=&after-adbc=AD&before=&before-adbc=AD&namesearch=&materialsearch=&mnsearch=&locationsearch=",
     "remarks": "Tel +44 (0)20 29422000 Open; Daily 10.00-17.45 hrs (Wednesdays till 22.00 hrs) Free entry (2010) Large museum w. excellent fashion, lace and jewellery exhibitions."
   }
 },{
