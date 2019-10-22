@@ -14,6 +14,7 @@ Germany,  Austria,  Switzerland
 -----------------------
 
 * 10.00973939873802,53.55108943052251 [www](http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html) **Museum für Kunst und Gewerbe**,  Hamburg,  They have a lace collection<,  viewable by appointment only.
+* 16.3815068356564,48.2074202 [www](https://sammlung.mak.at/sammlung_online?&q=spitzen) **MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst**,   Large collection of lace,  also lace from the Wiener Werkstätte.
 * 13.7438061,51.0576715 [www](https://www.skd.museum/besuch/schloss-pillnitz/) **Museum für Sächsische Volkskunst mit Puppentheatersammlung** [archived event](https://web.archive.org/web/20140704230552/http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)
 * 12.1356103,50.4941593 [www](http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php) **Plauener Spitzenmuseum**, Plauen,  Germany
 * 10.9625108,49.243589 [www](http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/) **Klöppelmuseum Abenberg**,  Germany
@@ -96,9 +97,10 @@ Italy and Malta
 * [www](https://www.visitflorence.com/florence-museums/palazzo-davanzati.html) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
 
 Eastern European Countries
+
+
 -----------------------
 * 14.416436080594195,50.08988019347746 [www](http://www.upm.cz/index.php?language=en&page=190) **Museum of Decorative Arts in Prague**,  Apparently has lace,  but little information about it on their website.
-* 16.3815068356564,48.2074202 [www](https://sammlung.mak.at/sammlung_online?&q=spitzen) **MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst**,   Large collection of lace,  also lace from the Wiener Werkstätte.
 * 18.953414806588988,49.54898508501323 [www](https://www.kamratowo.pl/en/guide/museum-lace-koniakow.html) **Poland - Point Lace Museum** Koniakow
 * 19.0682019860933,47.4859506 [www](http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection) **Museum of Applied Arts in Budapest**,  Hungary,  They have an extensive lace collection. Closed jan 2018 for renovations
 * 19.48894404121102,46.43051389840775 [www](http://www.ohb.hu/tourism/csipke/index.en.html) **Lace House - Halas Lace Museum**, Kossuth utca 37, Kiskunhalas, Hungary
