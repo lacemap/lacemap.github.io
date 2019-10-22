@@ -77,24 +77,24 @@ UK and Ireland
 
 Italy and Malta
 -----------------------
-* [www](https://musei.regione.fvg.it/) **Museo della Grande Guerra di Gorizia**,  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area.
-* [www](http://www.museopalazzovenezia.beniculturali.it/index.php?en/1/home) **National Museum of the Palazzo Venezia**,  Apparently it has an extensive lace collection,  documented in 2014 in "Storie di Abiti e Merletti',  and the collection is in need of restoration,  Not sure how students can access the collection.
-* [www](https://heritagemalta.org/gran-castello-historic-house/) **The Folklore Museum in Victoria**,  Gozo.
-* [www](http://www.comune.fobello.vc.it/Home/Guidaalpaese/tabid/14302/Default.aspx?IDPagina=5630) **Museo/Mostra del Puncetto**,  Fobello,  Italy,  They also have displays on the history of costume in the area.
-* [www](http://www.paolamatteucciricamo.com/) **PAOLA MATTEUCCI Ricamo su tulle Ars Panicalensis-Ricamo a mano**,   Museum dedicated to embroidered net,  They also have a school.
-* [www](https://www.palazzomadamatorino.it/en/le-collezioni/collection-online?combine=lace) **Palazzo Madama lace collection** Turin.
-* [www](http://www.turismofvg.it/Museums/Friulian-farmer-s-life-museum-cjase-Cocel-Fagagna) **Cjase Cocel museum**,  Fagagna,  Province of Undine in the Friuli-Venezia Giulia region,  Italy,  Highlights the tradition of Fagagna bobbinlace based on the Lace School at San Vito,  Undine,  The school was founded by American expatriate Countess Cora Slocumb di Brazzà.
-* [www](http://www.cogneturismo.it/ospitalita.asp?id=20&cat=24&l=1&n=84) **Cooperativa "Dentellières de Cogne"** Permanent exhibition of pillow lace,  in the vallée d'Aoste,  Mostly a French speaking part of Italy, [see also](https://www.lovevda.it/fr/base-de-donnees/10/artisanat/cogne/les-dentelles-de-cogne-cooperative-%C2%AB-les-dentellieres-%C2%BB/560)
-* [www](http://www.museopoldipezzoli.it/en/node/814) **Textiles / Museo Poldi Pezzoli**,  Milan,  An excellent lace collection housed in cabinets on the ground floor,  Best to ask guard for location.
-* [www](http://museomerletto.visitmuve.it/en/home/) **Museo del Merletto**,  Burano,  Italy
-* [www](http://www.comune.offida.ap.it/it/citta/mus_merletto.asp) **Museu di Merletto**,  Offida,  Italy
-* [www](http://www.museocaprai.it/ita/index.php) **Arnaldo Caprai Museum Collection**,  online,  This is one of the largest textile collections in the world,  especially good in Lace,  It has an associated Study and Research Centre,  But I'm not entirely sure where everything is physically located.
-* [www](http://www.comune.rapallo.ge.it/pagina516_il-museo-del-merletto.html) **Museo del Merletto Rapallo**,  Italy
-* [www](http://www.dooyoo.it/arte-musei/museo-del-tombolo-pescocostanzo-aq/661855/#rev) **Museo del Tombolo** - Pescocostanzo,  l'Aquila,  Italy,  They don't seem to have a dedicated website.
-* [www](https://web.archive.org/web/20120717055359/http://www.camaffio.com/EN/merletto.html) **Ca' Maffio and lace Making Venetian art**,  This is a hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory,  They are on display,  but I'm not sure how much is out and how much is in storage.
-* [www](http://www.umbriaonline.com/tuoro-trasimeno-museo-merletto.phtml) **Museo del Merletto di Isola Maggiore**
-* [www](https://www.museobasilica.com/merletti-2/) **Museo della Basilica di Santa Maria Assunta**,  Piazza Emancipazione, 24024 Gandino (BG),  Italy.
-* [www](https://www.visitflorence.com/florence-museums/palazzo-davanzati.html) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
+See also http://web.tiscali.it/merlettoitaliano/territorio/pescocostanzo_e.html
+
+* 13.6280323,45.9430253 [www](https://musei.regione.fvg.it/index.php?page=it/musei_e_archivi/musei_provinciali_di_gorizia/museo_della_moda_e_delle_arti_applicate/) **Museo della Grande Guerra di Gorizia**,  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area.
+* 12.4815341,41.8963664 [www](http://www.museopalazzovenezia.beniculturali.it/index.php?en/1/home) **National Museum of the Palazzo Venezia**,  Apparently it has an extensive lace collection,  documented in 2014 in "Storie di Abiti e Merletti',  and the collection is in need of restoration,  Not sure how students can access the collection.
+* 14.2397307031073,36.04655650378655 [www](https://heritagemalta.org/gran-castello-historic-house/) **The Folklore Museum in Victoria**,  Gozo.
+* 8.158326880028653,45.88942575591717 [www](http://www.comune.fobello.vc.it/Home/Guidaalpaese/tabid/14302/Default.aspx?IDPagina=5630) **Museo/Mostra del Puncetto**,  Fobello,  Italy,  They also have displays on the history of costume in the area.
+* 12.094360520039237,43.02845439520854 [www](http://www.paolamatteucciricamo.com/) **PAOLA MATTEUCCI Ricamo su tulle Ars Panicalensis-Ricamo a mano**,   Museum dedicated to embroidered net,  They also have a school.
+* 7.685829308603497,45.07090597769728 [www](https://www.palazzomadamatorino.it/en/le-collezioni/collection-online?combine=lace) **Palazzo Madama lace collection** Turin.
+* 13.0938188,46.1131698 [www](http://www.turismofvg.it/Museums/Friulian-farmer-s-life-museum-cjase-Cocel-Fagagna) **Cjase Cocel museum**,  Fagagna,  Province of Undine in the Friuli-Venezia Giulia region,  Italy,  Highlights the tradition of Fagagna bobbinlace based on the Lace School at San Vito,  Undine,  The school was founded by American expatriate Countess Cora Slocumb di Brazzà.
+* 9.175727,45.5477706 [www](http://www.museopoldipezzoli.it) **Textiles / Museo Poldi Pezzoli**,  Milan,  An excellent lace collection housed in cabinets on the ground floor,  Best to ask guard for location.
+* 13.6880618,42.9337343 [www](http://www.turismoffida.com/it/museo-del-merletto.html) **Museu di Merletto**,  Offida,  Italy
+* 12.72850267928281,42.91135326772417 [www](http://www.museocaprai.it/ita/index.php) **Arnaldo Caprai Museum Collection**,  online,  This is one of the largest textile collections in the world,  especially good in Lace,  It has an associated Study and Research Centre,  But I'm not entirely sure where everything is physically located.
+* 9.23844521272957,44.3462408 [www](http://www.comune.rapallo.ge.it/pagina516_il-museo-del-merletto.html) **Museo del Merletto Rapallo**,  Italy
+* 14.0657891,41.890246 [www](https://www.facebook.com/museotombolopescocostanzo/) **Museo del Tombolo** - Pescocostanzo,  l'Aquila,  Italy.
+* 12.391600374327776,45.57356287912275 [www](https://web.archive.org/web/20120717055359/http://www.camaffio.com/EN/merletto.html) **Ca' Maffio and lace Making Venetian art**,  This is a (closed) hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory.
+* 12.0902595526615,43.17702495 [www](http://www.umbriaonline.com/tuoro-trasimeno-museo-merletto.phtml) **Museo del Merletto di Isola Maggiore**
+* 9.90305092695055,45.81085485 [www](https://www.museobasilica.com/merletti-2/) **Museo della Basilica di Santa Maria Assunta**,  Piazza Emancipazione, 24024 Gandino (BG),  Italy.
+* 11.2527482,43.7701712 [www](https://www.visitflorence.com/florence-museums/palazzo-davanzati.html) **Polo Museale Fiorentino :: Sito Ufficiale**,  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni.
 
 Eastern European Countries
 

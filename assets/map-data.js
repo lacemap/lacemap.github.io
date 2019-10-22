@@ -132,8 +132,8 @@ var laceMapData = [{
   "properties": {
     "name": "Museo del Merletto di Burano",
     "address": "Piazza Baldassare Galuppi, 184 30142 Venezia",
-    "website": "http://www.dentellieres.com/Musee/Burano/index.htm",
-    "remarks": ""
+    "website": "https://museomerletto.visitmuve.it/en/home/",
+    "remarks": "See <a href='http://www.dentellieres.com/Musee/Burano/index.htm'>also</a>"
   }
 },{
   "type": "Feature",
@@ -143,10 +143,11 @@ var laceMapData = [{
     "address": "50 rue du Dr Grappein 11012 Cogne",
     "website": "http://www.dentellieres.com/Musee/Cogne/index.htm",
     "remarks": "See also " +
-               "<a href='http://www.lovevda.it/it/banca-dati/10/artigianato/cogne/i-pizzi-di-cogne-cooperativa-les-dentellieres/560'>tourism</a>, " +
+               "<a href='http://www.lovevda.it/it/banca-dati/10/artigianato/cogne/i-pizzi-di-cogne-cooperativa-les-dentellieres/560'>lovevda</a>, " +
                "<a href='https://it.wikipedia.org/wiki/Dentelles'>it.wikipedia</a>, " +
-               "<a href='https://web.archive.org/web/20170205220722/http://www.pizzodicogne.it/'>archived pizzodicogne.it</a> and " +
-                "<a href='http://www.seghesiogrivon.it/30-anni-di-cooperativa-%E2%80%9Cles-dentellieres-de-cogne%E2%80%9D.html'>1981-2011</a>"
+               "<a href='https://web.archive.org/web/20170205220722/http://www.pizzodicogne.it/'>archived pizzodicogne.it</a>, " +
+                "<a href='http://www.seghesiogrivon.it/30-anni-di-cooperativa-%E2%80%9Cles-dentellieres-de-cogne%E2%80%9D.html'>1981-2011</a> and "+
+                "<a href='http://www.cogneturismo.it/ospitalita.asp?id=20&cat=24&l=1&n=84'>turismo</a>"
   }
 },{
   "type": "Feature",
