@@ -51,7 +51,7 @@ USA
 * -88.22833223301814,44.44560186421278 [www](http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/) **Lace from the Oneida Nation Museum** [archived](https://web.archive.org/web/*/https://oneida-nsn.gov/our-ways/museum/)
 * -73.9633641138519,40.77944365 [www](http://www.metmuseum.org/collections/search-the-collections?ft=lace) **Metropolitan Museum of Art** searchable collection index.
 * -93.0218685,41.3247198 [www](http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15) **Bertha Collar / The Art Institute of Chicago**,  An important collection,  but very short on photos so far,  [Searchable index](http://www.artic.edu/aic/collections/artwork-search/results/lace).
-* [www](http://www.flaglermuseum.us/lace-exhibit) **Lace_Exhibit in the Flagler Museum**,  Palm Beach,  Florida.
+* -80.04381541060378,26.71367790529034 [www](http://www.flaglermuseum.us/lace-exhibit) **Lace_Exhibit in the Flagler Museum**,  Palm Beach,  Florida.
 * -93.2741525554116,44.95859455 [www](https://collections.artsmia.org/index.php?page=dats) **The Minneapolis Institute of Arts** has a ~500 piece collection of lace,  some of which was shown during the 2012 IOLI convention.
 * -77.0235232,38.8978291 [www](http://www.flickr.com/photos/orlacarey/sets/72157623912286524/) **Smithsonian Museum of American History Lace Collection**,  Views of the lace storage room.
 * -81.6117367219063,41.5090438 [www](http://www.clevelandart.org/art/collection/search?collection_search_query=lace&year_operator=1&year=&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-GgyjpNZS_gzW7ZIqO6FkrZYCz7hg-UpNecNH-808-OU&form_id=clevelandart_collection_search_form) **Cleveland Museum of Art**,  Search for 'lace' in their collections.

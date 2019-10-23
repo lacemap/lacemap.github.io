@@ -464,4 +464,780 @@ var laceMapData = [{
     "website": "http://www.pierrefouche.net",
     "remarks": ""
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.00973939873802,53.55108943052251]},
+  "properties": {
+    "website": "http://www.mkg-hamburg.de/en/collection/permanent-collection/fashion/justaucorps-and-waistcoat.html",
+    "name": "Museum für Kunst und Gewerbe",
+    "remarks": ",  Hamburg,  They have a lace collection<,  viewable by appointment only."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [16.3815068356564,48.2074202]},
+  "properties": {
+    "website": "https://sammlung.mak.at/sammlung_online?&q=spitzen",
+    "name": "MAK - Österreichisches Museum für angewandte Kunst/ Gegenwartskunst",
+    "remarks": ",   Large collection of lace,  also lace from the Wiener Werkstätte."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [13.7438061,51.0576715]},
+  "properties": {
+    "website": "https://www.skd.museum/besuch/schloss-pillnitz/",
+    "name": "Museum für Sächsische Volkskunst mit Puppentheatersammlung",
+    "remarks": " [archived event](https://web.archive.org/web/20140704230552/http://www.skd.museum/de/museen-institutionen/schloss-pillnitz/kunstgewerbemuseum/produktionsfest/index.html)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.1356103,50.4941593]},
+  "properties": {
+    "website": "http://www.plauen.de/de/tourismus/plauen-entdecken/plauener-spitze/spitzenmuseum.php",
+    "name": "Plauener Spitzenmuseum",
+    "remarks": ", Plauen,  Germany"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.9625108,49.243589]},
+  "properties": {
+    "website": "http://www.museen-abenberg.de/desktopdefault.aspx/tabid-315/754_read-15269/",
+    "name": "Klöppelmuseum Abenberg",
+    "remarks": ",  Germany"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [8.17872298871944,50.76507435]},
+  "properties": {
+    "website": "https://museen-in-hessen.de/de/museen/spitzen__und_leinenmuseum_haigerseelbach_",
+    "name": "Leinen- und Spitzenmuseum",
+    "remarks": " Haiger-Seelbach  Seelbachstraße 9 (Ortsmitte),  35708 Haiger-Seelbach (im alten Rathaus),  Germany"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.099031,48.50673385]},
+  "properties": {
+    "website": "https://tiefenbach-opf.de/tiefenbach/kultur/museum-ehemalige-kloeppelschule/",
+    "name": "Gemeinde Tiefenbach - Museum ehemalige Klöppelschule",
+    "remarks": " - former lace school museum."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [38.49762161383901,52.60287938088806]},
+  "properties": {
+    "website": "http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html",
+    "name": "House Museum of Yelets Lace",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [30.314845980700053,59.93968572832177]},
+  "properties": {
+    "website": "https://www.hermitagemuseum.org",
+    "name": "The State Hermitage Museum: Collection Highlights",
+    "remarks": ",  There is lace at the Hermitage,  but it's difficult to find on their website."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [49.69483800747652,58.606404272224715]},
+  "properties": {
+    "website": "http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig",
+    "name": "Kukarka Lace",
+    "remarks": " :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum. From [wikipedia](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE) Currently  ... lace cooperative “Kukarskoe lace”"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [38.13314653950487,56.31360861287357]},
+  "properties": {
+    "website": "http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v",
+    "name": "The Sergiev-Posad Museum",
+    "remarks": " 141310 Prospekt Krasnoi Armii 144, Sergiev Posad"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [30.3337947776176,59.93794215]},
+  "properties": {
+    "website": "https://en.wikipedia.org/wiki/Russian_Museum_of_Ethnography",
+    "name": "The Russian Museum of Ethnography",
+    "remarks": ",  They do have a lace collection."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [39.8848816427303,59.22382245]},
+  "properties": {
+    "website": "http://www.vologdamuseum.ru/content?id=131",
+    "name": "кружевной гербарий (Kremlin Square) 12 Vologda Lace Museum",
+    "remarks": ",  Russia,  Very new facility."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [38.36974576686367,59.85774071379745]},
+  "properties": {
+    "website": "http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712",
+    "name": "Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve",
+    "remarks": ",  Russia, prices up to 2012, news items up to 2015 [vologdamuseum](http://www.vologdamuseum.ru/content?id=59#pic004) the “Lace Fabrics” collection includes more than 4200 items"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-86.1858389057633,39.82596175]},
+  "properties": {
+    "website": "http://collection.imamuseum.org/results.html?query=lace&page=77",
+    "name": "Indianapolis Museum of Art",
+    "remarks": ",  They have a lace collection,  but no photographs on their search site."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-73.9633157304714,40.6709108]},
+  "properties": {
+    "website": "https://www.brooklynmuseum.org/opencollection/tags/lace",
+    "name": "Brooklyn Museum",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-72.6730839890199,41.76346815]},
+  "properties": {
+    "website": "http://thewadsworth.org/collection/costumeandtextiles/",
+    "name": "Hartford Wadsworth Atheneumm",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-71.4085056875,41.8263785]},
+  "properties": {
+    "website": "https://risdmuseum.org/art-design/collection?search_api_fulltext=lace&field_on_view=1&field_type=All",
+    "name": "Rhode Island School of Design Museum",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-71.0938964010892,42.3394576]},
+  "properties": {
+    "website": "http://www.mfa.org/collections/object/lace-47014",
+    "name": "Museum of Fine Arts",
+    "remarks": ",  Boston,  They have a lot but little is photographed."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-71.0991546047242,42.3382438]},
+  "properties": {
+    "website": "http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806",
+    "name": "Isabella Stewart Gardner Museum",
+    "remarks": " : Her collection had over 100 pieces."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-76.6194946144439,39.32585585]},
+  "properties": {
+    "website": "https://www.artbma.org/collections/textiles.html",
+    "name": "Textiles - Baltimore Museum of Art",
+    "remarks": ",  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [1.15072507733578,52.06053845]},
+  "properties": {
+    "website": "https://ipswichmuseum.org/",
+    "name": "Ipswich Museum",
+    "remarks": ",  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-73.9466347486007,40.83336025]},
+  "properties": {
+    "website": "http://www.hispanicsociety.org/",
+    "name": "Textiles at the Hispanic Society of America",
+    "remarks": ",  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032. [archived](https://web.archive.org/web/20160318002903/http://hispanicsociety.org/hispanic/textiles.htm) page"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-105.07395076002643,40.56897153047087]},
+  "properties": {
+    "website": "http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx",
+    "name": "Avenir Museum of Design and Merchandising",
+    "remarks": ",  Colorado State University,  the Ruth Payne Hellman lace collection."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-67.11145589007515,18.3942335338268]},
+  "properties": {
+    "website": "https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/",
+    "name": "Museo del Mundillo in Moca",
+    "remarks": ",  Puerto Rico,  USA,  Facebook page at [facebook](https://www.facebook.com/museodelmundillo)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-88.22833223301814,44.44560186421278]},
+  "properties": {
+    "website": "http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/",
+    "name": "Lace from the Oneida Nation Museum",
+    "remarks": " [archived](https://web.archive.org/web/*/https://oneida-nsn.gov/our-ways/museum/)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-73.9633641138519,40.77944365]},
+  "properties": {
+    "website": "http://www.metmuseum.org/collections/search-the-collections?ft=lace",
+    "name": "Metropolitan Museum of Art",
+    "remarks": " searchable collection index."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-93.0218685,41.3247198]},
+  "properties": {
+    "website": "http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15",
+    "name": "Bertha Collar / The Art Institute of Chicago",
+    "remarks": ",  An important collection,  but very short on photos so far,  [Searchable index](http://www.artic.edu/aic/collections/artwork-search/results/lace)."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-80.04381541060378,26.71367790529034]},
+  "properties": {
+    "website": "http://www.flaglermuseum.us/lace-exhibit",
+    "name": "Lace_Exhibit in the Flagler Museum",
+    "remarks": ",  Palm Beach,  Florida."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-93.2741525554116,44.95859455]},
+  "properties": {
+    "website": "https://collections.artsmia.org/index.php?page=dats",
+    "name": "The Minneapolis Institute of Arts",
+    "remarks": " has a ~500 piece collection of lace,  some of which was shown during the 2012 IOLI convention."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-77.0235232,38.8978291]},
+  "properties": {
+    "website": "http://www.flickr.com/photos/orlacarey/sets/72157623912286524/",
+    "name": "Smithsonian Museum of American History Lace Collection",
+    "remarks": ",  Views of the lace storage room."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-81.6117367219063,41.5090438]},
+  "properties": {
+    "website": "http://www.clevelandart.org/art/collection/search?collection_search_query=lace&year_operator=1&year=&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-GgyjpNZS_gzW7ZIqO6FkrZYCz7hg-UpNecNH-808-OU&form_id=clevelandart_collection_search_form",
+    "name": "Cleveland Museum of Art",
+    "remarks": ",  Search for 'lace' in their collections."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-6.285779364798226,53.348834529376795]},
+  "properties": {
+    "website": "https://www.museum.ie/The-Collections/Art-Industry/Art-Industry-Collections-List/Lace-Collection",
+    "name": "National Museum of Ireland lace collection",
+    "remarks": ",  Especially Irish lace and lace deisgns from mid 19th to mid 20th c."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-9.5847224,51.8807489]},
+  "properties": {
+    "website": "http://www.kenmarelace.ie/?page_id=176",
+    "name": "Kenmare Lace and Design Centre",
+    "remarks": ",  The Square,  Kenmare,  Co,  Kerry,  Ireland."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-1.95642933591386,51.9473749]},
+  "properties": {
+    "website": "https://sudeleycastle.co.uk//",
+    "name": "Sudeley Castle",
+    "remarks": ",  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-2.0967983,51.583616]},
+  "properties": {
+    "website": "http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html",
+    "name": "Athelstan Museum",
+    "remarks": ",  Malmesbury lace collection"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-1.9154819205163,54.54205995]},
+  "properties": {
+    "website": "http://www.thebowesmuseum.org.uk/Collections/ExploreTheCollection/ByCollection/FashionandTextiles/Top10FashionTextiles.aspx",
+    "name": "The Bowes Museum",
+    "remarks": "  - houses the Blackborne lace collection."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-2.24139425145136,53.47866855]},
+  "properties": {
+    "website": "http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/",
+    "name": "Gallery of Costume",
+    "remarks": ",  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.8150469,51.817258]},
+  "properties": {
+    "website": "https://www.buckscountymuseum.org/museum/",
+    "name": "Waddesdon manor lace collection",
+    "remarks": ",  collected by Baroness Edmond de Rothschild [archived](https://waddesdon.org.uk/the-collection/explore-the-collection/costume-lace-accessories/)."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.8150469,51.817258]},
+  "properties": {
+    "website": "http://www.buckscc.gov.uk/bcc/museum/history_gallery.page",
+    "name": "Buckinghamshire County Museum",
+    "remarks": " - one of the best collections of lace and lacemaking equipment in the country."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-1.153585405670419,52.958662493815]},
+  "properties": {
+    "website": "http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx",
+    "name": "Lace Heritage",
+    "remarks": ",  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-7.641402471643352,54.296422917999436]},
+  "properties": {
+    "website": "http://www.irishlacemuseum.com/",
+    "name": "Sheelin Antique Irish Lace Museum and Shop",
+    "remarks": ",  Ireland"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.2136749881901978,51.496460233616475]},
+  "properties": {
+    "website": "http://www.vam.ac.uk/page/c/clothworkers-centre/",
+    "name": "The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion",
+    "remarks": ",   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.418322641882922,51.89466025]},
+  "properties": {
+    "website": "https://www.culturetrust.com/venues/wardown-house-museum-gallery",
+    "name": "Wardown Park Museum",
+    "remarks": ",  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection. [archived](https://web.archive.org/web/20160304170905/https://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) page"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.7008267963896021,52.15247615771748]},
+  "properties": {
+    "website": "http://www.cowperandnewtonmuseum.org.uk/lace-making/",
+    "name": "The Cowper and Newton Museum in Olney",
+    "remarks": ",  Buckinghampshire,   Thomas Wright was the first custodian of the museum."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-2.1554972214587758,52.47268999979764]},
+  "properties": {
+    "website": "https://www.laceguild.org/visiting-the-hollieshttps://www.laceguild.org/visiting-the-hollies",
+    "name": "The Lace Guild",
+    "remarks": " - The Lace Guild Museum"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [13.6280323,45.9430253]},
+  "properties": {
+    "website": "https://musei.regione.fvg.it/index.php?page=it/musei_e_archivi/musei_provinciali_di_gorizia/museo_della_moda_e_delle_arti_applicate/",
+    "name": "Museo della Grande Guerra di Gorizia",
+    "remarks": ",  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.2397307031073,36.04655650378655]},
+  "properties": {
+    "website": "https://heritagemalta.org/gran-castello-historic-house/",
+    "name": "The Folklore Museum in Victoria",
+    "remarks": ",  Gozo."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [8.158326880028653,45.88942575591717]},
+  "properties": {
+    "website": "http://www.comune.fobello.vc.it/Home/Guidaalpaese/tabid/14302/Default.aspx?IDPagina=5630",
+    "name": "Museo/Mostra del Puncetto",
+    "remarks": ",  Fobello,  Italy,  They also have displays on the history of costume in the area."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.094360520039237,43.02845439520854]},
+  "properties": {
+    "website": "http://www.paolamatteucciricamo.com/",
+    "name": "PAOLA MATTEUCCI Ricamo su tulle Ars Panicalensis-Ricamo a mano",
+    "remarks": ",   Museum dedicated to embroidered net,  They also have a school."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [7.685829308603497,45.07090597769728]},
+  "properties": {
+    "website": "https://www.palazzomadamatorino.it/en/le-collezioni/collection-online?combine=lace",
+    "name": "Palazzo Madama lace collection",
+    "remarks": " Turin."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [13.0938188,46.1131698]},
+  "properties": {
+    "website": "http://www.turismofvg.it/Museums/Friulian-farmer-s-life-museum-cjase-Cocel-Fagagna",
+    "name": "Cjase Cocel museum",
+    "remarks": ",  Fagagna,  Province of Undine in the Friuli-Venezia Giulia region,  Italy,  Highlights the tradition of Fagagna bobbinlace based on the Lace School at San Vito,  Undine,  The school was founded by American expatriate Countess Cora Slocumb di Brazzà."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [9.175727,45.5477706]},
+  "properties": {
+    "website": "http://www.museopoldipezzoli.it",
+    "name": "Textiles / Museo Poldi Pezzoli",
+    "remarks": ",  Milan,  An excellent lace collection housed in cabinets on the ground floor,  Best to ask guard for location."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [13.6880618,42.9337343]},
+  "properties": {
+    "website": "http://www.turismoffida.com/it/museo-del-merletto.html",
+    "name": "Museu di Merletto",
+    "remarks": ",  Offida,  Italy"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.72850267928281,42.91135326772417]},
+  "properties": {
+    "website": "http://www.museocaprai.it/ita/index.php",
+    "name": "Arnaldo Caprai Museum Collection",
+    "remarks": ",  online,  This is one of the largest textile collections in the world,  especially good in Lace,  It has an associated Study and Research Centre,  But I'm not entirely sure where everything is physically located."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [9.23844521272957,44.3462408]},
+  "properties": {
+    "website": "http://www.comune.rapallo.ge.it/pagina516_il-museo-del-merletto.html",
+    "name": "Museo del Merletto Rapallo",
+    "remarks": ",  Italy"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.0657891,41.890246]},
+  "properties": {
+    "website": "https://www.facebook.com/museotombolopescocostanzo/",
+    "name": "Museo del Tombolo",
+    "remarks": " - Pescocostanzo,  l'Aquila,  Italy."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.391600374327776,45.57356287912275]},
+  "properties": {
+    "website": "https://web.archive.org/web/20120717055359/http://www.camaffio.com/EN/merletto.html",
+    "name": "Ca' Maffio and lace Making Venetian art",
+    "remarks": ",  This is a (closed) hotel halfway between Venice and Treviso,  that for some reason managed to acquire what was left of the Levi Moreno lace collection from the Jesurum manufactory."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.0902595526615,43.17702495]},
+  "properties": {
+    "website": "http://www.umbriaonline.com/tuoro-trasimeno-museo-merletto.phtml",
+    "name": "Museo del Merletto di Isola Maggiore",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [9.90305092695055,45.81085485]},
+  "properties": {
+    "website": "https://www.museobasilica.com/merletti-2/",
+    "name": "Museo della Basilica di Santa Maria Assunta",
+    "remarks": ",  Piazza Emancipazione, 24024 Gandino (BG),  Italy."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [11.2527482,43.7701712]},
+  "properties": {
+    "website": "https://www.visitflorence.com/florence-museums/palazzo-davanzati.html",
+    "name": "Polo Museale Fiorentino :: Sito Ufficiale",
+    "remarks": ",  Palazzo Davanzati,  Florence,  Excellent lace display in the Studiolo and Camera dei Pavoni."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.416436080594195,50.08988019347746]},
+  "properties": {
+    "website": "http://www.upm.cz/index.php?language=en&page=190",
+    "name": "Museum of Decorative Arts in Prague",
+    "remarks": ",  Apparently has lace,  but little information about it on their website."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [18.953414806588988,49.54898508501323]},
+  "properties": {
+    "website": "https://www.kamratowo.pl/en/guide/museum-lace-koniakow.html",
+    "name": "Poland - Point Lace Museum",
+    "remarks": " Koniakow"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [19.0682019860933,47.4859506]},
+  "properties": {
+    "website": "http://www.imm.hu/en/contents/28,Textile+and+Costume+Collection",
+    "name": "Museum of Applied Arts in Budapest",
+    "remarks": ",  Hungary,  They have an extensive lace collection. Closed jan 2018 for renovations"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [19.48894404121102,46.43051389840775]},
+  "properties": {
+    "website": "http://www.ohb.hu/tourism/csipke/index.en.html",
+    "name": "Lace House - Halas Lace Museum",
+    "remarks": ", Kossuth utca 37, Kiskunhalas, Hungary"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [16.29388565930268,50.11775708296077]},
+  "properties": {
+    "website": "http://www.duo-kunsthandwerk.eu/skofja_loka_sl/detail/95",
+    "name": "Galerija Hiša klekljanih čipk A",
+    "remarks": ",  Primožič 1888,  foto: Mili Primožič,  Žiri,  Slovenia"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [16.2938525,50.1177888]},
+  "properties": {
+    "website": "https://www.vkrajka.cz/",
+    "name": "Vamberk Lace Shop",
+    "remarks": ",  Žamberecká 380, 517 54, Vamberk"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [13.998226068861129,49.01223116501201]},
+  "properties": {
+    "website": "http://www.muzeumkrajky.euweb.cz/english.htm",
+    "name": "Muzeum krajky v Prachaticích - Czech Republic",
+    "remarks": ",  MUSEUM OF BOBBIN LACES AT PRACHATICE,    CZECH REPUBLIC"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.018931975,46.00067185]},
+  "properties": {
+    "website": "http://www.muzej-idrija-cerkno.si/",
+    "name": "Mestni musej Idrija",
+    "remarks": ",  Slovenia,  The lace is in the Gewerkenegg Castle."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-3.532039882815029,50.7251523424952]},
+  "properties": {
+    "website": "https://rammcollections.org.uk/?s=lace&post_type=object",
+    "name": "Royal Albert Memorial Museum & Art Gallery",
+    "remarks": ",   The \"Duchesse of Albany\" Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.4815341,41.8963664]},
+  "properties": {
+    "website": "http://www.museopalazzovenezia.beniculturali.it/index.php?en/1/home",
+    "name": "National Museum of the Palazzo Venezia",
+    "remarks": ",  Apparently it has an extensive lace collection,  documented in 2014 in \"Storie di Abiti e Merletti\",  and the collection is in need of restoration,  Not sure how students can access the collection."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [2.3783515847820795,49.017071280969745]},
+  "properties": {
+    "website": "https://musee-renaissance.fr/collection/arts-du-textile",
+    "name": "Salle des tissus / Musée National de la Renaissance Château d'Ecouen",
+    "remarks": ", There is a book \"Les Dentelles - Musée National de la Renaissance Château d'Ecouen\" about the lace collection,  published in 1992."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [6.368384429855982,46.116382128621304]},
+  "properties": {
+    "website": "http://www.museedelafemme.fr/page2.html",
+    "name": "Musee de la Femme",
+    "remarks": ",  Faucigny,  France,   Looks like they have a good lace collection. On appointment only."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [3.4116243410027822,50.1251714801029]},
+  "properties": {
+    "website": "https://musee-dentelle.caudry.fr/",
+    "name": "Musée des Dentelles et Broderies Caudry",
+    "remarks": " Place des Mantilles, 59540 Caudry [facebook](https://www.facebook.com/DentelleCaudry)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [2.3330193,48.8632548]},
+  "properties": {
+    "website": "http://www.lesartsdecoratifs.fr/francais/mode-et-textile/",
+    "name": "Les Arts Décoratifs - Mode et textile",
+    "remarks": ",  107 rue de Rivoli,  75001 Paris,  France,  It is located in the Louvre Museum,  Years ago I visited Anne Kraatz there and saw some of the lace collection,  Not sure of the status at this time."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.831371424695475,45.75331513140228]},
+  "properties": {
+    "website": "http://www.mtmad.fr/fr/Pages/default.aspx",
+    "name": "Musée des tissus et des arts décoratifs in",
+    "remarks": " Lyon,  France,  They do have a lace collection,  I find their [regular website](http://www.musee-des-tissus.com/) very difficult to view."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [6.1351507,48.3003076]},
+  "properties": {
+    "website": "http://www.cityvox.fr/musee_mirecourt-88/maison-de-la-dentelle_92553/PhotosLieu",
+    "name": "Maison de la Dentelle",
+    "remarks": ",  Mirecourt,  France"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [8.86991,54.935503]},
+  "properties": {
+    "website": "https://msj.dk/udstillinger/",
+    "name": "The Lace Museum in Tønder is in the Drøhses Hus",
+    "remarks": ",  a museum associated with the Museum Sønder Jylland."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.8973094,58.4480785]},
+  "properties": {
+    "website": "http://www.spetsmuseet.se/",
+    "name": "Vadstena Spetsmuseum",
+    "remarks": ",  Sweden"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [14.347786277213604,55.55626119175183]},
+  "properties": {
+    "website": "https://www.simrishamn.se/kultur-och-fritid/osterlens-museum",
+    "name": "Österlens museums in Skåne",
+    "remarks": ",  Sweden,  They lent lace material to the American Swedish Institute for their Nordic Lace exhibition in 2012-2013."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [21.5112450162186,61.12798355]},
+  "properties": {
+    "website": "https://www.rauma.fi/museo/vanha-raatihuone/",
+    "name": "The Rauma Museum lace collection",
+    "remarks": ",  Rauma,  Finland."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [6.6835022,53.4193202388889]},
+  "properties": {
+    "website": "http://www.museum.nl/museum/Kantmuseum.aspx",
+    "name": "Kantmuseum",
+    "remarks": ",  Uithuizen,   Very little information on this museum on the web."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.39208198912049,50.83933456288292]},
+  "properties": {
+    "website": "http://www.kmkg-mrah.be/closed-galleries",
+    "name": "Musée du Cinquantenaire",
+    "remarks": ",  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.1650708,50.4101573]},
+  "properties": {
+    "website": "http://walloniebelgiquetourisme.be/fr-be/content/centre-de-la-dentelle-et-des-metiers-dart-de-binche-le-fuseau",
+    "name": "Centre de la Dentelle et des Métiers d’ Art de Binche",
+    "remarks": ",  [Le Fuseau](http://www.dentelledebinche.net/)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.4006317,51.2182199]},
+  "properties": {
+    "website": "http://www.momu.be/en.html",
+    "name": "ModeMuseum",
+    "remarks": ",   Antwerp,   It has a large lace collection. Reopens autumn 2020"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.8850584324552,52.3598759]},
+  "properties": {
+    "website": "https://www.rijksmuseum.nl/en/search?v=&s=&q=kloskant&ii=0&p=1",
+    "name": "the Rijksmuseum",
+    "remarks": " Amsterdam,   Search on 'kloskant',   Outstanding collection,  much of which was formed with the aid of Het Kantsalet,  an organization founded in 1925."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [5.3411197665972985,50.223528368970996]},
+  "properties": {
+    "website": "http://dentellesdemarche.be/",
+    "name": "Musée de la Dentelle",
+    "remarks": " Marche-en-Famenne"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.5426311685185,51.0242489]},
+  "properties": {
+    "website": "http://www.kantcentrumbonheiden.be/?plugin=plugin_standaard&menustruktuur_id=84",
+    "name": "Museum Mechelse Kant",
+    "remarks": ",  Kantcentrum,  Sint-Maartensberg,  1,  2820 Rijmenam,  Belgium"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.4046192,51.2212457]},
+  "properties": {
+    "website": "http://www.carolusborromeus.com/index.php?page=de-kantkamer",
+    "name": "Carolus Borromeuskerk",
+    "remarks": ",  Antwerp,  One room is devoted to a lace museum.  [OKV](http://www.tento.be/OKV-artikel/de-kantkamer-van-de-carolus-borromeuskerk-uit-de-ochtendnevel-gesneden) - [Kurella](http://lacecurator.info/collecting-lace/lace-in-belgium-wednesday.html)"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [3.255404,50.8308666]},
+  "properties": {
+    "website": "https://www.texturekortrijk.be/",
+    "name": "Vlasmuseum (Flax Museum) in Kortrijk",
+    "remarks": ",  Belgium,  Closed until mid 2014,  It is moving to a new building in the center of town."
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [2.4006097,41.5537249]},
+  "properties": {
+    "website": "http://puntairesargentona.blogspot.com/2013/01/la-colleccio-de-puntes-dargentona-es.html",
+    "name": "PUNTAIRES D'ARGENTONA: La Col.lecció de Puntaires d'Argentona.",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-3.712558635513266,38.88897708441986]},
+  "properties": {
+    "website": "http://www.almagro.es/museos/museo.htm",
+    "name": "Museo del Encaje y la Blonda",
+    "remarks": " Almagro"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-9.3812344,39.3550089]},
+  "properties": {
+    "website": "http://www.cm-peniche.pt/CustomPages/ShowPage.aspx?pageid=8b428ce8-25d0-402b-9504-74b56df84783",
+    "name": "City Museum &gt; Collections",
+    "remarks": " &gt; Trimmed Lace - Município de Peniche,  Portugal"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-0.9612662,37.6901329]},
+  "properties": {
+    "website": "http://www.regmurcia.com/servlet/s.Sl?sit=c,371,m,1071&r=CeAP-165-PORTADA_CENTRO_AMPLIADO",
+    "name": "Museo Regional del Bolillo",
+    "remarks": ",  La Palma,  Cartagena,  Spain"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-9.18032470368805,43.1302238]},
+  "properties": {
+    "website": "http://www.camarinas.net/turismo/en/index.php?seccion=m_encaixe",
+    "name": "The Lace Museum (Museo do Encaixe) in Camariñas",
+    "remarks": ",  Spain"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-4.9994989,41.5013939]},
+  "properties": {
+    "website": "http://www.museoencaje.com/",
+    "name": "Museo y Centro Didáctico del Encaje de Castilla y León",
+    "remarks": ",  Tordesillas,  Spain"
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-73.9576990287357,40.7842843]},
+  "properties": {
+    "website": "http://collection.cooperhewitt.org/search/?q=lace",
+    "name": "Searchable index at the Cooper Hewitt National Design Museum",
+    "remarks": " Washington DC,  This is a beta test site,  so is a little flaky at the moment."
+  }
 }];
