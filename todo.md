@@ -58,21 +58,21 @@ USA
 UK and Ireland
 -----------------------
 
-* [www](https://www.museum.ie/The-Collections/Art-Industry/Art-Industry-Collections-List/Lace-Collection) **National Museum of Ireland lace collection**,  Especially Irish lace and lace deisgns from mid 19th to mid 20th c.
-* [www](http://www.kenmarelace.ie/?page_id=176) **Kenmare Lace and Design Centre**,  The Square,  Kenmare,  Co,  Kerry,  Ireland.
-* [www](https://sudeleycastle.co.uk//) **Sudeley Castle**,  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles.
-* [www](http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html) **Athelstan Museum**,  Malmesbury lace collection
-* [www](http://www.thebowesmuseum.org.uk/Collections/ExploreTheCollection/ByCollection/FashionandTextiles/Top10FashionTextiles.aspx) **The Bowes Museum**  - houses the Blackborne lace collection.
-* [www](http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/) **Gallery of Costume**,  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment.
-* [www](https://waddesdon.org.uk/the-collection/explore-the-collection/costume-lace-accessories/) **Waddesdon manor lace collection**,  collected by Baroness Edmond de Rothschild.
-* [www](http://www.buckscc.gov.uk/bcc/museum/history_gallery.page) **Buckinghamshire County Museum** - one of the best collections of lace and lacemaking equipment in the country.
-* [www](https://rammcollections.org.uk/?s=lace&post_type=object) **Royal Albert Memorial Museum & Art Gallery**,   The "Duchesse of Albany" Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
-* [www](http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx) **Lace Heritage**,  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation.
+* -6.285779364798226,53.348834529376795 [www](https://www.museum.ie/The-Collections/Art-Industry/Art-Industry-Collections-List/Lace-Collection) **National Museum of Ireland lace collection**,  Especially Irish lace and lace deisgns from mid 19th to mid 20th c.
+* -9.5847224,51.8807489 [www](http://www.kenmarelace.ie/?page_id=176) **Kenmare Lace and Design Centre**,  The Square,  Kenmare,  Co,  Kerry,  Ireland.
+* -1.95642933591386,51.9473749 [www](https://sudeleycastle.co.uk//) **Sudeley Castle**,  Winchcombe,  UK,  They have an excellent lace collection along with other historic textiles.
+* -2.0967983,51.583616 [www](http://www.athelstanmuseum.org.uk/collection_lace_malmesbury.html) **Athelstan Museum**,  Malmesbury lace collection
+* -1.9154819205163,54.54205995 [www](http://www.thebowesmuseum.org.uk/Collections/ExploreTheCollection/ByCollection/FashionandTextiles/Top10FashionTextiles.aspx) **The Bowes Museum**  - houses the Blackborne lace collection.
+* -2.24139425145136,53.47866855 [www](http://www.manchestergalleries.org/our-other-venues/platt-hall-gallery-of-costume/) **Gallery of Costume**,  Manchester Art Gallery,  Extensive collection of lace,  primarily available by appointment.
+* -0.8150469,51.817258 [www](https://www.buckscountymuseum.org/museum/) **Waddesdon manor lace collection**,  collected by Baroness Edmond de Rothschild [archived](https://waddesdon.org.uk/the-collection/explore-the-collection/costume-lace-accessories/).
+* -0.8150469,51.817258 [www](http://www.buckscc.gov.uk/bcc/museum/history_gallery.page) **Buckinghamshire County Museum** - one of the best collections of lace and lacemaking equipment in the country.
+* -3.532039882815029,50.7251523424952 [www](https://rammcollections.org.uk/?s=lace&post_type=object) **Royal Albert Memorial Museum & Art Gallery**,   The "Duchesse of Albany" Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
+* -1.153585405670419,52.958662493815 [www](http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx) **Lace Heritage**,  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation.
 * [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
-* [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
+* -0.2136749881901978,51.496460233616475 [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
 * [www](https://www.culturetrust.com/venues/wardown-house-museum-gallery) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection. [archived](https://web.archive.org/web/20160304170905/https://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) page
-* [www](http://www.cowperandnewtonmuseum.org.uk/lace-making/) **The Cowper and Newton Museum in Olney**,  Buckinghampshire,   Thomas Wright was the first custodian of the museum.
-* [www](http://www.laceguild.demon.co.uk/museum/) **The Lace Guild** - The Lace Guild Museum
+* -0.7008267963896021,52.15247615771748 [www](http://www.cowperandnewtonmuseum.org.uk/lace-making/) **The Cowper and Newton Museum in Olney**,  Buckinghampshire,   Thomas Wright was the first custodian of the museum.
+* -2.1554972214587758,52.47268999979764 [www](https://www.laceguild.org/visiting-the-hollieshttps://www.laceguild.org/visiting-the-hollies) **The Lace Guild** - The Lace Guild Museum
 
 Italy and Malta
 -----------------------
