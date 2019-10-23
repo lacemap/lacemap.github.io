@@ -4,6 +4,7 @@ Copy the coordinates from the search popup (you might need to repeat step 2 to g
 
 ![](assets/search.png)
 
+Perhaps more links to curate from:  http://web.tiscali.it/merlettoitaliano/territorio/pescocostanzo_e.html
 
 
 Pins to curate from [lacenews.net](https://lacenews.net/2016/03/09/administrative-pinterest-maps/) - Lace Museums
@@ -25,35 +26,35 @@ Russia
 -----------------------
 * 38.49762161383901,52.60287938088806 [www](http://www.tripadvisor.com/Attraction_Review-g2540845-d6680459-Reviews-House_Museum_of_Yelets_Lace-Yelets_Lipetsk_Oblast_Central_Russia.html) **House Museum of Yelets Lace**
 * 30.314845980700053,59.93968572832177 [www](https://www.hermitagemuseum.org) **The State Hermitage Museum: Collection Highlights**,  There is lace at the Hermitage,  but it's difficult to find on their website.
-* [www](http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig) **Kukarka Lace** :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum.
-* [www](http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v) **The Sergiev-Posad Museum** 141310 Prospekt Krasnoi Armii 144, Sergiev Posad
+* 49.69483800747652,58.606404272224715 [www](http://russia-ic.com/culture_art/visual_arts/1004/#.UweIFoUZrig) **Kukarka Lace** :: Visual Arts :: Culture & Arts :: Russia-InfoCentre,   Kurkarka (Sovetsk) school for lacemaking (Professional College 28),  and associated museum. From [wikipedia](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BE) Currently  ... lace cooperative “Kukarskoe lace”
+* 38.13314653950487,56.31360861287357 [www](http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/zoloto-serebryanoe-kruzhevo-xvii-nachala-xx-v) **The Sergiev-Posad Museum** 141310 Prospekt Krasnoi Armii 144, Sergiev Posad
 * 30.3337947776176,59.93794215 [www](https://en.wikipedia.org/wiki/Russian_Museum_of_Ethnography) **The Russian Museum of Ethnography**,  They do have a lace collection.
 * 39.8848816427303,59.22382245 [www](http://www.vologdamuseum.ru/content?id=131) **кружевной гербарий (Kremlin Square) 12 Vologda Lace Museum**,  Russia,  Very new facility.
-*  [www](http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712) **Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve**,  Russia, prices up to 2012, news items up to 2015 [vologdamuseum](http://www.vologdamuseum.ru/content?id=59#pic004) the “Lace Fabrics” collection includes more than 4200 items
+* 38.36974576686367,59.85774071379745 [www](http://www.kirmuseum.ru/en/visitor/virtexhibition/detail.php?ID=126712) **Vologda Lace from the Collection of the Kirillo-Belozersky Museum-Reserve**,  Russia, prices up to 2012, news items up to 2015 [vologdamuseum](http://www.vologdamuseum.ru/content?id=59#pic004) the “Lace Fabrics” collection includes more than 4200 items
 
 USA
 -----------------------
-* [www](http://collection.imamuseum.org/results.html?query=lace&page=77) **Indianapolis Museum of Art**,  They have a lace collection,  but no photographs on their search site.
+* -86.1858389057633,39.82596175 [www](http://collection.imamuseum.org/results.html?query=lace&page=77) **Indianapolis Museum of Art**,  They have a lace collection,  but no photographs on their search site.
 * -73.9633157304714,40.6709108 [www](https://www.brooklynmuseum.org/opencollection/tags/lace) **Brooklyn Museum**
 * -72.6730839890199,41.76346815 [www](http://thewadsworth.org/collection/costumeandtextiles/) **Hartford Wadsworth Atheneumm**
 * -71.4085056875,41.8263785 [www](https://risdmuseum.org/art-design/collection?search_api_fulltext=lace&field_on_view=1&field_type=All) **Rhode Island School of Design Museum**
 * -71.0938964010892,42.3394576 [www](http://www.mfa.org/collections/object/lace-47014) **Museum of Fine Arts**,  Boston,  They have a lot but little is photographed.
 * -71.0991546047242,42.3382438 [www](http://www.gardnermuseum.org/collection/artwork/3rd_floor/veronese_room/lace_panel?filter=room:1806) **Isabella Stewart Gardner Museum** : Her collection had over 100 pieces.
-* [www](https://www.artbma.org/collections/textiles.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
-* [www](https://ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
-* [www](https://sbc.edu/museum/collections/) **Sweed Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons "Lace at Sweet Briar" is held there every year.
-* [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
-* [www](http://www.hispanicsociety.org/) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032. [archived](https://web.archive.org/web/20160318002903/http://hispanicsociety.org/hispanic/textiles.htm) page
+* -76.6194946144439,39.32585585 [www](https://www.artbma.org/collections/textiles.html) **Textiles - Baltimore Museum of Art**,  Includes the lace collection of Claribel and Etta Cone,  nearly 400 laces.
+* 1.15072507733578,52.06053845 [www](https://ipswichmuseum.org/) **Ipswich Museum**,  excellent collection from the local Ipswich lace industry, Ipswich,  Massachusetts
+* -79.08174793903451,37.55752245704899 [www](https://sbc.edu/museum/collections/) **Sweet Briar College Museum**,  Houses the lace collection of College founder Indiana Fletcher Williams,  and in 2003 received the Barber-Connin collection,  This is one of the reasons "Lace at Sweet Briar" is held there every year.
+* -73.9576990287357,40.7842843 [www](http://collection.cooperhewitt.org/search/?q=lace) **Searchable index at the Cooper Hewitt National Design Museum** Washington DC,  This is a beta test site,  so is a little flaky at the moment.
+* -73.9466347486007,40.83336025 [www](http://www.hispanicsociety.org/) **Textiles at the Hispanic Society of America**,  They have a collection of lace,  but it is not mentioned on their website,  613 West 155th Street,  New York,  NY 10032. [archived](https://web.archive.org/web/20160318002903/http://hispanicsociety.org/hispanic/textiles.htm) page
 * [www](https://www.egausa.org/index.php/) **00149 Point de Gaze Handkerchief - The Embroiderers' Guild of America permanent collection**,   There is lace in this collection,  however you have to be a member of the guild to fully scope it out.
-* [www](http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx) **Avenir Museum of Design and Merchandising**,  Colorado State University,  the Ruth Payne Hellman lace collection.
-* [www](https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at [facebook](https://www.facebook.com/museodelmundillo)
-* [www](http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/) **Lace from the Oneida Nation Museum**
-* [www](http://www.metmuseum.org/collections/search-the-collections?ft=lace) **Metropolitan Museum of Art** searchable collection index.
-* [www](http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15) **Bertha Collar / The Art Institute of Chicago**,  An important collection,  but very short on photos so far,  [Searchable index](http://www.artic.edu/aic/collections/artwork-search/results/lace).
+* -105.07395076002643,40.56897153047087 [www](http://www.dm.chhs.colostate.edu/museum/avenir-gallery.aspx) **Avenir Museum of Design and Merchandising**,  Colorado State University,  the Ruth Payne Hellman lace collection.
+* -67.11145589007515,18.3942335338268 [www](https://web.archive.org/web/20160304170905/http://www.museodelmundillo.org:80/) **Museo del Mundillo in Moca**,  Puerto Rico,  USA,  Facebook page at [facebook](https://www.facebook.com/museodelmundillo)
+* -88.22833223301814,44.44560186421278 [www](http://wisconsinobject.wordpress.com/2011/03/17/now-online-lace-from-oneida-nation-museum/) **Lace from the Oneida Nation Museum** [archived](https://web.archive.org/web/*/https://oneida-nsn.gov/our-ways/museum/)
+* -73.9633641138519,40.77944365 [www](http://www.metmuseum.org/collections/search-the-collections?ft=lace) **Metropolitan Museum of Art** searchable collection index.
+* -93.0218685,41.3247198 [www](http://www.artic.edu/aic/collections/artwork/3763?search_no=2&index=15) **Bertha Collar / The Art Institute of Chicago**,  An important collection,  but very short on photos so far,  [Searchable index](http://www.artic.edu/aic/collections/artwork-search/results/lace).
 * [www](http://www.flaglermuseum.us/lace-exhibit) **Lace_Exhibit in the Flagler Museum**,  Palm Beach,  Florida.
-* [www](https://collections.artsmia.org/index.php?page=dats) **The Minneapolis Institute of Arts has a ~500 piece collection of lace**,  some of which was shown during the 2012 IOLI convention.
-* [www](http://www.flickr.com/photos/orlacarey/sets/72157623912286524/) **Smithsonian Museum of American History Lace Collection**,  Views of the lace storage room.
-* [www](http://www.clevelandart.org/art/collection/search?collection_search_query=lace&year_operator=1&year=&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-GgyjpNZS_gzW7ZIqO6FkrZYCz7hg-UpNecNH-808-OU&form_id=clevelandart_collection_search_form) **Cleveland Museum of Art**,  Search for 'lace' in their collections.
+* -93.2741525554116,44.95859455 [www](https://collections.artsmia.org/index.php?page=dats) **The Minneapolis Institute of Arts** has a ~500 piece collection of lace,  some of which was shown during the 2012 IOLI convention.
+* -77.0235232,38.8978291 [www](http://www.flickr.com/photos/orlacarey/sets/72157623912286524/) **Smithsonian Museum of American History Lace Collection**,  Views of the lace storage room.
+* -81.6117367219063,41.5090438 [www](http://www.clevelandart.org/art/collection/search?collection_search_query=lace&year_operator=1&year=&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-GgyjpNZS_gzW7ZIqO6FkrZYCz7hg-UpNecNH-808-OU&form_id=clevelandart_collection_search_form) **Cleveland Museum of Art**,  Search for 'lace' in their collections.
 
 UK and Ireland
 -----------------------
@@ -68,15 +69,14 @@ UK and Ireland
 * -0.8150469,51.817258 [www](http://www.buckscc.gov.uk/bcc/museum/history_gallery.page) **Buckinghamshire County Museum** - one of the best collections of lace and lacemaking equipment in the country.
 * -3.532039882815029,50.7251523424952 [www](https://rammcollections.org.uk/?s=lace&post_type=object) **Royal Albert Memorial Museum & Art Gallery**,   The "Duchesse of Albany" Honiton lace flounce designed by Treadwin,   The collection of this museum was featured in the new book about Treadwin.
 * -1.153585405670419,52.958662493815 [www](http://www.ntu.ac.uk/apps/news/94180-15/New_archive_for_University's_historic_lace_collection.aspx) **Lace Heritage**,  School of Art and Design,  Nottingham Trent University.Their Lace Archive includes 75,000 items of lace,  which have been acquired from bequests by local companies and the Nottingham Lace Federation.
-* [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
+* -7.641402471643352,54.296422917999436 [www](http://www.irishlacemuseum.com/) **Sheelin Antique Irish Lace Museum and Shop**,  Ireland
 * -0.2136749881901978,51.496460233616475 [www](http://www.vam.ac.uk/page/c/clothworkers-centre/) **The Victoria and Albert Clothworkers' Centre for the Study and Conservation of Textiles and Fashion**,   Grand opening October 8,  2013,  All the lace formerly in the main V&A building has been moved here.
-* [www](https://www.culturetrust.com/venues/wardown-house-museum-gallery) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection. [archived](https://web.archive.org/web/20160304170905/https://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) page
+* -0.418322641882922,51.89466025 [www](https://www.culturetrust.com/venues/wardown-house-museum-gallery) **Wardown Park Museum**,  formerly the Luton Museum and Art Gallery,  The Threads of Life Gallery was inaugurated in 2012 and displays some of their extensive lace collection. [archived](https://web.archive.org/web/20160304170905/https://www.lutonculture.com/wardown-park-museum/galleries-and-exhibitions/lace/) page
 * -0.7008267963896021,52.15247615771748 [www](http://www.cowperandnewtonmuseum.org.uk/lace-making/) **The Cowper and Newton Museum in Olney**,  Buckinghampshire,   Thomas Wright was the first custodian of the museum.
 * -2.1554972214587758,52.47268999979764 [www](https://www.laceguild.org/visiting-the-hollieshttps://www.laceguild.org/visiting-the-hollies) **The Lace Guild** - The Lace Guild Museum
 
 Italy and Malta
 -----------------------
-See also http://web.tiscali.it/merlettoitaliano/territorio/pescocostanzo_e.html
 
 * 13.6280323,45.9430253 [www](https://musei.regione.fvg.it/index.php?page=it/musei_e_archivi/musei_provinciali_di_gorizia/museo_della_moda_e_delle_arti_applicate/) **Museo della Grande Guerra di Gorizia**,  Dedicated to the first World War,  this museum also has a few rooms dedicated to lacemaking in the area.
 * 12.4815341,41.8963664 [www](http://www.museopalazzovenezia.beniculturali.it/index.php?en/1/home) **National Museum of the Palazzo Venezia**,  Apparently it has an extensive lace collection,  documented in 2014 in "Storie di Abiti e Merletti',  and the collection is in need of restoration,  Not sure how students can access the collection.
@@ -128,7 +128,7 @@ Nordic Countries
 Belgium & the Netherlands
 -----------------------
 * 6.6835022,53.4193202388889 [www](http://www.museum.nl/museum/Kantmuseum.aspx) **Kantmuseum**,  Uithuizen,   Very little information on this museum on the web.
-* [www](http://www.kmkg-mrah.be/closed-galleries) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage.
+* 4.39208198912049,50.83933456288292 [www](http://www.kmkg-mrah.be/closed-galleries) **Musée du Cinquantenaire**,  Koninklijke Musea voor Kunst en Geschiedenis,  Brussels,  The Salle van Overloop is now closed (as in 2016 so in 2019),  but the magnificent lace collection remains in storage.
 * 4.1650708,50.4101573 [www](http://walloniebelgiquetourisme.be/fr-be/content/centre-de-la-dentelle-et-des-metiers-dart-de-binche-le-fuseau) **Centre de la Dentelle et des Métiers d’ Art de Binche**,  [Le Fuseau](http://www.dentelledebinche.net/)
 * 4.4006317,51.2182199 [www](http://www.momu.be/en.html) **ModeMuseum**,   Antwerp,   It has a large lace collection. Reopens autumn 2020
 * 4.8850584324552,52.3598759 [www](https://www.rijksmuseum.nl/en/search?v=&s=&q=kloskant&ii=0&p=1) **the Rijksmuseum** Amsterdam,   Search on 'kloskant',   Outstanding collection,  much of which was formed with the aid of Het Kantsalet,  an organization founded in 1925.
