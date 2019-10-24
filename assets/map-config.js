@@ -16,6 +16,9 @@ laceMap.load = function (args) {
       layer.addTo(clusterGroup)
     }
   });
+  clusterGroup.on('clusterclick', function (a) {
+    a.layer.zoomToBounds({padding: [0, 10]});
+  });
 
   L.Control.geocoder({
     geocoder: L.Control.Geocoder.nominatim(),
