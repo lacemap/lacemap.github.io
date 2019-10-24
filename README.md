@@ -5,7 +5,10 @@ Points of interest related to handmade lace
 
 A map to share on websites of lace guilds, teachers, artists and collectors.
 Anyone can contribute, a team of volunteers moderates it centrally.
+The map originally appeared on the LOKK website (the national Dutch lace guild) as schown by thi [archived] version.
+When google discntinued or changed its serviced, the map moved to an open source platform.
 
+[archived]: https://web.archive.org/web/20130628175904/https://www.lokk.nl/musea/
 
 Get involved
 ============
