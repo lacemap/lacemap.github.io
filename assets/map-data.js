@@ -1240,4 +1240,12 @@ var laceMapData = [{
     "name": "Searchable index at the Cooper Hewitt National Design Museum",
     "remarks": "Washington DC,  This is a beta test site,  so is a little flaky at the moment."
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [171.2438771726011,-44.1083318237502]},
+  "properties": {
+    "website": "https://www.nzmuseums.co.nz/collections/3280/lillias-lace-museum",
+    "name": "Lillia's Lace Museum",
+    "remarks": "An <a href='https://web.archive.org/web/20181130021829/http://homepages.paradise.net.nz/flaxland/textile%20art/Lillia's%20lace%20museum.htm'>archived</a> report by Jean Hall"
+  }
 }];
