@@ -1248,4 +1248,13 @@ var laceMapData = [{
     "name": "Lillia's Lace Museum",
     "remarks": "An <a href='https://web.archive.org/web/20181130021829/http://homepages.paradise.net.nz/flaxland/textile%20art/Lillia's%20lace%20museum.htm'>archived</a> report by Jean Hall"
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [8.7028964,49.4113671]},
+  "properties": {
+    "website": "https://www.museum-heidelberg.de/pb/Startseite/Sammlung/Textilsammlung++Max+Berk.html",
+    "address": "97, Hauptstraße, Altstadt, Heidelberg",
+    "name": "Kurpfälzisches (Palatinate) Museum",
+    "remarks": "In the summer of 2019 at least a few showcases next to the room with historical costumes. See also <a href='https://en.wikipedia.org/wiki/Kurpf%C3%A4lzisches_Museum'>wikipedia</a>."
+  }
 }];
