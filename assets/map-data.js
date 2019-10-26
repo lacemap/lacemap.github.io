@@ -1257,4 +1257,22 @@ var laceMapData = [{
     "name": "Kurpfälzisches (Palatinate) Museum",
     "remarks": "In the summer of 2019 at least a few showcases next to the room with historical costumes. See also <a href='https://en.wikipedia.org/wiki/Kurpf%C3%A4lzisches_Museum'>wikipedia</a>."
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [1.60735084886684,41.2688554]},
+  "properties": {
+    "website": "https://ca.wikipedia.org/wiki/Monument_a_la_puntaire_de_l%27Arbo%C3%A7",
+    "address": "Torre de Bellesguard, l'Arboç",
+    "name": "Monument a la puntaire de l'Arboç",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [3.2523763,45.5437538]},
+  "properties": {
+    "website": "http://petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=63178_8",
+    "address": "Square René Cassin, Issoire,",
+    "name": "La dentellière à Issoire",
+    "remarks": ""
+  }
 }];
