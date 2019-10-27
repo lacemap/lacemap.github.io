@@ -1271,8 +1271,26 @@ var laceMapData = [{
   "geometry": { "type": "Point", "coordinates": [3.2523763,45.5437538]},
   "properties": {
     "website": "http://petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=63178_8",
-    "address": "Square René Cassin, Issoire,",
+    "address": "Square René Cassin, Issoire",
     "name": "La dentellière à Issoire",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.921002022963801,44.64816224683095]},
+  "properties": {
+    "website": "http://www.museicivici.modena.it/en/collections/art-museum-collections",
+    "address": "Musei Civici",
+    "name": "Raccolta Gandini",
+    "remarks": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [12.1389481,43.5703374]},
+  "properties": {
+    "website": "https://www.merlettoitaliano.it/sansepolcro--ar----spazio-adele-e-gina-marcelli.html",
+    "address": "Spazio Adele e Ginna Marcelli",
+    "name": "Via Luca Pacioli, 7 - 52037 Sansepolcro",
     "remarks": ""
   }
 }];
