@@ -2,7 +2,7 @@ var laceMap = {}
 
 laceMap.load = function (args) {
   var clHeight = document.getElementById("map").clientHeight;
-  if (! args.bounds) args.bounds = [[72,-170],[-60,190]];
+  if (! args.bounds) args.bounds = [[75,-166],[-54,180]];
   if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
 
   var map = L.map(args.containerID).fitBounds(args.bounds)
