@@ -1293,4 +1293,13 @@ var laceMapData = [{
     "name": "Via Luca Pacioli, 7 - 52037 Sansepolcro",
     "remarks": ""
   }
+},{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [4.067222,45.4236428]},
+  "properties": {
+    "website": "http://forezhistoire.free.fr/beates.html",
+    "name": "stained glass window",
+    "address": "Rue du Cénacle, 42380 Saint-Bonnet-le-Château, Frankrijk",
+    "remarks": ""
+  }
 }];
