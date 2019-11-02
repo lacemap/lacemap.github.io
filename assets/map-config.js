@@ -6,6 +6,8 @@ laceMap.load = function (args) {
   if (! args.xyPrompt) args.xyPrompt = 'You clicked the map at:';
 
   var map = L.map(args.containerID).fitBounds(args.bounds)
+  L.control.scale().addTo(map);
+  laceMap.addSearch(map)
   laceMap.addTiles(map)
   laceMap.addPopUp(map, args.xyPrompt)
 
@@ -14,12 +16,21 @@ laceMap.load = function (args) {
     onEachFeature: function (feature, layer) {
       layer.bindPopup(laceMap.popupContent(feature.properties));
       layer.addTo(clusterGroup)
+      var c = feature.geometry.coordinates
+      L.circle([c[1],c[0]], laceMap.circleProperties).addTo(map);
     }
   });
   clusterGroup.on('clusterclick', function (a) {
     a.layer.zoomToBounds({padding: [0, 10]});
   });
-
+}
+laceMap.circleProperties = {
+    color: 'red',
+    fillColor: '#f03',
+    fillOpacity: 0.2,
+    radius: 500
+}
+laceMap.addSearch = function (map) {
   L.Control.geocoder({
     geocoder: L.Control.Geocoder.nominatim(),
     placeholder: "Search with Nominatim...",
