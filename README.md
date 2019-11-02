@@ -37,8 +37,8 @@ The master lace map is deployed at http://lacemap.github.io/
 * Further down between the settings choose the `master branch` as [publishing source].
 
 With the assumptions above, 
-you should now have a map in English at `https://my-org.hithub.io/lace-map`
-and a Dutch version at  `https://my-org.hithub.io/lace-map/NL`.
+you should now have a map in English at `https://my-org.github.io/lace-map`
+and a Dutch version at  `https://my-org.github.io/lace-map/NL`.
 Github explains how to configure your own domain on the same settings page.
 
 Now wait for updates that come as pull request messages
@@ -92,13 +92,19 @@ Please extend the attribution with:
     'Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a> contributors'
 
 Note the [terms] of use for the provider of your choice. 
-[OSM] requires a cache of 7 days, that is 604.800 seconds, 
-github's `cache-control` header is set to only `max-age=525010`.
-A French variant allows only "marginal" traffic, whatever that may be.
-
 The default settled for an alternative that gives German labels along the local labels,
 [allowed] only for non commercial use.
 
+[OSM] requires a cache of 7 days, that is 604.800 seconds, 
+github's `cache-control` header is set to only `max-age=525010`.
+A French variant allows only "marginal" traffic, whatever that may be.
+A service that requires an api-key would disable the "_Just a customised address_" option.
+Note that these [estimates] may mean that one or two unique visitors per day
+may mean some 1K tile requests per month.
+Visitors returning within the caching period might or might not cause new tiles requests,
+depending on their zooming and panning behaviour.
+
+[estimates]: https://www.thunderforest.com/pricing/
 [allowed]: https://www.openstreetmap.de/germanstyle.html
 [OSM]: https://operations.osmfoundation.org/policies/tiles/
 [terms]: https://wiki.openstreetmap.org/wiki/Tile_servers

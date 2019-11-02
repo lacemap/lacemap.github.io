@@ -26,8 +26,8 @@ laceMap.load = function (args) {
 }
 laceMap.circleProperties = {
     color: 'red',
-    fillColor: '#f03',
-    fillOpacity: 0.2,
+    stroke: true,
+    weight: 1.5,
     radius: 500
 }
 laceMap.addSearch = function (map) {
