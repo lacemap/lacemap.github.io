@@ -27,8 +27,8 @@ laceMap.load = function (args) {
 laceMap.circleProperties = {
     color: 'red',
     stroke: true,
-    weight: 1.5,
-    radius: 500
+    weight: 2,
+    radius: 5
 }
 laceMap.addSearch = function (map) {
   L.Control.geocoder({
@@ -53,11 +53,14 @@ laceMap.addTiles = function (map) {
                     '| Points &copy; <a href="https://github.com/lacemap/lacemap.github.io/" target="_top">lacemap</a> contributors'
     }).addTo(map);
 }
+laceMap.toLink = function (url) {
+  return `<br><a href="${url}" target="_blank">www</a>&nbsp;-&nbsp;<a href="https://translate.google.com/translate?u=${url}" target="_blank">&#1488;&#8660;A</a>`
+}
 laceMap.popupContent = function (props) {
   var result = ""
   result += props.name ? "<strong>" + props.name + "</strong>" : ""
   result += props.address ? "<br><em>" + props.address + "</em>" : ""
-  result += props.website ? " <a href='" + props.website + "' target='_blank'>www</a>; <a href='https://translate.google.com/translate?u=" + props.website + "' target='_blank'>&#1488;>A</a>." : ""
+  result += props.website ? props.website.map(laceMap.toLink) : ""
   result += props.remarks ? "<br>" + props.remarks : ""
   return result
 }
