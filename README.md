@@ -24,7 +24,7 @@ On the other hand it increases the burden on maintenance.
 
 Deploy your own copy of the map
 ===============================
-Various options allow to deploy your own copy of the map and stay in sync or not.
+Various options allow to deploy your own copy of the map and stay (partially) in sync or not.
 Just two methods are sketched below.
 Please note the [terms of use](#tile-service) for the tile server you choose: 
 requiring an account, payed or not, allowing commercial use or not etc.
@@ -53,7 +53,8 @@ After merging, you can check at `https://github.com/my-org/lace-map/deployments`
 
 Copy all assets
 ---------------
-This approach assumes some knowledge of HTML an JavaScript
+This allows your own selection of entries on the map and other variations.
+It assumes some knowledge of HTML and JavaScript
 and the right to deploy custom JavaScript on your website.
 * Extract `assets` plus `index.html` and/or `NL.html` out of the [download]. 
 * Open  the `.html` page(s) with your favorite (plain text) editor.
@@ -67,7 +68,10 @@ and the right to deploy custom JavaScript on your website.
           laceMap.load({ containerID: 'map' });
       </script>
 
-* Note that the map `<div>` needs a predefined size. This is defined in the head section with a percentage of the viewport (`vh` / `vw`).
+* Note that the map `<div>` needs a predefined size.
+  The initial fixed size limits the number of tile requests. 
+  The subsequent max values (with viewport percentages: `vh` / `vw`) is for smaller devices.
+  The max-width for the attribution leaves some space fot the scale control on smaller devices.
 * Open the `.html` page(s) in a browser and the map should show.
 * Subscribe (at least) to the [history] of `assets/map-config.js` to get notified of new/changed entries.
   Replace the raw content of a changed file to get up to date.
