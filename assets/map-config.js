@@ -57,7 +57,7 @@ laceMap.popupContent = function (props) {
   var result = ""
   result += props.name ? "<strong>" + props.name + "</strong>" : ""
   result += props.address ? "<br><em>" + props.address + "</em>" : ""
-  result += props.website ? " <a href='" + props.website + "'>www</a>" : ""
+  result += props.website ? " <a href='" + props.website + "' target='_blank'>www</a>; <a href='https://translate.google.com/translate?u=" + props.website + "' target='_blank'>&#1488;>A</a>." : ""
   result += props.remarks ? "<br>" + props.remarks : ""
   return result
 }
