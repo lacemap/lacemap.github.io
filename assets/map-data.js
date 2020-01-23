@@ -479,7 +479,7 @@ var laceMapData = [{
   properties: {
     name: "Pierre Fouché Sculptures",
     address: "2nd floor, 39 Hope Street, Cape Town, 8001",
-    website: ["http://www.pierrefouche.net"],
+    website: ["http://www.pierrefouche.net", "https://artthrob.co.za/2015/03/23/wound_thread/"],
     remarks: ""
   }
 },{
@@ -1323,5 +1323,41 @@ var laceMapData = [{
     name: "stained glass window",
     address: "Rue du Cénacle, 42380 Saint-Bonnet-le-Château, Frankrijk",
     remarks: ""
+  }
+},{
+  type: "Feature",
+  geometry: { type: "Point", coordinates: [27.990473270547227,-26.150664492547218]},
+  properties: {
+    website: ["https://witslaceguild.weebly.com/", "https://witwatersrandlaceguild.weebly.com/"],
+    name: "The Witwatersrand Lace Guild",
+    address: "Roosevelt Park Recreation centre, Johannesburg",
+    remarks: "2nd Saturday of each month"
+  }
+},{
+  type: "Feature",
+  geometry: { type: "Point", coordinates: [28.0599517,-26.2035757]},
+  properties: {
+    website: ["https://www.kimlieberman.com"],
+    name: "Kim Lieberman",
+    address: "Studio 19, Arts on Main, Maboneng Precinct, Johannesburg",
+    remarks: ""
+  }
+},{
+  type: "Feature",
+  geometry: { type: "Point", coordinates: [27.896675348347348,-26.082072787423034]},
+  properties: {
+    website: ["https://web.archive.org/web/20180307041809/http://thelaceplace.co.za/"],
+    name: "The lace place",
+    address: "Plot 36 Glover Road, Alsef ext 1, Honeydew, Gauteng 2040",
+    remarks: "lacemaking supplier"
+  }
+},{
+  type: "Feature",
+  geometry: { type: "Point", coordinates: [18.64270021207631,-34.162196950761924]},
+  properties: {
+    website: ["https://capelaceguild-blog.tumblr.com"],
+    name: "Cape Lace Guild",
+    address: "The Hernus Kriel Centre, 6 Bedford street, Parow, Cape Town",
+    remarks: "first Saturday of the month"
   }
 }];
