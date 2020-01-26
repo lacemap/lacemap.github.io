@@ -1364,7 +1364,7 @@ var laceMapData = [{
   type: "Feature",
   geometry: { type: "Point", coordinates: [20.942179441517514,49.70807902058218]},
   properties: {
-    website: ["https://web.archive.org/web/20160816180431/http://blog.polishorigins.com:80/2014/12/17/bobbin-lace-making-workshop/"],
+    website: ["http://ck.bobowa.pl/galeria-koronki-klockowej"],
     name: "Lace maker fountain",
     address: "",
     remarks: ""
