@@ -1360,4 +1360,13 @@ var laceMapData = [{
     address: "The Hernus Kriel Centre, 6 Bedford street, Parow, Cape Town",
     remarks: "first Saturday of the month"
   }
+},{
+  type: "Feature",
+  geometry: { type: "Point", coordinates: [20.942179441517514,49.70807902058218]},
+  properties: {
+    website: ["https://web.archive.org/web/20160816180431/http://blog.polishorigins.com:80/2014/12/17/bobbin-lace-making-workshop/"],
+    name: "Lace maker fountain",
+    address: "",
+    remarks: ""
+  }
 }];
