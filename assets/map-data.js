@@ -1353,7 +1353,7 @@ var laceMapData = [{
   }
 },{
   type: "Feature",
-  geometry: { type: "Point", coordinates: [18.64270021207631,-34.162196950761924]},
+  geometry: { type: "Point", coordinates: [18.585962891611416,-33.90512327123607]},
   properties: {
     website: ["https://capelaceguild-blog.tumblr.com"],
     name: "Cape Lace Guild",
