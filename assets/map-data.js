@@ -1362,6 +1362,15 @@ var laceMapData = [{
   }
 },{
   type: "Feature",
+  geometry: { type: "Point", coordinates: [26.208344936239886,-29.14174090711388]},
+  properties: {
+    website: ["https://en.wikipedia.org/wiki/National_Women%27s_Monument", "http://emilyhobhouse.weebly.com/"],
+    name: "National Women's Monument",
+    address: "Bloemfontein, South Africa",
+    remarks: "Depicts Emily Hobhouse who brought needle lace to South Africa during/after the Anglo-Boer war."
+  }
+},{
+  type: "Feature",
   geometry: { type: "Point", coordinates: [20.942179441517514,49.70807902058218]},
   properties: {
     website: ["http://ck.bobowa.pl/galeria-koronki-klockowej"],
